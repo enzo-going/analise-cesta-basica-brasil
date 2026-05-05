@@ -1,0 +1,1729 @@
+﻿mes_ano,valor_original,cidade,metrica,valor_minutos
+01-1989,154h45m,São Paulo,horas_trabalho,9285.0
+02-1989,176h22m,São Paulo,horas_trabalho,10582.0
+03-1989,194h21m,São Paulo,horas_trabalho,11661.0
+04-1989,207h03m,São Paulo,horas_trabalho,12423.0
+05-1989,197h01m,São Paulo,horas_trabalho,11821.0
+06-1989,183h27m,São Paulo,horas_trabalho,11007.0
+07-1989,165h45m,São Paulo,horas_trabalho,9945.0
+08-1989,175h05m,São Paulo,horas_trabalho,10505.0
+09-1989,171h59m,São Paulo,horas_trabalho,10319.0
+10-1989,138h05m,São Paulo,horas_trabalho,8285.0
+11-1989,143h42m,São Paulo,horas_trabalho,8622.0
+12-1989,148h18m,São Paulo,horas_trabalho,8898.0
+01-1990,182h08m,São Paulo,horas_trabalho,10928.0
+02-1990,170h20m,São Paulo,horas_trabalho,10220.0
+03-1990,168h56m,São Paulo,horas_trabalho,10136.0
+04-1990,185h52m,São Paulo,horas_trabalho,11152.0
+05-1990,213h17m,São Paulo,horas_trabalho,12797.0
+06-1990,235h50m,São Paulo,horas_trabalho,14150.0
+07-1990,213h05m,São Paulo,horas_trabalho,12785.0
+08-1990,222h41m,São Paulo,horas_trabalho,13361.0
+09-1990,224h50m,São Paulo,horas_trabalho,13490.0
+10-1990,234h14m,São Paulo,horas_trabalho,14054.0
+11-1990,192h06m,São Paulo,horas_trabalho,11526.0
+12-1990,196h34m,São Paulo,horas_trabalho,11794.0
+01-1991,176h55m,São Paulo,horas_trabalho,10615.0
+02-1991,165h18m,São Paulo,horas_trabalho,9918.0
+03-1991,163h54m,São Paulo,horas_trabalho,9834.0
+04-1991,166h30m,São Paulo,horas_trabalho,9990.0
+05-1991,145h38m,São Paulo,horas_trabalho,8738.0
+06-1991,150h50m,São Paulo,horas_trabalho,9050.0
+07-1991,175h05m,São Paulo,horas_trabalho,10505.0
+08-1991,130h35m,São Paulo,horas_trabalho,7835.0
+09-1991,128h53m,São Paulo,horas_trabalho,7733.0
+10-1991,172h47m,São Paulo,horas_trabalho,10367.0
+11-1991,220h47m,São Paulo,horas_trabalho,13247.0
+12-1991,177h11m,São Paulo,horas_trabalho,10631.0
+01-1992,143h38m,São Paulo,horas_trabalho,8618.0
+02-1992,166h13m,São Paulo,horas_trabalho,9973.0
+03-1992,203h52m,São Paulo,horas_trabalho,12232.0
+04-1992,253h45m,São Paulo,horas_trabalho,15225.0
+05-1992,126h34m,São Paulo,horas_trabalho,7594.0
+06-1992,151h17m,São Paulo,horas_trabalho,9077.0
+07-1992,187h46m,São Paulo,horas_trabalho,11266.0
+08-1992,251h06m,São Paulo,horas_trabalho,15066.0
+09-1992,143h22m,São Paulo,horas_trabalho,8602.0
+10-1992,175h01m,São Paulo,horas_trabalho,10501.0
+11-1992,205h07m,São Paulo,horas_trabalho,12307.0
+12-1992,250h57m,São Paulo,horas_trabalho,15057.0
+01-1993,136h14m,São Paulo,horas_trabalho,8174.0
+02-1993,169h17m,São Paulo,horas_trabalho,10157.0
+03-1993,158h00m,São Paulo,horas_trabalho,9480.0
+04-1993,228h58m,São Paulo,horas_trabalho,13738.0
+05-1993,147h53m,São Paulo,horas_trabalho,8873.0
+06-1993,189h17m,São Paulo,horas_trabalho,11357.0
+07-1993,163h42m,São Paulo,horas_trabalho,9822.0
+08-1993,194h07m,São Paulo,horas_trabalho,11647.0
+09-1993,145h11m,São Paulo,horas_trabalho,8711.0
+10-1993,154h45m,São Paulo,horas_trabalho,9285.0
+11-1993,174h47m,São Paulo,horas_trabalho,10487.0
+12-1993,198h48m,São Paulo,horas_trabalho,11928.0
+01-1994,169h03m,São Paulo,horas_trabalho,10143.0
+02-1994,182h29m,São Paulo,horas_trabalho,10949.0
+03-1994,199h21m,São Paulo,horas_trabalho,11961.0
+04-1994,201h55m,São Paulo,horas_trabalho,12115.0
+05-1994,177h22m,São Paulo,horas_trabalho,10642.0
+06-1994,183h26m,São Paulo,horas_trabalho,11006.0
+07-1994,228h51m,São Paulo,horas_trabalho,13731.0
+08-1994,262h53m,São Paulo,horas_trabalho,15773.0
+09-1994,262h12m,São Paulo,horas_trabalho,15732.0
+10-1994,279h05m,São Paulo,horas_trabalho,16745.0
+11-1994,280h31m,São Paulo,horas_trabalho,16831.0
+12-1994,274h44m,São Paulo,horas_trabalho,16484.0
+01-1995,224h41m,São Paulo,horas_trabalho,13481.0
+02-1995,263h20m,São Paulo,horas_trabalho,15800.0
+03-1995,278h38m,São Paulo,horas_trabalho,16718.0
+04-1995,306h21m,São Paulo,horas_trabalho,18381.0
+05-1995,203h44m,São Paulo,horas_trabalho,12224.0
+06-1995,194h03m,São Paulo,horas_trabalho,11643.0
+07-1995,192h36m,São Paulo,horas_trabalho,11556.0
+08-1995,190h56m,São Paulo,horas_trabalho,11456.0
+09-1995,187h34m,São Paulo,horas_trabalho,11254.0
+10-1995,192h30m,São Paulo,horas_trabalho,11550.0
+11-1995,195h53m,São Paulo,horas_trabalho,11753.0
+12-1995,201h20m,São Paulo,horas_trabalho,12080.0
+01-1996,203h39m,São Paulo,horas_trabalho,12219.0
+02-1996,206h17m,São Paulo,horas_trabalho,12377.0
+03-1996,201h37m,São Paulo,horas_trabalho,12097.0
+04-1996,204h33m,São Paulo,horas_trabalho,12273.0
+05-1996,188h55m,São Paulo,horas_trabalho,11335.0
+06-1996,189h14m,São Paulo,horas_trabalho,11354.0
+07-1996,192h28m,São Paulo,horas_trabalho,11548.0
+08-1996,191h02m,São Paulo,horas_trabalho,11462.0
+09-1996,190h25m,São Paulo,horas_trabalho,11425.0
+10-1996,189h15m,São Paulo,horas_trabalho,11355.0
+11-1996,185h44m,São Paulo,horas_trabalho,11144.0
+12-1996,181h58m,São Paulo,horas_trabalho,10918.0
+01-1997,181h04m,São Paulo,horas_trabalho,10864.0
+02-1997,184h13m,São Paulo,horas_trabalho,11053.0
+03-1997,198h37m,São Paulo,horas_trabalho,11917.0
+04-1997,201h56m,São Paulo,horas_trabalho,12116.0
+05-1997,179h08m,São Paulo,horas_trabalho,10748.0
+06-1997,172h25m,São Paulo,horas_trabalho,10345.0
+07-1997,168h07m,São Paulo,horas_trabalho,10087.0
+08-1997,167h40m,São Paulo,horas_trabalho,10060.0
+09-1997,167h05m,São Paulo,horas_trabalho,10025.0
+10-1997,172h20m,São Paulo,horas_trabalho,10340.0
+11-1997,173h49m,São Paulo,horas_trabalho,10429.0
+12-1997,180h15m,São Paulo,horas_trabalho,10815.0
+01-1998,183h21m,São Paulo,horas_trabalho,11001.0
+02-1998,182h41m,São Paulo,horas_trabalho,10961.0
+03-1998,186h56m,São Paulo,horas_trabalho,11216.0
+04-1998,194h53m,São Paulo,horas_trabalho,11693.0
+05-1998,189h46m,São Paulo,horas_trabalho,11386.0
+06-1998,188h38m,São Paulo,horas_trabalho,11318.0
+07-1998,177h49m,São Paulo,horas_trabalho,10669.0
+08-1998,171h39m,São Paulo,horas_trabalho,10299.0
+09-1998,170h07m,São Paulo,horas_trabalho,10207.0
+10-1998,173h26m,São Paulo,horas_trabalho,10406.0
+11-1998,172h12m,São Paulo,horas_trabalho,10332.0
+12-1998,172h46m,São Paulo,horas_trabalho,10366.0
+01-1999,177h27m,São Paulo,horas_trabalho,10647.0
+02-1999,180h39m,São Paulo,horas_trabalho,10839.0
+03-1999,179h51m,São Paulo,horas_trabalho,10791.0
+04-1999,176h54m,São Paulo,horas_trabalho,10614.0
+05-1999,169h55m,São Paulo,horas_trabalho,10195.0
+06-1999,168h14m,São Paulo,horas_trabalho,10094.0
+07-1999,166h40m,São Paulo,horas_trabalho,10000.0
+08-1999,171h50m,São Paulo,horas_trabalho,10310.0
+09-1999,174h58m,São Paulo,horas_trabalho,10498.0
+10-1999,179h44m,São Paulo,horas_trabalho,10784.0
+11-1999,181h01m,São Paulo,horas_trabalho,10861.0
+12-1999,181h06m,São Paulo,horas_trabalho,10866.0
+01-2000,181h31m,São Paulo,horas_trabalho,10891.0
+02-2000,179h14m,São Paulo,horas_trabalho,10754.0
+03-2000,186h14m,São Paulo,horas_trabalho,11174.0
+04-2000,170h01m,São Paulo,horas_trabalho,10201.0
+05-2000,162h51m,São Paulo,horas_trabalho,9771.0
+06-2000,159h27m,São Paulo,horas_trabalho,9567.0
+07-2000,162h21m,São Paulo,horas_trabalho,9741.0
+08-2000,167h00m,São Paulo,horas_trabalho,10020.0
+09-2000,174h03m,São Paulo,horas_trabalho,10443.0
+10-2000,178h38m,São Paulo,horas_trabalho,10718.0
+11-2000,177h10m,São Paulo,horas_trabalho,10630.0
+12-2000,174h09m,São Paulo,horas_trabalho,10449.0
+01-2001,179h43m,São Paulo,horas_trabalho,10783.0
+02-2001,179h51m,São Paulo,horas_trabalho,10791.0
+03-2001,181h46m,São Paulo,horas_trabalho,10906.0
+04-2001,158h16m,São Paulo,horas_trabalho,9496.0
+05-2001,158h37m,São Paulo,horas_trabalho,9517.0
+06-2001,155h56m,São Paulo,horas_trabalho,9356.0
+07-2001,153h37m,São Paulo,horas_trabalho,9217.0
+08-2001,154h29m,São Paulo,horas_trabalho,9269.0
+09-2001,152h47m,São Paulo,horas_trabalho,9167.0
+10-2001,152h47m,São Paulo,horas_trabalho,9167.0
+11-2001,155h34m,São Paulo,horas_trabalho,9334.0
+12-2001,157h11m,São Paulo,horas_trabalho,9431.0
+01-2002,157h55m,São Paulo,horas_trabalho,9475.0
+02-2002,157h13m,São Paulo,horas_trabalho,9433.0
+03-2002,158h45m,São Paulo,horas_trabalho,9525.0
+04-2002,145h27m,São Paulo,horas_trabalho,8727.0
+05-2002,142h11m,São Paulo,horas_trabalho,8531.0
+06-2002,144h39m,São Paulo,horas_trabalho,8679.0
+07-2002,148h06m,São Paulo,horas_trabalho,8886.0
+08-2002,152h07m,São Paulo,horas_trabalho,9127.0
+09-2002,154h30m,São Paulo,horas_trabalho,9270.0
+10-2002,156h20m,São Paulo,horas_trabalho,9380.0
+11-2002,170h13m,São Paulo,horas_trabalho,10213.0
+12-2002,174h36m,São Paulo,horas_trabalho,10476.0
+01-2003,179h04m,São Paulo,horas_trabalho,10744.0
+02-2003,183h12m,São Paulo,horas_trabalho,10992.0
+03-2003,192h03m,São Paulo,horas_trabalho,11523.0
+04-2003,169h57m,São Paulo,horas_trabalho,10197.0
+05-2003,161h17m,São Paulo,horas_trabalho,9677.0
+06-2003,155h07m,São Paulo,horas_trabalho,9307.0
+07-2003,148h38m,São Paulo,horas_trabalho,8918.0
+08-2003,145h09m,São Paulo,horas_trabalho,8709.0
+09-2003,148h00m,São Paulo,horas_trabalho,8880.0
+10-2003,149h02m,São Paulo,horas_trabalho,8942.0
+11-2003,149h55m,São Paulo,horas_trabalho,8995.0
+12-2003,151h03m,São Paulo,horas_trabalho,9063.0
+01-2004,156h47m,São Paulo,horas_trabalho,9407.0
+02-2004,153h05m,São Paulo,horas_trabalho,9185.0
+03-2004,153h03m,São Paulo,horas_trabalho,9183.0
+04-2004,151h15m,São Paulo,horas_trabalho,9075.0
+05-2004,142h44m,São Paulo,horas_trabalho,8564.0
+06-2004,148h00m,São Paulo,horas_trabalho,8880.0
+07-2004,147h11m,São Paulo,horas_trabalho,8831.0
+08-2004,154h13m,São Paulo,horas_trabalho,9253.0
+09-2004,150h56m,São Paulo,horas_trabalho,9056.0
+10-2004,149h53m,São Paulo,horas_trabalho,8993.0
+11-2004,144h45m,São Paulo,horas_trabalho,8685.0
+12-2004,145h42m,São Paulo,horas_trabalho,8742.0
+01-2005,146h16m,São Paulo,horas_trabalho,8776.0
+02-2005,148h07m,São Paulo,horas_trabalho,8887.0
+03-2005,148h49m,São Paulo,horas_trabalho,8929.0
+04-2005,153h06m,São Paulo,horas_trabalho,9186.0
+05-2005,138h20m,São Paulo,horas_trabalho,8300.0
+06-2005,134h18m,São Paulo,horas_trabalho,8058.0
+07-2005,130h42m,São Paulo,horas_trabalho,7842.0
+08-2005,128h25m,São Paulo,horas_trabalho,7705.0
+09-2005,126h23m,São Paulo,horas_trabalho,7583.0
+10-2005,128h10m,São Paulo,horas_trabalho,7690.0
+11-2005,135h25m,São Paulo,horas_trabalho,8125.0
+12-2005,134h31m,São Paulo,horas_trabalho,8071.0
+01-2006,130h08m,São Paulo,horas_trabalho,7808.0
+02-2006,128h44m,São Paulo,horas_trabalho,7724.0
+03-2006,130h00m,São Paulo,horas_trabalho,7800.0
+04-2006,115h00m,São Paulo,horas_trabalho,6900.0
+05-2006,112h30m,São Paulo,horas_trabalho,6750.0
+06-2006,108h19m,São Paulo,horas_trabalho,6499.0
+07-2006,107h10m,São Paulo,horas_trabalho,6430.0
+08-2006,106h37m,São Paulo,horas_trabalho,6397.0
+09-2006,108h11m,São Paulo,horas_trabalho,6491.0
+10-2006,112h59m,São Paulo,horas_trabalho,6779.0
+11-2006,116h28m,São Paulo,horas_trabalho,6988.0
+12-2006,114h26m,São Paulo,horas_trabalho,6866.0
+01-2007,116h07m,São Paulo,horas_trabalho,6967.0
+02-2007,116h53m,São Paulo,horas_trabalho,7013.0
+03-2007,121h14m,São Paulo,horas_trabalho,7274.0
+04-2007,109h18m,São Paulo,horas_trabalho,6558.0
+05-2007,107h04m,São Paulo,horas_trabalho,6424.0
+06-2007,108h31m,São Paulo,horas_trabalho,6511.0
+07-2007,108h15m,São Paulo,horas_trabalho,6495.0
+08-2007,111h46m,São Paulo,horas_trabalho,6706.0
+09-2007,112h31m,São Paulo,horas_trabalho,6751.0
+10-2007,116h31m,São Paulo,horas_trabalho,6991.0
+11-2007,118h58m,São Paulo,horas_trabalho,7138.0
+12-2007,124h16m,São Paulo,horas_trabalho,7456.0
+01-2008,132h38m,São Paulo,horas_trabalho,7958.0
+02-2008,130h57m,São Paulo,horas_trabalho,7857.0
+03-2008,118h43m,São Paulo,horas_trabalho,7123.0
+04-2008,120h46m,São Paulo,horas_trabalho,7246.0
+05-2008,124h00m,São Paulo,horas_trabalho,7440.0
+06-2008,130h00m,São Paulo,horas_trabalho,7800.0
+07-2008,133h40m,São Paulo,horas_trabalho,8020.0
+08-2008,127h50m,São Paulo,horas_trabalho,7670.0
+09-2008,124h25m,São Paulo,horas_trabalho,7465.0
+10-2008,126h15m,São Paulo,horas_trabalho,7575.0
+11-2008,126h31m,São Paulo,horas_trabalho,7591.0
+12-2008,126h58m,São Paulo,horas_trabalho,7618.0
+01-2009,128h02m,São Paulo,horas_trabalho,7682.0
+02-2009,112h17m,São Paulo,horas_trabalho,6737.0
+03-2009,104h59m,São Paulo,horas_trabalho,6299.0
+04-2009,106h45m,São Paulo,horas_trabalho,6405.0
+05-2009,107h34m,São Paulo,horas_trabalho,6454.0
+06-2009,107h55m,São Paulo,horas_trabalho,6475.0
+07-2009,107h29m,São Paulo,horas_trabalho,6449.0
+08-2009,106h47m,São Paulo,horas_trabalho,6407.0
+09-2009,108h46m,São Paulo,horas_trabalho,6526.0
+10-2009,108h50m,São Paulo,horas_trabalho,6530.0
+11-2009,111h11m,São Paulo,horas_trabalho,6671.0
+12-2009,107h58m,São Paulo,horas_trabalho,6478.0
+01-2010,97h04m,São Paulo,horas_trabalho,5824.0
+02-2010,99h04m,São Paulo,horas_trabalho,5944.0
+03-2010,109h27m,São Paulo,horas_trabalho,6567.0
+04-2010,112h45m,São Paulo,horas_trabalho,6765.0
+05-2010,110h34m,São Paulo,horas_trabalho,6634.0
+06-2010,107h26m,São Paulo,horas_trabalho,6446.0
+07-2010,103h16m,São Paulo,horas_trabalho,6196.0
+08-2010,101h39m,São Paulo,horas_trabalho,6099.0
+09-2010,104h00m,São Paulo,horas_trabalho,6240.0
+10-2010,109h29m,São Paulo,horas_trabalho,6569.0
+11-2010,114h09m,São Paulo,horas_trabalho,6849.0
+12-2010,114h23m,São Paulo,horas_trabalho,6863.0
+01-2011,106h26m,São Paulo,horas_trabalho,6386.0
+02-2011,106h24m,São Paulo,horas_trabalho,6384.0
+03-2011,108h01m,São Paulo,horas_trabalho,6481.0
+04-2011,108h24m,São Paulo,horas_trabalho,6504.0
+05-2011,110h12m,São Paulo,horas_trabalho,6612.0
+06-2011,110h24m,São Paulo,horas_trabalho,6624.0
+07-2011,106h19m,São Paulo,horas_trabalho,6379.0
+08-2011,107h41m,São Paulo,horas_trabalho,6461.0
+09-2011,107h51m,São Paulo,horas_trabalho,6471.0
+10-2011,107h46m,São Paulo,horas_trabalho,6466.0
+11-2011,111h32m,São Paulo,horas_trabalho,6692.0
+12-2011,111h56m,São Paulo,horas_trabalho,6716.0
+01-2012,101h00m,São Paulo,horas_trabalho,6060.0
+02-2012,97h49m,São Paulo,horas_trabalho,5869.0
+03-2012,96h39m,São Paulo,horas_trabalho,5799.0
+04-2012,98h04m,São Paulo,horas_trabalho,5884.0
+05-2012,100h20m,São Paulo,horas_trabalho,6020.0
+06-2012,101h44m,São Paulo,horas_trabalho,6104.0
+07-2012,105h54m,São Paulo,horas_trabalho,6354.0
+08-2012,108h14m,São Paulo,horas_trabalho,6494.0
+09-2012,109h19m,São Paulo,horas_trabalho,6559.0
+10-2012,110h12m,São Paulo,horas_trabalho,6612.0
+11-2012,105h51m,São Paulo,horas_trabalho,6351.0
+12-2012,107h51m,São Paulo,horas_trabalho,6471.0
+01-2013,103h19m,São Paulo,horas_trabalho,6199.0
+02-2013,105h58m,São Paulo,horas_trabalho,6358.0
+03-2013,109h07m,São Paulo,horas_trabalho,6547.0
+04-2013,111h43m,São Paulo,horas_trabalho,6703.0
+05-2013,110h59m,São Paulo,horas_trabalho,6659.0
+06-2013,110h28m,São Paulo,horas_trabalho,6628.0
+07-2013,106h15m,São Paulo,horas_trabalho,6375.0
+08-2013,103h43m,São Paulo,horas_trabalho,6223.0
+09-2013,101h16m,São Paulo,horas_trabalho,6076.0
+10-2013,104h12m,São Paulo,horas_trabalho,6252.0
+11-2013,105h38m,São Paulo,horas_trabalho,6338.0
+12-2013,106h11m,São Paulo,horas_trabalho,6371.0
+01-2014,98h18m,São Paulo,horas_trabalho,5898.0
+02-2014,98h52m,São Paulo,horas_trabalho,5932.0
+03-2014,106h48m,São Paulo,horas_trabalho,6408.0
+04-2014,108h44m,São Paulo,horas_trabalho,6524.0
+05-2014,111h23m,São Paulo,horas_trabalho,6683.0
+06-2014,107h46m,São Paulo,horas_trabalho,6466.0
+07-2014,104h58m,São Paulo,horas_trabalho,6298.0
+08-2014,102h39m,São Paulo,horas_trabalho,6159.0
+09-2014,101h13m,São Paulo,horas_trabalho,6073.0
+10-2014,103h38m,São Paulo,horas_trabalho,6218.0
+11-2014,105h44m,São Paulo,horas_trabalho,6344.0
+12-2014,107h38m,São Paulo,horas_trabalho,6458.0
+01-2015,103h38m,São Paulo,horas_trabalho,6218.0
+02-2015,105h46m,São Paulo,horas_trabalho,6346.0
+03-2015,105h55m,São Paulo,horas_trabalho,6355.0
+04-2015,108h04m,São Paulo,horas_trabalho,6484.0
+05-2015,112h15m,São Paulo,horas_trabalho,6735.0
+06-2015,109h39m,São Paulo,horas_trabalho,6579.0
+07-2015,110h31m,São Paulo,horas_trabalho,6631.0
+08-2015,107h47m,São Paulo,horas_trabalho,6467.0
+09-2015,106h59m,São Paulo,horas_trabalho,6419.0
+10-2015,106h41m,São Paulo,horas_trabalho,6401.0
+11-2015,111h27m,São Paulo,horas_trabalho,6687.0
+12-2015,115h04m,São Paulo,horas_trabalho,6904.0
+01-2016,112h05m,São Paulo,horas_trabalho,6725.0
+02-2016,110h53m,São Paulo,horas_trabalho,6653.0
+03-2016,111h02m,São Paulo,horas_trabalho,6662.0
+04-2016,110h36m,São Paulo,horas_trabalho,6636.0
+05-2016,112h26m,São Paulo,horas_trabalho,6746.0
+06-2016,117h16m,São Paulo,horas_trabalho,7036.0
+07-2016,118h49m,São Paulo,horas_trabalho,7129.0
+08-2016,118h47m,São Paulo,horas_trabalho,7127.0
+09-2016,117h53m,São Paulo,horas_trabalho,7073.0
+10-2016,117h23m,São Paulo,horas_trabalho,7043.0
+11-2016,112h36m,São Paulo,horas_trabalho,6756.0
+12-2016,109h43m,São Paulo,horas_trabalho,6583.0
+01-2017,102h20m,São Paulo,horas_trabalho,6140.0
+02-2017,100h04m,São Paulo,horas_trabalho,6004.0
+03-2017,102h13m,São Paulo,horas_trabalho,6133.0
+04-2017,104h47m,São Paulo,horas_trabalho,6287.0
+05-2017,107h45m,São Paulo,horas_trabalho,6465.0
+06-2017,103h41m,São Paulo,horas_trabalho,6221.0
+07-2017,104h41m,São Paulo,horas_trabalho,6281.0
+08-2017,101h21m,São Paulo,horas_trabalho,6081.0
+09-2017,98h51m,São Paulo,horas_trabalho,5931.0
+10-2017,100h31m,São Paulo,horas_trabalho,6031.0
+11-2017,99h22m,São Paulo,horas_trabalho,5962.0
+12-2017,99h38m,São Paulo,horas_trabalho,5978.0
+01-2018,101h17m,São Paulo,horas_trabalho,6077.0
+02-2018,100h51m,São Paulo,horas_trabalho,6051.0
+03-2018,100h58m,São Paulo,horas_trabalho,6058.0
+04-2018,100h16m,São Paulo,horas_trabalho,6016.0
+05-2018,101h44m,São Paulo,horas_trabalho,6104.0
+06-2018,104h09m,São Paulo,horas_trabalho,6249.0
+07-2018,100h52m,São Paulo,horas_trabalho,6052.0
+08-2018,99h49m,São Paulo,horas_trabalho,5989.0
+09-2018,99h49m,São Paulo,horas_trabalho,5989.0
+10-2018,102h52m,São Paulo,horas_trabalho,6172.0
+11-2018,108h42m,São Paulo,horas_trabalho,6522.0
+12-2018,108h43m,São Paulo,horas_trabalho,6523.0
+01-2019,103h05m,São Paulo,horas_trabalho,6185.0
+02-2019,106h20m,São Paulo,horas_trabalho,6380.0
+03-2019,112h14m,São Paulo,horas_trabalho,6734.0
+04-2019,115h05m,São Paulo,horas_trabalho,6905.0
+05-2019,111h47m,São Paulo,horas_trabalho,6707.0
+06-2019,110h35m,São Paulo,horas_trabalho,6635.0
+07-2019,108h43m,São Paulo,horas_trabalho,6523.0
+08-2019,106h08m,São Paulo,horas_trabalho,6368.0
+09-2019,104h28m,São Paulo,horas_trabalho,6268.0
+10-2019,104h24m,São Paulo,horas_trabalho,6264.0
+11-2019,102h41m,São Paulo,horas_trabalho,6161.0
+12-2019,111h39m,São Paulo,horas_trabalho,6699.0
+01-2020,109h35m,São Paulo,horas_trabalho,6575.0
+02-2020,109h25m,São Paulo,horas_trabalho,6565.0
+03-2020,109h10m,São Paulo,horas_trabalho,6550.0
+04-2020,117h07m,São Paulo,horas_trabalho,7027.0
+05-2020,117h08m,São Paulo,horas_trabalho,7028.0
+06-2020,115h10m,São Paulo,horas_trabalho,6910.0
+07-2020,110h28m,São Paulo,horas_trabalho,6628.0
+08-2020,113h40m,São Paulo,horas_trabalho,6820.0
+09-2020,118h36m,São Paulo,horas_trabalho,7116.0
+10-2020,125h27m,São Paulo,horas_trabalho,7527.0
+11-2020,132h28m,São Paulo,horas_trabalho,7948.0
+12-2020,132h56m,São Paulo,horas_trabalho,7976.0
+01-2021,130h50m,São Paulo,horas_trabalho,7850.0
+02-2021,127h53m,São Paulo,horas_trabalho,7673.0
+03-2021,125h12m,São Paulo,horas_trabalho,7512.0
+04-2021,126h31m,São Paulo,horas_trabalho,7591.0
+05-2021,127h17m,São Paulo,horas_trabalho,7637.0
+06-2021,125h21m,São Paulo,horas_trabalho,7521.0
+07-2021,128h06m,São Paulo,horas_trabalho,7686.0
+08-2021,130h06m,São Paulo,horas_trabalho,7806.0
+09-2021,134h41m,São Paulo,horas_trabalho,8081.0
+10-2021,138h46m,São Paulo,horas_trabalho,8326.0
+11-2021,138h27m,São Paulo,horas_trabalho,8307.0
+12-2021,138h06m,São Paulo,horas_trabalho,8286.0
+01-2022,129h35m,São Paulo,horas_trabalho,7775.0
+02-2022,129h54m,São Paulo,horas_trabalho,7794.0
+03-2022,138h10m,São Paulo,horas_trabalho,8290.0
+04-2022,145h56m,São Paulo,horas_trabalho,8756.0
+05-2022,141h13m,São Paulo,horas_trabalho,8473.0
+06-2022,141h02m,São Paulo,horas_trabalho,8462.0
+07-2022,138h02m,São Paulo,horas_trabalho,8282.0
+08-2022,136h06m,São Paulo,horas_trabalho,8166.0
+09-2022,136h16m,São Paulo,horas_trabalho,8176.0
+10-2022,138h21m,São Paulo,horas_trabalho,8301.0
+11-2022,142h04m,São Paulo,horas_trabalho,8524.0
+12-2022,143h38m,São Paulo,horas_trabalho,8618.0
+01-2023,133h35m,São Paulo,horas_trabalho,8015.0
+02-2023,131h41m,São Paulo,horas_trabalho,7901.0
+03-2023,132h10m,São Paulo,horas_trabalho,7930.0
+04-2023,134h17m,São Paulo,horas_trabalho,8057.0
+05-2023,131h58m,São Paulo,horas_trabalho,7918.0
+06-2023,130h31m,São Paulo,horas_trabalho,7831.0
+07-2023,128h20m,São Paulo,horas_trabalho,7700.0
+08-2023,124h45m,São Paulo,horas_trabalho,7485.0
+09-2023,122h28m,São Paulo,horas_trabalho,7348.0
+10-2023,123h01m,São Paulo,horas_trabalho,7381.0
+11-2023,124h53m,São Paulo,horas_trabalho,7493.0
+12-2023,126h50m,São Paulo,horas_trabalho,7610.0
+01-2024,123h37m,São Paulo,horas_trabalho,7417.0
+02-2024,125h57m,São Paulo,horas_trabalho,7557.0
+03-2024,126h43m,São Paulo,horas_trabalho,7603.0
+04-2024,128h12m,São Paulo,horas_trabalho,7692.0
+05-2024,128h50m,São Paulo,horas_trabalho,7730.0
+06-2024,129h44m,São Paulo,horas_trabalho,7784.0
+07-2024,126h10m,São Paulo,horas_trabalho,7570.0
+08-2024,122h31m,São Paulo,horas_trabalho,7351.0
+09-2024,123h28m,São Paulo,horas_trabalho,7408.0
+10-2024,125h34m,São Paulo,horas_trabalho,7534.0
+11-2024,129h04m,São Paulo,horas_trabalho,7744.0
+12-2024,131h05m,São Paulo,horas_trabalho,7865.0
+01-1989,145h04m,Belo Horizonte,horas_trabalho,8704.0
+02-1989,175h35m,Belo Horizonte,horas_trabalho,10535.0
+03-1989,190h09m,Belo Horizonte,horas_trabalho,11409.0
+04-1989,192h15m,Belo Horizonte,horas_trabalho,11535.0
+05-1989,188h04m,Belo Horizonte,horas_trabalho,11284.0
+06-1989,180h44m,Belo Horizonte,horas_trabalho,10844.0
+07-1989,168h20m,Belo Horizonte,horas_trabalho,10100.0
+08-1989,178h28m,Belo Horizonte,horas_trabalho,10708.0
+09-1989,171h26m,Belo Horizonte,horas_trabalho,10286.0
+10-1989,136h32m,Belo Horizonte,horas_trabalho,8192.0
+11-1989,145h51m,Belo Horizonte,horas_trabalho,8751.0
+12-1989,153h14m,Belo Horizonte,horas_trabalho,9194.0
+01-1990,177h40m,Belo Horizonte,horas_trabalho,10660.0
+02-1990,168h34m,Belo Horizonte,horas_trabalho,10114.0
+03-1990,178h03m,Belo Horizonte,horas_trabalho,10683.0
+04-1990,188h16m,Belo Horizonte,horas_trabalho,11296.0
+05-1990,207h11m,Belo Horizonte,horas_trabalho,12431.0
+06-1990,248h26m,Belo Horizonte,horas_trabalho,14906.0
+07-1990,209h17m,Belo Horizonte,horas_trabalho,12557.0
+08-1990,224h09m,Belo Horizonte,horas_trabalho,13449.0
+09-1990,224h20m,Belo Horizonte,horas_trabalho,13460.0
+10-1990,222h48m,Belo Horizonte,horas_trabalho,13368.0
+11-1990,188h10m,Belo Horizonte,horas_trabalho,11290.0
+12-1990,192h19m,Belo Horizonte,horas_trabalho,11539.0
+01-1991,181h48m,Belo Horizonte,horas_trabalho,10908.0
+02-1991,159h58m,Belo Horizonte,horas_trabalho,9598.0
+03-1991,157h21m,Belo Horizonte,horas_trabalho,9441.0
+04-1991,162h50m,Belo Horizonte,horas_trabalho,9770.0
+05-1991,141h35m,Belo Horizonte,horas_trabalho,8495.0
+06-1991,144h05m,Belo Horizonte,horas_trabalho,8645.0
+07-1991,169h14m,Belo Horizonte,horas_trabalho,10154.0
+08-1991,123h45m,Belo Horizonte,horas_trabalho,7425.0
+09-1991,119h41m,Belo Horizonte,horas_trabalho,7181.0
+10-1991,160h28m,Belo Horizonte,horas_trabalho,9628.0
+11-1991,206h18m,Belo Horizonte,horas_trabalho,12378.0
+12-1991,164h19m,Belo Horizonte,horas_trabalho,9859.0
+01-1992,143h42m,Belo Horizonte,horas_trabalho,8622.0
+02-1992,173h49m,Belo Horizonte,horas_trabalho,10429.0
+03-1992,203h52m,Belo Horizonte,horas_trabalho,12232.0
+04-1992,238h15m,Belo Horizonte,horas_trabalho,14295.0
+05-1992,123h13m,Belo Horizonte,horas_trabalho,7393.0
+06-1992,141h56m,Belo Horizonte,horas_trabalho,8516.0
+07-1992,178h51m,Belo Horizonte,horas_trabalho,10731.0
+08-1992,237h58m,Belo Horizonte,horas_trabalho,14278.0
+09-1992,131h26m,Belo Horizonte,horas_trabalho,7886.0
+10-1992,163h55m,Belo Horizonte,horas_trabalho,9835.0
+11-1992,194h33m,Belo Horizonte,horas_trabalho,11673.0
+12-1992,239h52m,Belo Horizonte,horas_trabalho,14392.0
+01-1993,135h48m,Belo Horizonte,horas_trabalho,8148.0
+02-1993,162h39m,Belo Horizonte,horas_trabalho,9759.0
+03-1993,149h45m,Belo Horizonte,horas_trabalho,8985.0
+04-1993,205h30m,Belo Horizonte,horas_trabalho,12330.0
+05-1993,137h51m,Belo Horizonte,horas_trabalho,8271.0
+06-1993,176h56m,Belo Horizonte,horas_trabalho,10616.0
+07-1993,158h55m,Belo Horizonte,horas_trabalho,9535.0
+08-1993,180h43m,Belo Horizonte,horas_trabalho,10843.0
+09-1993,138h14m,Belo Horizonte,horas_trabalho,8294.0
+10-1993,149h24m,Belo Horizonte,horas_trabalho,8964.0
+11-1993,165h19m,Belo Horizonte,horas_trabalho,9919.0
+12-1993,197h47m,Belo Horizonte,horas_trabalho,11867.0
+01-1994,168h21m,Belo Horizonte,horas_trabalho,10101.0
+02-1994,179h29m,Belo Horizonte,horas_trabalho,10769.0
+03-1994,206h31m,Belo Horizonte,horas_trabalho,12391.0
+04-1994,202h12m,Belo Horizonte,horas_trabalho,12132.0
+05-1994,180h35m,Belo Horizonte,horas_trabalho,10835.0
+06-1994,183h28m,Belo Horizonte,horas_trabalho,11008.0
+07-1994,232h48m,Belo Horizonte,horas_trabalho,13968.0
+08-1994,237h51m,Belo Horizonte,horas_trabalho,14271.0
+09-1994,243h49m,Belo Horizonte,horas_trabalho,14629.0
+10-1994,255h00m,Belo Horizonte,horas_trabalho,15300.0
+11-1994,257h39m,Belo Horizonte,horas_trabalho,15459.0
+12-1994,256h10m,Belo Horizonte,horas_trabalho,15370.0
+01-1995,208h08m,Belo Horizonte,horas_trabalho,12488.0
+02-1995,237h54m,Belo Horizonte,horas_trabalho,14274.0
+03-1995,246h52m,Belo Horizonte,horas_trabalho,14812.0
+04-1995,262h10m,Belo Horizonte,horas_trabalho,15730.0
+05-1995,187h44m,Belo Horizonte,horas_trabalho,11264.0
+06-1995,175h44m,Belo Horizonte,horas_trabalho,10544.0
+07-1995,164h25m,Belo Horizonte,horas_trabalho,9865.0
+08-1995,165h25m,Belo Horizonte,horas_trabalho,9925.0
+09-1995,164h25m,Belo Horizonte,horas_trabalho,9865.0
+10-1995,167h31m,Belo Horizonte,horas_trabalho,10051.0
+11-1995,174h21m,Belo Horizonte,horas_trabalho,10461.0
+12-1995,178h26m,Belo Horizonte,horas_trabalho,10706.0
+01-1996,186h58m,Belo Horizonte,horas_trabalho,11218.0
+02-1996,187h56m,Belo Horizonte,horas_trabalho,11276.0
+03-1996,184h26m,Belo Horizonte,horas_trabalho,11066.0
+04-1996,186h41m,Belo Horizonte,horas_trabalho,11201.0
+05-1996,172h04m,Belo Horizonte,horas_trabalho,10324.0
+06-1996,172h25m,Belo Horizonte,horas_trabalho,10345.0
+07-1996,172h57m,Belo Horizonte,horas_trabalho,10377.0
+08-1996,171h57m,Belo Horizonte,horas_trabalho,10317.0
+09-1996,168h45m,Belo Horizonte,horas_trabalho,10125.0
+10-1996,173h11m,Belo Horizonte,horas_trabalho,10391.0
+11-1996,175h51m,Belo Horizonte,horas_trabalho,10551.0
+12-1996,168h35m,Belo Horizonte,horas_trabalho,10115.0
+01-1997,170h21m,Belo Horizonte,horas_trabalho,10221.0
+02-1997,174h23m,Belo Horizonte,horas_trabalho,10463.0
+03-1997,180h32m,Belo Horizonte,horas_trabalho,10832.0
+04-1997,179h48m,Belo Horizonte,horas_trabalho,10788.0
+05-1997,161h55m,Belo Horizonte,horas_trabalho,9715.0
+06-1997,156h42m,Belo Horizonte,horas_trabalho,9402.0
+07-1997,154h15m,Belo Horizonte,horas_trabalho,9255.0
+08-1997,158h43m,Belo Horizonte,horas_trabalho,9523.0
+09-1997,154h55m,Belo Horizonte,horas_trabalho,9295.0
+10-1997,153h54m,Belo Horizonte,horas_trabalho,9234.0
+11-1997,156h54m,Belo Horizonte,horas_trabalho,9414.0
+12-1997,167h26m,Belo Horizonte,horas_trabalho,10046.0
+01-1998,174h28m,Belo Horizonte,horas_trabalho,10468.0
+02-1998,173h17m,Belo Horizonte,horas_trabalho,10397.0
+03-1998,173h46m,Belo Horizonte,horas_trabalho,10426.0
+04-1998,179h01m,Belo Horizonte,horas_trabalho,10741.0
+05-1998,174h30m,Belo Horizonte,horas_trabalho,10470.0
+06-1998,168h52m,Belo Horizonte,horas_trabalho,10132.0
+07-1998,157h39m,Belo Horizonte,horas_trabalho,9459.0
+08-1998,155h32m,Belo Horizonte,horas_trabalho,9332.0
+09-1998,153h18m,Belo Horizonte,horas_trabalho,9198.0
+10-1998,156h12m,Belo Horizonte,horas_trabalho,9372.0
+11-1998,154h05m,Belo Horizonte,horas_trabalho,9245.0
+12-1998,158h21m,Belo Horizonte,horas_trabalho,9501.0
+01-1999,161h42m,Belo Horizonte,horas_trabalho,9702.0
+02-1999,169h40m,Belo Horizonte,horas_trabalho,10180.0
+03-1999,166h32m,Belo Horizonte,horas_trabalho,9992.0
+04-1999,164h43m,Belo Horizonte,horas_trabalho,9883.0
+05-1999,156h21m,Belo Horizonte,horas_trabalho,9381.0
+06-1999,152h55m,Belo Horizonte,horas_trabalho,9175.0
+07-1999,152h13m,Belo Horizonte,horas_trabalho,9133.0
+08-1999,159h20m,Belo Horizonte,horas_trabalho,9560.0
+09-1999,157h01m,Belo Horizonte,horas_trabalho,9421.0
+10-1999,163h02m,Belo Horizonte,horas_trabalho,9782.0
+11-1999,168h05m,Belo Horizonte,horas_trabalho,10085.0
+12-1999,159h14m,Belo Horizonte,horas_trabalho,9554.0
+01-2000,168h43m,Belo Horizonte,horas_trabalho,10123.0
+02-2000,173h44m,Belo Horizonte,horas_trabalho,10424.0
+03-2000,179h14m,Belo Horizonte,horas_trabalho,10754.0
+04-2000,161h44m,Belo Horizonte,horas_trabalho,9704.0
+05-2000,150h28m,Belo Horizonte,horas_trabalho,9028.0
+06-2000,145h25m,Belo Horizonte,horas_trabalho,8725.0
+07-2000,152h24m,Belo Horizonte,horas_trabalho,9144.0
+08-2000,155h18m,Belo Horizonte,horas_trabalho,9318.0
+09-2000,160h19m,Belo Horizonte,horas_trabalho,9619.0
+10-2000,165h26m,Belo Horizonte,horas_trabalho,9926.0
+11-2000,167h52m,Belo Horizonte,horas_trabalho,10072.0
+12-2000,161h54m,Belo Horizonte,horas_trabalho,9714.0
+01-2001,171h15m,Belo Horizonte,horas_trabalho,10275.0
+02-2001,172h35m,Belo Horizonte,horas_trabalho,10355.0
+03-2001,173h08m,Belo Horizonte,horas_trabalho,10388.0
+04-2001,155h41m,Belo Horizonte,horas_trabalho,9341.0
+05-2001,151h13m,Belo Horizonte,horas_trabalho,9073.0
+06-2001,141h40m,Belo Horizonte,horas_trabalho,8500.0
+07-2001,142h34m,Belo Horizonte,horas_trabalho,8554.0
+08-2001,139h05m,Belo Horizonte,horas_trabalho,8345.0
+09-2001,140h38m,Belo Horizonte,horas_trabalho,8438.0
+10-2001,145h23m,Belo Horizonte,horas_trabalho,8723.0
+11-2001,145h46m,Belo Horizonte,horas_trabalho,8746.0
+12-2001,147h55m,Belo Horizonte,horas_trabalho,8875.0
+01-2002,148h37m,Belo Horizonte,horas_trabalho,8917.0
+02-2002,144h28m,Belo Horizonte,horas_trabalho,8668.0
+03-2002,142h00m,Belo Horizonte,horas_trabalho,8520.0
+04-2002,130h05m,Belo Horizonte,horas_trabalho,7805.0
+05-2002,128h37m,Belo Horizonte,horas_trabalho,7717.0
+06-2002,130h25m,Belo Horizonte,horas_trabalho,7825.0
+07-2002,134h07m,Belo Horizonte,horas_trabalho,8047.0
+08-2002,135h36m,Belo Horizonte,horas_trabalho,8136.0
+09-2002,147h30m,Belo Horizonte,horas_trabalho,8850.0
+10-2002,146h44m,Belo Horizonte,horas_trabalho,8804.0
+11-2002,158h52m,Belo Horizonte,horas_trabalho,9532.0
+12-2002,166h02m,Belo Horizonte,horas_trabalho,9962.0
+01-2003,165h35m,Belo Horizonte,horas_trabalho,9935.0
+02-2003,168h59m,Belo Horizonte,horas_trabalho,10139.0
+03-2003,180h08m,Belo Horizonte,horas_trabalho,10808.0
+04-2003,153h57m,Belo Horizonte,horas_trabalho,9237.0
+05-2003,147h36m,Belo Horizonte,horas_trabalho,8856.0
+06-2003,139h35m,Belo Horizonte,horas_trabalho,8375.0
+07-2003,132h25m,Belo Horizonte,horas_trabalho,7945.0
+08-2003,130h01m,Belo Horizonte,horas_trabalho,7801.0
+09-2003,134h38m,Belo Horizonte,horas_trabalho,8078.0
+10-2003,136h08m,Belo Horizonte,horas_trabalho,8168.0
+11-2003,139h07m,Belo Horizonte,horas_trabalho,8347.0
+12-2003,138h02m,Belo Horizonte,horas_trabalho,8282.0
+01-2004,145h41m,Belo Horizonte,horas_trabalho,8741.0
+02-2004,143h15m,Belo Horizonte,horas_trabalho,8595.0
+03-2004,141h38m,Belo Horizonte,horas_trabalho,8498.0
+04-2004,140h33m,Belo Horizonte,horas_trabalho,8433.0
+05-2004,136h49m,Belo Horizonte,horas_trabalho,8209.0
+06-2004,140h33m,Belo Horizonte,horas_trabalho,8433.0
+07-2004,143h30m,Belo Horizonte,horas_trabalho,8610.0
+08-2004,149h06m,Belo Horizonte,horas_trabalho,8946.0
+09-2004,140h30m,Belo Horizonte,horas_trabalho,8430.0
+10-2004,142h48m,Belo Horizonte,horas_trabalho,8568.0
+11-2004,131h59m,Belo Horizonte,horas_trabalho,7919.0
+12-2004,128h51m,Belo Horizonte,horas_trabalho,7731.0
+01-2005,127h24m,Belo Horizonte,horas_trabalho,7644.0
+02-2005,127h45m,Belo Horizonte,horas_trabalho,7665.0
+03-2005,133h15m,Belo Horizonte,horas_trabalho,7995.0
+04-2005,141h57m,Belo Horizonte,horas_trabalho,8517.0
+05-2005,132h16m,Belo Horizonte,horas_trabalho,7936.0
+06-2005,123h15m,Belo Horizonte,horas_trabalho,7395.0
+07-2005,120h54m,Belo Horizonte,horas_trabalho,7254.0
+08-2005,117h13m,Belo Horizonte,horas_trabalho,7033.0
+09-2005,113h39m,Belo Horizonte,horas_trabalho,6819.0
+10-2005,115h34m,Belo Horizonte,horas_trabalho,6934.0
+11-2005,126h20m,Belo Horizonte,horas_trabalho,7580.0
+12-2005,129h43m,Belo Horizonte,horas_trabalho,7783.0
+01-2006,123h56m,Belo Horizonte,horas_trabalho,7436.0
+02-2006,119h21m,Belo Horizonte,horas_trabalho,7161.0
+03-2006,120h59m,Belo Horizonte,horas_trabalho,7259.0
+04-2006,107h00m,Belo Horizonte,horas_trabalho,6420.0
+05-2006,103h56m,Belo Horizonte,horas_trabalho,6236.0
+06-2006,100h33m,Belo Horizonte,horas_trabalho,6033.0
+07-2006,98h32m,Belo Horizonte,horas_trabalho,5912.0
+08-2006,100h43m,Belo Horizonte,horas_trabalho,6043.0
+09-2006,101h18m,Belo Horizonte,horas_trabalho,6078.0
+10-2006,108h17m,Belo Horizonte,horas_trabalho,6497.0
+11-2006,112h40m,Belo Horizonte,horas_trabalho,6760.0
+12-2006,107h48m,Belo Horizonte,horas_trabalho,6468.0
+01-2007,110h47m,Belo Horizonte,horas_trabalho,6647.0
+02-2007,116h31m,Belo Horizonte,horas_trabalho,6991.0
+03-2007,119h30m,Belo Horizonte,horas_trabalho,7170.0
+04-2007,101h51m,Belo Horizonte,horas_trabalho,6111.0
+05-2007,96h58m,Belo Horizonte,horas_trabalho,5818.0
+06-2007,96h00m,Belo Horizonte,horas_trabalho,5760.0
+07-2007,94h00m,Belo Horizonte,horas_trabalho,5640.0
+08-2007,101h39m,Belo Horizonte,horas_trabalho,6099.0
+09-2007,104h32m,Belo Horizonte,horas_trabalho,6272.0
+10-2007,108h08m,Belo Horizonte,horas_trabalho,6488.0
+11-2007,112h21m,Belo Horizonte,horas_trabalho,6741.0
+12-2007,118h34m,Belo Horizonte,horas_trabalho,7114.0
+01-2008,125h30m,Belo Horizonte,horas_trabalho,7530.0
+02-2008,119h30m,Belo Horizonte,horas_trabalho,7170.0
+03-2008,113h10m,Belo Horizonte,horas_trabalho,6790.0
+04-2008,121h02m,Belo Horizonte,horas_trabalho,7262.0
+05-2008,122h13m,Belo Horizonte,horas_trabalho,7333.0
+06-2008,125h07m,Belo Horizonte,horas_trabalho,7507.0
+07-2008,130h57m,Belo Horizonte,horas_trabalho,7857.0
+08-2008,122h36m,Belo Horizonte,horas_trabalho,7356.0
+09-2008,117h08m,Belo Horizonte,horas_trabalho,7028.0
+10-2008,118h04m,Belo Horizonte,horas_trabalho,7084.0
+11-2008,119h29m,Belo Horizonte,horas_trabalho,7169.0
+12-2008,122h04m,Belo Horizonte,horas_trabalho,7324.0
+01-2009,123h00m,Belo Horizonte,horas_trabalho,7380.0
+02-2009,102h48m,Belo Horizonte,horas_trabalho,6168.0
+03-2009,97h44m,Belo Horizonte,horas_trabalho,5864.0
+04-2009,101h30m,Belo Horizonte,horas_trabalho,6090.0
+05-2009,102h14m,Belo Horizonte,horas_trabalho,6134.0
+06-2009,103h13m,Belo Horizonte,horas_trabalho,6193.0
+07-2009,101h30m,Belo Horizonte,horas_trabalho,6090.0
+08-2009,101h01m,Belo Horizonte,horas_trabalho,6061.0
+09-2009,101h55m,Belo Horizonte,horas_trabalho,6115.0
+10-2009,104h20m,Belo Horizonte,horas_trabalho,6260.0
+11-2009,106h36m,Belo Horizonte,horas_trabalho,6396.0
+12-2009,101h14m,Belo Horizonte,horas_trabalho,6074.0
+01-2010,88h44m,Belo Horizonte,horas_trabalho,5324.0
+02-2010,93h24m,Belo Horizonte,horas_trabalho,5604.0
+03-2010,96h47m,Belo Horizonte,horas_trabalho,5807.0
+04-2010,103h07m,Belo Horizonte,horas_trabalho,6187.0
+05-2010,103h44m,Belo Horizonte,horas_trabalho,6224.0
+06-2010,99h53m,Belo Horizonte,horas_trabalho,5993.0
+07-2010,94h02m,Belo Horizonte,horas_trabalho,5642.0
+08-2010,92h14m,Belo Horizonte,horas_trabalho,5534.0
+09-2010,93h54m,Belo Horizonte,horas_trabalho,5634.0
+10-2010,99h04m,Belo Horizonte,horas_trabalho,5944.0
+11-2010,101h44m,Belo Horizonte,horas_trabalho,6104.0
+12-2010,101h54m,Belo Horizonte,horas_trabalho,6114.0
+01-2011,99h27m,Belo Horizonte,horas_trabalho,5967.0
+02-2011,100h29m,Belo Horizonte,horas_trabalho,6029.0
+03-2011,100h25m,Belo Horizonte,horas_trabalho,6025.0
+04-2011,99h43m,Belo Horizonte,horas_trabalho,5983.0
+05-2011,99h48m,Belo Horizonte,horas_trabalho,5988.0
+06-2011,100h08m,Belo Horizonte,horas_trabalho,6008.0
+07-2011,98h56m,Belo Horizonte,horas_trabalho,5936.0
+08-2011,100h42m,Belo Horizonte,horas_trabalho,6042.0
+09-2011,101h18m,Belo Horizonte,horas_trabalho,6078.0
+10-2011,101h48m,Belo Horizonte,horas_trabalho,6108.0
+11-2011,103h37m,Belo Horizonte,horas_trabalho,6217.0
+12-2011,106h34m,Belo Horizonte,horas_trabalho,6394.0
+01-2012,94h49m,Belo Horizonte,horas_trabalho,5689.0
+02-2012,93h29m,Belo Horizonte,horas_trabalho,5609.0
+03-2012,92h17m,Belo Horizonte,horas_trabalho,5537.0
+04-2012,91h32m,Belo Horizonte,horas_trabalho,5492.0
+05-2012,93h43m,Belo Horizonte,horas_trabalho,5623.0
+06-2012,94h03m,Belo Horizonte,horas_trabalho,5643.0
+07-2012,101h57m,Belo Horizonte,horas_trabalho,6117.0
+08-2012,101h17m,Belo Horizonte,horas_trabalho,6077.0
+09-2012,104h33m,Belo Horizonte,horas_trabalho,6273.0
+10-2012,102h47m,Belo Horizonte,horas_trabalho,6167.0
+11-2012,100h02m,Belo Horizonte,horas_trabalho,6002.0
+12-2012,102h53m,Belo Horizonte,horas_trabalho,6173.0
+01-2013,97h17m,Belo Horizonte,horas_trabalho,5837.0
+02-2013,101h43m,Belo Horizonte,horas_trabalho,6103.0
+03-2013,105h07m,Belo Horizonte,horas_trabalho,6307.0
+04-2013,105h18m,Belo Horizonte,horas_trabalho,6318.0
+05-2013,102h08m,Belo Horizonte,horas_trabalho,6128.0
+06-2013,100h06m,Belo Horizonte,horas_trabalho,6006.0
+07-2013,95h14m,Belo Horizonte,horas_trabalho,5714.0
+08-2013,94h17m,Belo Horizonte,horas_trabalho,5657.0
+09-2013,96h02m,Belo Horizonte,horas_trabalho,5762.0
+10-2013,98h14m,Belo Horizonte,horas_trabalho,5894.0
+11-2013,100h52m,Belo Horizonte,horas_trabalho,6052.0
+12-2013,101h19m,Belo Horizonte,horas_trabalho,6079.0
+01-2014,92h59m,Belo Horizonte,horas_trabalho,5579.0
+02-2014,93h38m,Belo Horizonte,horas_trabalho,5618.0
+03-2014,93h21m,Belo Horizonte,horas_trabalho,5601.0
+04-2014,104h04m,Belo Horizonte,horas_trabalho,6244.0
+05-2014,104h53m,Belo Horizonte,horas_trabalho,6293.0
+06-2014,97h11m,Belo Horizonte,horas_trabalho,5831.0
+07-2014,93h42m,Belo Horizonte,horas_trabalho,5622.0
+08-2014,92h13m,Belo Horizonte,horas_trabalho,5533.0
+09-2014,92h14m,Belo Horizonte,horas_trabalho,5534.0
+10-2014,93h26m,Belo Horizonte,horas_trabalho,5606.0
+11-2014,94h04m,Belo Horizonte,horas_trabalho,5644.0
+12-2014,96h02m,Belo Horizonte,horas_trabalho,5762.0
+01-2015,94h15m,Belo Horizonte,horas_trabalho,5655.0
+02-2015,95h24m,Belo Horizonte,horas_trabalho,5724.0
+03-2015,95h49m,Belo Horizonte,horas_trabalho,5749.0
+04-2015,97h15m,Belo Horizonte,horas_trabalho,5835.0
+05-2015,99h22m,Belo Horizonte,horas_trabalho,5962.0
+06-2015,94h35m,Belo Horizonte,horas_trabalho,5675.0
+07-2015,96h20m,Belo Horizonte,horas_trabalho,5780.0
+08-2015,94h12m,Belo Horizonte,horas_trabalho,5652.0
+09-2015,94h25m,Belo Horizonte,horas_trabalho,5665.0
+10-2015,94h32m,Belo Horizonte,horas_trabalho,5672.0
+11-2015,101h07m,Belo Horizonte,horas_trabalho,6067.0
+12-2015,105h14m,Belo Horizonte,horas_trabalho,6314.0
+01-2016,104h26m,Belo Horizonte,horas_trabalho,6266.0
+02-2016,100h04m,Belo Horizonte,horas_trabalho,6004.0
+03-2016,102h13m,Belo Horizonte,horas_trabalho,6133.0
+04-2016,99h49m,Belo Horizonte,horas_trabalho,5989.0
+05-2016,102h08m,Belo Horizonte,horas_trabalho,6128.0
+06-2016,106h27m,Belo Horizonte,horas_trabalho,6387.0
+07-2016,105h47m,Belo Horizonte,horas_trabalho,6347.0
+08-2016,107h25m,Belo Horizonte,horas_trabalho,6445.0
+09-2016,105h23m,Belo Horizonte,horas_trabalho,6323.0
+10-2016,104h37m,Belo Horizonte,horas_trabalho,6277.0
+11-2016,100h14m,Belo Horizonte,horas_trabalho,6014.0
+12-2016,98h40m,Belo Horizonte,horas_trabalho,5920.0
+01-2017,91h30m,Belo Horizonte,horas_trabalho,5490.0
+02-2017,88h40m,Belo Horizonte,horas_trabalho,5320.0
+03-2017,90h32m,Belo Horizonte,horas_trabalho,5432.0
+04-2017,93h18m,Belo Horizonte,horas_trabalho,5598.0
+05-2017,91h43m,Belo Horizonte,horas_trabalho,5503.0
+06-2017,88h01m,Belo Horizonte,horas_trabalho,5281.0
+07-2017,90h05m,Belo Horizonte,horas_trabalho,5405.0
+08-2017,85h43m,Belo Horizonte,horas_trabalho,5143.0
+09-2017,84h57m,Belo Horizonte,horas_trabalho,5097.0
+10-2017,85h55m,Belo Horizonte,horas_trabalho,5155.0
+11-2017,84h28m,Belo Horizonte,horas_trabalho,5068.0
+12-2017,84h54m,Belo Horizonte,horas_trabalho,5094.0
+01-2018,87h38m,Belo Horizonte,horas_trabalho,5258.0
+02-2018,88h04m,Belo Horizonte,horas_trabalho,5284.0
+03-2018,87h12m,Belo Horizonte,horas_trabalho,5232.0
+04-2018,86h50m,Belo Horizonte,horas_trabalho,5210.0
+05-2018,86h30m,Belo Horizonte,horas_trabalho,5190.0
+06-2018,86h14m,Belo Horizonte,horas_trabalho,5174.0
+07-2018,83h47m,Belo Horizonte,horas_trabalho,5027.0
+08-2018,82h32m,Belo Horizonte,horas_trabalho,4952.0
+09-2018,82h45m,Belo Horizonte,horas_trabalho,4965.0
+10-2018,85h58m,Belo Horizonte,horas_trabalho,5158.0
+11-2018,92h41m,Belo Horizonte,horas_trabalho,5561.0
+12-2018,94h15m,Belo Horizonte,horas_trabalho,5655.0
+01-2019,89h22m,Belo Horizonte,horas_trabalho,5362.0
+02-2019,93h41m,Belo Horizonte,horas_trabalho,5621.0
+03-2019,97h43m,Belo Horizonte,horas_trabalho,5863.0
+04-2019,100h43m,Belo Horizonte,horas_trabalho,6043.0
+05-2019,93h39m,Belo Horizonte,horas_trabalho,5619.0
+06-2019,94h38m,Belo Horizonte,horas_trabalho,5678.0
+07-2019,91h29m,Belo Horizonte,horas_trabalho,5489.0
+08-2019,88h26m,Belo Horizonte,horas_trabalho,5306.0
+09-2019,86h11m,Belo Horizonte,horas_trabalho,5171.0
+10-2019,86h23m,Belo Horizonte,horas_trabalho,5183.0
+11-2019,86h46m,Belo Horizonte,horas_trabalho,5206.0
+12-2019,98h05m,Belo Horizonte,horas_trabalho,5885.0
+01-2020,96h38m,Belo Horizonte,horas_trabalho,5798.0
+02-2020,96h39m,Belo Horizonte,horas_trabalho,5799.0
+03-2020,97h07m,Belo Horizonte,horas_trabalho,5827.0
+04-2020,102h01m,Belo Horizonte,horas_trabalho,6121.0
+05-2020,101h54m,Belo Horizonte,horas_trabalho,6114.0
+06-2020,100h02m,Belo Horizonte,horas_trabalho,6002.0
+07-2020,97h55m,Belo Horizonte,horas_trabalho,5875.0
+08-2020,100h39m,Belo Horizonte,horas_trabalho,6039.0
+09-2020,103h30m,Belo Horizonte,horas_trabalho,6210.0
+10-2020,108h48m,Belo Horizonte,horas_trabalho,6528.0
+11-2020,116h17m,Belo Horizonte,horas_trabalho,6977.0
+12-2020,119h41m,Belo Horizonte,horas_trabalho,7181.0
+01-2021,118h27m,Belo Horizonte,horas_trabalho,7107.0
+02-2021,114h43m,Belo Horizonte,horas_trabalho,6883.0
+03-2021,111h08m,Belo Horizonte,horas_trabalho,6668.0
+04-2021,113h10m,Belo Horizonte,horas_trabalho,6790.0
+05-2021,,Belo Horizonte,horas_trabalho,
+06-2021,107h23m,Belo Horizonte,horas_trabalho,6443.0
+07-2021,111h01m,Belo Horizonte,horas_trabalho,6661.0
+08-2021,114h01m,Belo Horizonte,horas_trabalho,6841.0
+09-2021,117h57m,Belo Horizonte,horas_trabalho,7077.0
+10-2021,121h00m,Belo Horizonte,horas_trabalho,7260.0
+11-2021,120h17m,Belo Horizonte,horas_trabalho,7217.0
+12-2021,122h47m,Belo Horizonte,horas_trabalho,7367.0
+01-2022,116h30m,Belo Horizonte,horas_trabalho,6990.0
+02-2022,118h06m,Belo Horizonte,horas_trabalho,7086.0
+03-2022,123h04m,Belo Horizonte,horas_trabalho,7384.0
+04-2022,127h10m,Belo Horizonte,horas_trabalho,7630.0
+05-2022,119h45m,Belo Horizonte,horas_trabalho,7185.0
+06-2022,119h13m,Belo Horizonte,horas_trabalho,7153.0
+07-2022,120h07m,Belo Horizonte,horas_trabalho,7207.0
+08-2022,117h38m,Belo Horizonte,horas_trabalho,7058.0
+09-2022,120h13m,Belo Horizonte,horas_trabalho,7213.0
+10-2022,122h29m,Belo Horizonte,horas_trabalho,7349.0
+11-2022,128h04m,Belo Horizonte,horas_trabalho,7684.0
+12-2022,128h15m,Belo Horizonte,horas_trabalho,7695.0
+01-2023,121h14m,Belo Horizonte,horas_trabalho,7274.0
+02-2023,116h26m,Belo Horizonte,horas_trabalho,6986.0
+03-2023,112h01m,Belo Horizonte,horas_trabalho,6721.0
+04-2023,114h29m,Belo Horizonte,horas_trabalho,6869.0
+05-2023,112h33m,Belo Horizonte,horas_trabalho,6753.0
+06-2023,110h44m,Belo Horizonte,horas_trabalho,6644.0
+07-2023,110h24m,Belo Horizonte,horas_trabalho,6624.0
+08-2023,109h36m,Belo Horizonte,horas_trabalho,6576.0
+09-2023,107h34m,Belo Horizonte,horas_trabalho,6454.0
+10-2023,106h14m,Belo Horizonte,horas_trabalho,6374.0
+11-2023,108h23m,Belo Horizonte,horas_trabalho,6503.0
+12-2023,111h14m,Belo Horizonte,horas_trabalho,6674.0
+01-2024,114h44m,Belo Horizonte,horas_trabalho,6884.0
+02-2024,115h34m,Belo Horizonte,horas_trabalho,6934.0
+03-2024,112h57m,Belo Horizonte,horas_trabalho,6777.0
+04-2024,112h49m,Belo Horizonte,horas_trabalho,6769.0
+05-2024,109h20m,Belo Horizonte,horas_trabalho,6560.0
+06-2024,110h44m,Belo Horizonte,horas_trabalho,6644.0
+07-2024,103h51m,Belo Horizonte,horas_trabalho,6231.0
+08-2024,104h01m,Belo Horizonte,horas_trabalho,6241.0
+09-2024,103h20m,Belo Horizonte,horas_trabalho,6200.0
+10-2024,107h32m,Belo Horizonte,horas_trabalho,6452.0
+11-2024,108h53m,Belo Horizonte,horas_trabalho,6533.0
+12-2024,110h03m,Belo Horizonte,horas_trabalho,6603.0
+01-1989,154h04m,Rio de Janeiro,horas_trabalho,9244.0
+02-1989,178h32m,Rio de Janeiro,horas_trabalho,10712.0
+03-1989,194h04m,Rio de Janeiro,horas_trabalho,11644.0
+04-1989,197h49m,Rio de Janeiro,horas_trabalho,11869.0
+05-1989,197h16m,Rio de Janeiro,horas_trabalho,11836.0
+06-1989,177h59m,Rio de Janeiro,horas_trabalho,10679.0
+07-1989,170h34m,Rio de Janeiro,horas_trabalho,10234.0
+08-1989,177h19m,Rio de Janeiro,horas_trabalho,10639.0
+09-1989,173h29m,Rio de Janeiro,horas_trabalho,10409.0
+10-1989,145h53m,Rio de Janeiro,horas_trabalho,8753.0
+11-1989,150h13m,Rio de Janeiro,horas_trabalho,9013.0
+12-1989,149h02m,Rio de Janeiro,horas_trabalho,8942.0
+01-1990,171h25m,Rio de Janeiro,horas_trabalho,10285.0
+02-1990,161h47m,Rio de Janeiro,horas_trabalho,9707.0
+03-1990,164h30m,Rio de Janeiro,horas_trabalho,9870.0
+04-1990,188h45m,Rio de Janeiro,horas_trabalho,11325.0
+05-1990,215h00m,Rio de Janeiro,horas_trabalho,12900.0
+06-1990,263h58m,Rio de Janeiro,horas_trabalho,15838.0
+07-1990,225h04m,Rio de Janeiro,horas_trabalho,13504.0
+08-1990,233h50m,Rio de Janeiro,horas_trabalho,14030.0
+09-1990,233h35m,Rio de Janeiro,horas_trabalho,14015.0
+10-1990,222h35m,Rio de Janeiro,horas_trabalho,13355.0
+11-1990,181h27m,Rio de Janeiro,horas_trabalho,10887.0
+12-1990,189h01m,Rio de Janeiro,horas_trabalho,11341.0
+01-1991,175h37m,Rio de Janeiro,horas_trabalho,10537.0
+02-1991,164h54m,Rio de Janeiro,horas_trabalho,9894.0
+03-1991,161h42m,Rio de Janeiro,horas_trabalho,9702.0
+04-1991,156h51m,Rio de Janeiro,horas_trabalho,9411.0
+05-1991,133h05m,Rio de Janeiro,horas_trabalho,7985.0
+06-1991,137h09m,Rio de Janeiro,horas_trabalho,8229.0
+07-1991,164h11m,Rio de Janeiro,horas_trabalho,9851.0
+08-1991,122h00m,Rio de Janeiro,horas_trabalho,7320.0
+09-1991,121h20m,Rio de Janeiro,horas_trabalho,7280.0
+10-1991,161h25m,Rio de Janeiro,horas_trabalho,9685.0
+11-1991,209h02m,Rio de Janeiro,horas_trabalho,12542.0
+12-1991,168h43m,Rio de Janeiro,horas_trabalho,10123.0
+01-1992,139h29m,Rio de Janeiro,horas_trabalho,8369.0
+02-1992,156h28m,Rio de Janeiro,horas_trabalho,9388.0
+03-1992,198h13m,Rio de Janeiro,horas_trabalho,11893.0
+04-1992,242h40m,Rio de Janeiro,horas_trabalho,14560.0
+05-1992,125h05m,Rio de Janeiro,horas_trabalho,7505.0
+06-1992,145h55m,Rio de Janeiro,horas_trabalho,8755.0
+07-1992,181h44m,Rio de Janeiro,horas_trabalho,10904.0
+08-1992,234h53m,Rio de Janeiro,horas_trabalho,14093.0
+09-1992,136h21m,Rio de Janeiro,horas_trabalho,8181.0
+10-1992,163h58m,Rio de Janeiro,horas_trabalho,9838.0
+11-1992,187h45m,Rio de Janeiro,horas_trabalho,11265.0
+12-1992,228h27m,Rio de Janeiro,horas_trabalho,13707.0
+01-1993,130h52m,Rio de Janeiro,horas_trabalho,7852.0
+02-1993,164h36m,Rio de Janeiro,horas_trabalho,9876.0
+03-1993,153h03m,Rio de Janeiro,horas_trabalho,9183.0
+04-1993,211h14m,Rio de Janeiro,horas_trabalho,12674.0
+05-1993,139h11m,Rio de Janeiro,horas_trabalho,8351.0
+06-1993,183h50m,Rio de Janeiro,horas_trabalho,11030.0
+07-1993,152h45m,Rio de Janeiro,horas_trabalho,9165.0
+08-1993,173h45m,Rio de Janeiro,horas_trabalho,10425.0
+09-1993,135h06m,Rio de Janeiro,horas_trabalho,8106.0
+10-1993,149h28m,Rio de Janeiro,horas_trabalho,8968.0
+11-1993,165h24m,Rio de Janeiro,horas_trabalho,9924.0
+12-1993,189h34m,Rio de Janeiro,horas_trabalho,11374.0
+01-1994,162h53m,Rio de Janeiro,horas_trabalho,9773.0
+02-1994,165h35m,Rio de Janeiro,horas_trabalho,9935.0
+03-1994,184h56m,Rio de Janeiro,horas_trabalho,11096.0
+04-1994,184h11m,Rio de Janeiro,horas_trabalho,11051.0
+05-1994,176h09m,Rio de Janeiro,horas_trabalho,10569.0
+06-1994,184h50m,Rio de Janeiro,horas_trabalho,11090.0
+07-1994,224h51m,Rio de Janeiro,horas_trabalho,13491.0
+08-1994,244h45m,Rio de Janeiro,horas_trabalho,14685.0
+09-1994,240h25m,Rio de Janeiro,horas_trabalho,14425.0
+10-1994,250h48m,Rio de Janeiro,horas_trabalho,15048.0
+11-1994,261h14m,Rio de Janeiro,horas_trabalho,15674.0
+12-1994,242h52m,Rio de Janeiro,horas_trabalho,14572.0
+01-1995,195h49m,Rio de Janeiro,horas_trabalho,11749.0
+02-1995,236h16m,Rio de Janeiro,horas_trabalho,14176.0
+03-1995,240h48m,Rio de Janeiro,horas_trabalho,14448.0
+04-1995,272h23m,Rio de Janeiro,horas_trabalho,16343.0
+05-1995,195h30m,Rio de Janeiro,horas_trabalho,11730.0
+06-1995,181h15m,Rio de Janeiro,horas_trabalho,10875.0
+07-1995,163h36m,Rio de Janeiro,horas_trabalho,9816.0
+08-1995,164h34m,Rio de Janeiro,horas_trabalho,9874.0
+09-1995,166h32m,Rio de Janeiro,horas_trabalho,9992.0
+10-1995,167h31m,Rio de Janeiro,horas_trabalho,10051.0
+11-1995,176h56m,Rio de Janeiro,horas_trabalho,10616.0
+12-1995,178h00m,Rio de Janeiro,horas_trabalho,10680.0
+01-1996,184h09m,Rio de Janeiro,horas_trabalho,11049.0
+02-1996,182h28m,Rio de Janeiro,horas_trabalho,10948.0
+03-1996,178h26m,Rio de Janeiro,horas_trabalho,10706.0
+04-1996,184h21m,Rio de Janeiro,horas_trabalho,11061.0
+05-1996,171h21m,Rio de Janeiro,horas_trabalho,10281.0
+06-1996,170h44m,Rio de Janeiro,horas_trabalho,10244.0
+07-1996,168h19m,Rio de Janeiro,horas_trabalho,10099.0
+08-1996,169h51m,Rio de Janeiro,horas_trabalho,10191.0
+09-1996,165h24m,Rio de Janeiro,horas_trabalho,9924.0
+10-1996,163h05m,Rio de Janeiro,horas_trabalho,9785.0
+11-1996,164h50m,Rio de Janeiro,horas_trabalho,9890.0
+12-1996,165h15m,Rio de Janeiro,horas_trabalho,9915.0
+01-1997,167h30m,Rio de Janeiro,horas_trabalho,10050.0
+02-1997,170h27m,Rio de Janeiro,horas_trabalho,10227.0
+03-1997,182h03m,Rio de Janeiro,horas_trabalho,10923.0
+04-1997,184h05m,Rio de Janeiro,horas_trabalho,11045.0
+05-1997,165h40m,Rio de Janeiro,horas_trabalho,9940.0
+06-1997,159h36m,Rio de Janeiro,horas_trabalho,9576.0
+07-1997,154h13m,Rio de Janeiro,horas_trabalho,9253.0
+08-1997,156h28m,Rio de Janeiro,horas_trabalho,9388.0
+09-1997,157h57m,Rio de Janeiro,horas_trabalho,9477.0
+10-1997,164h33m,Rio de Janeiro,horas_trabalho,9873.0
+11-1997,163h02m,Rio de Janeiro,horas_trabalho,9782.0
+12-1997,174h19m,Rio de Janeiro,horas_trabalho,10459.0
+01-1998,180h21m,Rio de Janeiro,horas_trabalho,10821.0
+02-1998,181h54m,Rio de Janeiro,horas_trabalho,10914.0
+03-1998,183h59m,Rio de Janeiro,horas_trabalho,11039.0
+04-1998,185h58m,Rio de Janeiro,horas_trabalho,11158.0
+05-1998,171h13m,Rio de Janeiro,horas_trabalho,10273.0
+06-1998,170h41m,Rio de Janeiro,horas_trabalho,10241.0
+07-1998,164h01m,Rio de Janeiro,horas_trabalho,9841.0
+08-1998,156h42m,Rio de Janeiro,horas_trabalho,9402.0
+09-1998,156h20m,Rio de Janeiro,horas_trabalho,9380.0
+10-1998,150h51m,Rio de Janeiro,horas_trabalho,9051.0
+11-1998,158h12m,Rio de Janeiro,horas_trabalho,9492.0
+12-1998,159h07m,Rio de Janeiro,horas_trabalho,9547.0
+01-1999,159h21m,Rio de Janeiro,horas_trabalho,9561.0
+02-1999,157h53m,Rio de Janeiro,horas_trabalho,9473.0
+03-1999,163h15m,Rio de Janeiro,horas_trabalho,9795.0
+04-1999,162h27m,Rio de Janeiro,horas_trabalho,9747.0
+05-1999,158h00m,Rio de Janeiro,horas_trabalho,9480.0
+06-1999,155h29m,Rio de Janeiro,horas_trabalho,9329.0
+07-1999,153h28m,Rio de Janeiro,horas_trabalho,9208.0
+08-1999,158h49m,Rio de Janeiro,horas_trabalho,9529.0
+09-1999,156h59m,Rio de Janeiro,horas_trabalho,9419.0
+10-1999,163h01m,Rio de Janeiro,horas_trabalho,9781.0
+11-1999,164h57m,Rio de Janeiro,horas_trabalho,9897.0
+12-1999,163h10m,Rio de Janeiro,horas_trabalho,9790.0
+01-2000,163h05m,Rio de Janeiro,horas_trabalho,9785.0
+02-2000,173h33m,Rio de Janeiro,horas_trabalho,10413.0
+03-2000,178h09m,Rio de Janeiro,horas_trabalho,10689.0
+04-2000,158h24m,Rio de Janeiro,horas_trabalho,9504.0
+05-2000,143h31m,Rio de Janeiro,horas_trabalho,8611.0
+06-2000,142h23m,Rio de Janeiro,horas_trabalho,8543.0
+07-2000,147h45m,Rio de Janeiro,horas_trabalho,8865.0
+08-2000,154h26m,Rio de Janeiro,horas_trabalho,9266.0
+09-2000,158h25m,Rio de Janeiro,horas_trabalho,9505.0
+10-2000,164h38m,Rio de Janeiro,horas_trabalho,9878.0
+11-2000,167h42m,Rio de Janeiro,horas_trabalho,10062.0
+12-2000,165h01m,Rio de Janeiro,horas_trabalho,9901.0
+01-2001,169h54m,Rio de Janeiro,horas_trabalho,10194.0
+02-2001,166h59m,Rio de Janeiro,horas_trabalho,10019.0
+03-2001,171h20m,Rio de Janeiro,horas_trabalho,10280.0
+04-2001,144h56m,Rio de Janeiro,horas_trabalho,8696.0
+05-2001,149h54m,Rio de Janeiro,horas_trabalho,8994.0
+06-2001,147h19m,Rio de Janeiro,horas_trabalho,8839.0
+07-2001,149h13m,Rio de Janeiro,horas_trabalho,8953.0
+08-2001,153h32m,Rio de Janeiro,horas_trabalho,9212.0
+09-2001,146h14m,Rio de Janeiro,horas_trabalho,8774.0
+10-2001,143h10m,Rio de Janeiro,horas_trabalho,8590.0
+11-2001,153h00m,Rio de Janeiro,horas_trabalho,9180.0
+12-2001,154h15m,Rio de Janeiro,horas_trabalho,9255.0
+01-2002,154h29m,Rio de Janeiro,horas_trabalho,9269.0
+02-2002,150h51m,Rio de Janeiro,horas_trabalho,9051.0
+03-2002,154h48m,Rio de Janeiro,horas_trabalho,9288.0
+04-2002,140h46m,Rio de Janeiro,horas_trabalho,8446.0
+05-2002,138h06m,Rio de Janeiro,horas_trabalho,8286.0
+06-2002,137h36m,Rio de Janeiro,horas_trabalho,8256.0
+07-2002,140h08m,Rio de Janeiro,horas_trabalho,8408.0
+08-2002,141h41m,Rio de Janeiro,horas_trabalho,8501.0
+09-2002,147h09m,Rio de Janeiro,horas_trabalho,8829.0
+10-2002,148h12m,Rio de Janeiro,horas_trabalho,8892.0
+11-2002,162h51m,Rio de Janeiro,horas_trabalho,9771.0
+12-2002,161h15m,Rio de Janeiro,horas_trabalho,9675.0
+01-2003,165h49m,Rio de Janeiro,horas_trabalho,9949.0
+02-2003,171h43m,Rio de Janeiro,horas_trabalho,10303.0
+03-2003,183h26m,Rio de Janeiro,horas_trabalho,11006.0
+04-2003,158h46m,Rio de Janeiro,horas_trabalho,9526.0
+05-2003,152h39m,Rio de Janeiro,horas_trabalho,9159.0
+06-2003,144h12m,Rio de Janeiro,horas_trabalho,8652.0
+07-2003,139h39m,Rio de Janeiro,horas_trabalho,8379.0
+08-2003,133h48m,Rio de Janeiro,horas_trabalho,8028.0
+09-2003,137h04m,Rio de Janeiro,horas_trabalho,8224.0
+10-2003,140h14m,Rio de Janeiro,horas_trabalho,8414.0
+11-2003,144h56m,Rio de Janeiro,horas_trabalho,8696.0
+12-2003,143h03m,Rio de Janeiro,horas_trabalho,8583.0
+01-2004,152h58m,Rio de Janeiro,horas_trabalho,9178.0
+02-2004,148h25m,Rio de Janeiro,horas_trabalho,8905.0
+03-2004,145h21m,Rio de Janeiro,horas_trabalho,8721.0
+04-2004,140h47m,Rio de Janeiro,horas_trabalho,8447.0
+05-2004,136h02m,Rio de Janeiro,horas_trabalho,8162.0
+06-2004,144h37m,Rio de Janeiro,horas_trabalho,8677.0
+07-2004,142h36m,Rio de Janeiro,horas_trabalho,8556.0
+08-2004,151h18m,Rio de Janeiro,horas_trabalho,9078.0
+09-2004,145h07m,Rio de Janeiro,horas_trabalho,8707.0
+10-2004,141h29m,Rio de Janeiro,horas_trabalho,8489.0
+11-2004,138h55m,Rio de Janeiro,horas_trabalho,8335.0
+12-2004,139h56m,Rio de Janeiro,horas_trabalho,8396.0
+01-2005,139h27m,Rio de Janeiro,horas_trabalho,8367.0
+02-2005,143h40m,Rio de Janeiro,horas_trabalho,8620.0
+03-2005,141h19m,Rio de Janeiro,horas_trabalho,8479.0
+04-2005,144h01m,Rio de Janeiro,horas_trabalho,8641.0
+05-2005,131h52m,Rio de Janeiro,horas_trabalho,7912.0
+06-2005,126h19m,Rio de Janeiro,horas_trabalho,7579.0
+07-2005,123h38m,Rio de Janeiro,horas_trabalho,7418.0
+08-2005,120h40m,Rio de Janeiro,horas_trabalho,7240.0
+09-2005,118h39m,Rio de Janeiro,horas_trabalho,7119.0
+10-2005,120h37m,Rio de Janeiro,horas_trabalho,7237.0
+11-2005,129h18m,Rio de Janeiro,horas_trabalho,7758.0
+12-2005,130h36m,Rio de Janeiro,horas_trabalho,7836.0
+01-2006,126h43m,Rio de Janeiro,horas_trabalho,7603.0
+02-2006,126h35m,Rio de Janeiro,horas_trabalho,7595.0
+03-2006,123h42m,Rio de Janeiro,horas_trabalho,7422.0
+04-2006,110h24m,Rio de Janeiro,horas_trabalho,6624.0
+05-2006,106h11m,Rio de Janeiro,horas_trabalho,6371.0
+06-2006,103h45m,Rio de Janeiro,horas_trabalho,6225.0
+07-2006,100h22m,Rio de Janeiro,horas_trabalho,6022.0
+08-2006,97h34m,Rio de Janeiro,horas_trabalho,5854.0
+09-2006,102h40m,Rio de Janeiro,horas_trabalho,6160.0
+10-2006,104h49m,Rio de Janeiro,horas_trabalho,6289.0
+11-2006,112h34m,Rio de Janeiro,horas_trabalho,6754.0
+12-2006,107h44m,Rio de Janeiro,horas_trabalho,6464.0
+01-2007,110h59m,Rio de Janeiro,horas_trabalho,6659.0
+02-2007,111h41m,Rio de Janeiro,horas_trabalho,6701.0
+03-2007,120h51m,Rio de Janeiro,horas_trabalho,7251.0
+04-2007,104h55m,Rio de Janeiro,horas_trabalho,6295.0
+05-2007,101h30m,Rio de Janeiro,horas_trabalho,6090.0
+06-2007,100h21m,Rio de Janeiro,horas_trabalho,6021.0
+07-2007,102h53m,Rio de Janeiro,horas_trabalho,6173.0
+08-2007,105h27m,Rio de Janeiro,horas_trabalho,6327.0
+09-2007,108h49m,Rio de Janeiro,horas_trabalho,6529.0
+10-2007,112h28m,Rio de Janeiro,horas_trabalho,6748.0
+11-2007,112h51m,Rio de Janeiro,horas_trabalho,6771.0
+12-2007,112h35m,Rio de Janeiro,horas_trabalho,6755.0
+01-2008,119h23m,Rio de Janeiro,horas_trabalho,7163.0
+02-2008,118h00m,Rio de Janeiro,horas_trabalho,7080.0
+03-2008,113h48m,Rio de Janeiro,horas_trabalho,6828.0
+04-2008,117h49m,Rio de Janeiro,horas_trabalho,7069.0
+05-2008,118h11m,Rio de Janeiro,horas_trabalho,7091.0
+06-2008,125h12m,Rio de Janeiro,horas_trabalho,7512.0
+07-2008,127h15m,Rio de Janeiro,horas_trabalho,7635.0
+08-2008,113h48m,Rio de Janeiro,horas_trabalho,6828.0
+09-2008,114h17m,Rio de Janeiro,horas_trabalho,6857.0
+10-2008,117h09m,Rio de Janeiro,horas_trabalho,7029.0
+11-2008,119h25m,Rio de Janeiro,horas_trabalho,7165.0
+12-2008,127h07m,Rio de Janeiro,horas_trabalho,7627.0
+01-2009,119h08m,Rio de Janeiro,horas_trabalho,7148.0
+02-2009,105h45m,Rio de Janeiro,horas_trabalho,6345.0
+03-2009,103h26m,Rio de Janeiro,horas_trabalho,6206.0
+04-2009,105h19m,Rio de Janeiro,horas_trabalho,6319.0
+05-2009,104h34m,Rio de Janeiro,horas_trabalho,6274.0
+06-2009,104h11m,Rio de Janeiro,horas_trabalho,6251.0
+07-2009,100h15m,Rio de Janeiro,horas_trabalho,6015.0
+08-2009,101h08m,Rio de Janeiro,horas_trabalho,6068.0
+09-2009,103h55m,Rio de Janeiro,horas_trabalho,6235.0
+10-2009,106h20m,Rio de Janeiro,horas_trabalho,6380.0
+11-2009,107h23m,Rio de Janeiro,horas_trabalho,6443.0
+12-2009,100h57m,Rio de Janeiro,horas_trabalho,6057.0
+01-2010,92h13m,Rio de Janeiro,horas_trabalho,5533.0
+02-2010,95h41m,Rio de Janeiro,horas_trabalho,5741.0
+03-2010,103h37m,Rio de Janeiro,horas_trabalho,6217.0
+04-2010,109h12m,Rio de Janeiro,horas_trabalho,6552.0
+05-2010,103h41m,Rio de Janeiro,horas_trabalho,6221.0
+06-2010,98h25m,Rio de Janeiro,horas_trabalho,5905.0
+07-2010,91h56m,Rio de Janeiro,horas_trabalho,5516.0
+08-2010,91h24m,Rio de Janeiro,horas_trabalho,5484.0
+09-2010,94h42m,Rio de Janeiro,horas_trabalho,5682.0
+10-2010,99h16m,Rio de Janeiro,horas_trabalho,5956.0
+11-2010,104h33m,Rio de Janeiro,horas_trabalho,6273.0
+12-2010,104h41m,Rio de Janeiro,horas_trabalho,6281.0
+01-2011,102h46m,Rio de Janeiro,horas_trabalho,6166.0
+02-2011,100h31m,Rio de Janeiro,horas_trabalho,6031.0
+03-2011,104h52m,Rio de Janeiro,horas_trabalho,6292.0
+04-2011,103h00m,Rio de Janeiro,horas_trabalho,6180.0
+05-2011,104h57m,Rio de Janeiro,horas_trabalho,6297.0
+06-2011,103h42m,Rio de Janeiro,horas_trabalho,6222.0
+07-2011,97h28m,Rio de Janeiro,horas_trabalho,5848.0
+08-2011,102h10m,Rio de Janeiro,horas_trabalho,6130.0
+09-2011,101h15m,Rio de Janeiro,horas_trabalho,6075.0
+10-2011,101h43m,Rio de Janeiro,horas_trabalho,6103.0
+11-2011,105h38m,Rio de Janeiro,horas_trabalho,6338.0
+12-2011,106h07m,Rio de Janeiro,horas_trabalho,6367.0
+01-2012,96h06m,Rio de Janeiro,horas_trabalho,5766.0
+02-2012,93h11m,Rio de Janeiro,horas_trabalho,5591.0
+03-2012,90h49m,Rio de Janeiro,horas_trabalho,5449.0
+04-2012,89h09m,Rio de Janeiro,horas_trabalho,5349.0
+05-2012,92h08m,Rio de Janeiro,horas_trabalho,5528.0
+06-2012,95h38m,Rio de Janeiro,horas_trabalho,5738.0
+07-2012,102h48m,Rio de Janeiro,horas_trabalho,6168.0
+08-2012,107h00m,Rio de Janeiro,horas_trabalho,6420.0
+09-2012,105h07m,Rio de Janeiro,horas_trabalho,6307.0
+10-2012,104h29m,Rio de Janeiro,horas_trabalho,6269.0
+11-2012,96h14m,Rio de Janeiro,horas_trabalho,5774.0
+12-2012,99h41m,Rio de Janeiro,horas_trabalho,5981.0
+01-2013,98h36m,Rio de Janeiro,horas_trabalho,5916.0
+02-2013,99h34m,Rio de Janeiro,horas_trabalho,5974.0
+03-2013,102h13m,Rio de Janeiro,horas_trabalho,6133.0
+04-2013,106h16m,Rio de Janeiro,horas_trabalho,6376.0
+05-2013,104h18m,Rio de Janeiro,horas_trabalho,6258.0
+06-2013,100h35m,Rio de Janeiro,horas_trabalho,6035.0
+07-2013,97h35m,Rio de Janeiro,horas_trabalho,5855.0
+08-2013,96h50m,Rio de Janeiro,horas_trabalho,5810.0
+09-2013,95h55m,Rio de Janeiro,horas_trabalho,5755.0
+10-2013,101h32m,Rio de Janeiro,horas_trabalho,6092.0
+11-2013,102h49m,Rio de Janeiro,horas_trabalho,6169.0
+12-2013,102h23m,Rio de Janeiro,horas_trabalho,6143.0
+01-2014,94h21m,Rio de Janeiro,horas_trabalho,5661.0
+02-2014,95h38m,Rio de Janeiro,horas_trabalho,5738.0
+03-2014,104h52m,Rio de Janeiro,horas_trabalho,6292.0
+04-2014,105h12m,Rio de Janeiro,horas_trabalho,6312.0
+05-2014,105h45m,Rio de Janeiro,horas_trabalho,6345.0
+06-2014,104h22m,Rio de Janeiro,horas_trabalho,6262.0
+07-2014,100h21m,Rio de Janeiro,horas_trabalho,6021.0
+08-2014,99h34m,Rio de Janeiro,horas_trabalho,5974.0
+09-2014,99h18m,Rio de Janeiro,horas_trabalho,5958.0
+10-2014,102h08m,Rio de Janeiro,horas_trabalho,6128.0
+11-2014,99h02m,Rio de Janeiro,horas_trabalho,5942.0
+12-2014,102h43m,Rio de Janeiro,horas_trabalho,6163.0
+01-2015,98h42m,Rio de Janeiro,horas_trabalho,5922.0
+02-2015,99h45m,Rio de Janeiro,horas_trabalho,5985.0
+03-2015,100h08m,Rio de Janeiro,horas_trabalho,6008.0
+04-2015,104h39m,Rio de Janeiro,horas_trabalho,6279.0
+05-2015,110h21m,Rio de Janeiro,horas_trabalho,6621.0
+06-2015,102h56m,Rio de Janeiro,horas_trabalho,6176.0
+07-2015,103h55m,Rio de Janeiro,horas_trabalho,6235.0
+08-2015,100h34m,Rio de Janeiro,horas_trabalho,6034.0
+09-2015,101h19m,Rio de Janeiro,horas_trabalho,6079.0
+10-2015,100h25m,Rio de Janeiro,horas_trabalho,6025.0
+11-2015,107h43m,Rio de Janeiro,horas_trabalho,6463.0
+12-2015,110h04m,Rio de Janeiro,horas_trabalho,6604.0
+01-2016,112h01m,Rio de Janeiro,horas_trabalho,6721.0
+02-2016,107h38m,Rio de Janeiro,horas_trabalho,6458.0
+03-2016,110h12m,Rio de Janeiro,horas_trabalho,6612.0
+04-2016,108h29m,Rio de Janeiro,horas_trabalho,6509.0
+05-2016,109h00m,Rio de Janeiro,horas_trabalho,6540.0
+06-2016,109h50m,Rio de Janeiro,horas_trabalho,6590.0
+07-2016,112h04m,Rio de Janeiro,horas_trabalho,6724.0
+08-2016,113h52m,Rio de Janeiro,horas_trabalho,6832.0
+09-2016,112h53m,Rio de Janeiro,horas_trabalho,6773.0
+10-2016,114h07m,Rio de Janeiro,horas_trabalho,6847.0
+11-2016,112h11m,Rio de Janeiro,horas_trabalho,6731.0
+12-2016,110h56m,Rio de Janeiro,horas_trabalho,6656.0
+01-2017,103h21m,Rio de Janeiro,horas_trabalho,6201.0
+02-2017,99h41m,Rio de Janeiro,horas_trabalho,5981.0
+03-2017,101h16m,Rio de Janeiro,horas_trabalho,6076.0
+04-2017,105h19m,Rio de Janeiro,horas_trabalho,6319.0
+05-2017,103h55m,Rio de Janeiro,horas_trabalho,6235.0
+06-2017,98h41m,Rio de Janeiro,horas_trabalho,5921.0
+07-2017,99h56m,Rio de Janeiro,horas_trabalho,5996.0
+08-2017,96h22m,Rio de Janeiro,horas_trabalho,5782.0
+09-2017,96h20m,Rio de Janeiro,horas_trabalho,5780.0
+10-2017,98h52m,Rio de Janeiro,horas_trabalho,5932.0
+11-2017,95h39m,Rio de Janeiro,horas_trabalho,5739.0
+12-2017,98h19m,Rio de Janeiro,horas_trabalho,5899.0
+01-2018,102h21m,Rio de Janeiro,horas_trabalho,6141.0
+02-2018,101h05m,Rio de Janeiro,horas_trabalho,6065.0
+03-2018,101h44m,Rio de Janeiro,horas_trabalho,6104.0
+04-2018,101h29m,Rio de Janeiro,horas_trabalho,6089.0
+05-2018,102h52m,Rio de Janeiro,horas_trabalho,6172.0
+06-2018,102h45m,Rio de Janeiro,horas_trabalho,6165.0
+07-2018,97h17m,Rio de Janeiro,horas_trabalho,5837.0
+08-2018,96h11m,Rio de Janeiro,horas_trabalho,5771.0
+09-2018,96h30m,Rio de Janeiro,horas_trabalho,5790.0
+10-2018,102h19m,Rio de Janeiro,horas_trabalho,6139.0
+11-2018,106h08m,Rio de Janeiro,horas_trabalho,6368.0
+12-2018,107h38m,Rio de Janeiro,horas_trabalho,6458.0
+01-2019,101h30m,Rio de Janeiro,horas_trabalho,6090.0
+02-2019,102h23m,Rio de Janeiro,horas_trabalho,6143.0
+03-2019,109h25m,Rio de Janeiro,horas_trabalho,6565.0
+04-2019,113h39m,Rio de Janeiro,horas_trabalho,6819.0
+05-2019,108h40m,Rio de Janeiro,horas_trabalho,6520.0
+06-2019,109h56m,Rio de Janeiro,horas_trabalho,6596.0
+07-2019,105h39m,Rio de Janeiro,horas_trabalho,6339.0
+08-2019,101h54m,Rio de Janeiro,horas_trabalho,6114.0
+09-2019,101h01m,Rio de Janeiro,horas_trabalho,6061.0
+10-2019,101h58m,Rio de Janeiro,horas_trabalho,6118.0
+11-2019,100h23m,Rio de Janeiro,horas_trabalho,6023.0
+12-2019,113h57m,Rio de Janeiro,horas_trabalho,6837.0
+01-2020,107h23m,Rio de Janeiro,horas_trabalho,6443.0
+02-2020,106h26m,Rio de Janeiro,horas_trabalho,6386.0
+03-2020,112h21m,Rio de Janeiro,horas_trabalho,6741.0
+04-2020,114h36m,Rio de Janeiro,horas_trabalho,6876.0
+05-2020,117h38m,Rio de Janeiro,horas_trabalho,7058.0
+06-2020,107h58m,Rio de Janeiro,horas_trabalho,6478.0
+07-2020,106h28m,Rio de Janeiro,horas_trabalho,6388.0
+08-2020,111h32m,Rio de Janeiro,horas_trabalho,6692.0
+09-2020,118h41m,Rio de Janeiro,horas_trabalho,7121.0
+10-2020,124h41m,Rio de Janeiro,horas_trabalho,7481.0
+11-2020,132h33m,Rio de Janeiro,horas_trabalho,7953.0
+12-2020,130h46m,Rio de Janeiro,horas_trabalho,7846.0
+01-2021,128h48m,Rio de Janeiro,horas_trabalho,7728.0
+02-2021,125h58m,Rio de Janeiro,horas_trabalho,7558.0
+03-2021,122h31m,Rio de Janeiro,horas_trabalho,7351.0
+04-2021,124h25m,Rio de Janeiro,horas_trabalho,7465.0
+05-2021,124h33m,Rio de Janeiro,horas_trabalho,7473.0
+06-2021,123h51m,Rio de Janeiro,horas_trabalho,7431.0
+07-2021,124h16m,Rio de Janeiro,horas_trabalho,7456.0
+08-2021,126h50m,Rio de Janeiro,horas_trabalho,7610.0
+09-2021,128h37m,Rio de Janeiro,horas_trabalho,7717.0
+10-2021,134h46m,Rio de Janeiro,horas_trabalho,8086.0
+11-2021,133h07m,Rio de Janeiro,horas_trabalho,7987.0
+12-2021,133h15m,Rio de Janeiro,horas_trabalho,7995.0
+01-2022,125h46m,Rio de Janeiro,horas_trabalho,7546.0
+02-2022,126h35m,Rio de Janeiro,horas_trabalho,7595.0
+03-2022,136h16m,Rio de Janeiro,horas_trabalho,8176.0
+04-2022,139h29m,Rio de Janeiro,horas_trabalho,8369.0
+05-2022,131h20m,Rio de Janeiro,horas_trabalho,7880.0
+06-2022,133h05m,Rio de Janeiro,horas_trabalho,7985.0
+07-2022,131h22m,Rio de Janeiro,horas_trabalho,7882.0
+08-2022,130h18m,Rio de Janeiro,horas_trabalho,7818.0
+09-2022,129h38m,Rio de Janeiro,horas_trabalho,7778.0
+10-2022,133h39m,Rio de Janeiro,horas_trabalho,8019.0
+11-2022,136h00m,Rio de Janeiro,horas_trabalho,8160.0
+12-2022,136h38m,Rio de Janeiro,horas_trabalho,8198.0
+01-2023,130h08m,Rio de Janeiro,horas_trabalho,7808.0
+02-2023,126h03m,Rio de Janeiro,horas_trabalho,7563.0
+03-2023,124h18m,Rio de Janeiro,horas_trabalho,7458.0
+04-2023,126h52m,Rio de Janeiro,horas_trabalho,7612.0
+05-2023,124h58m,Rio de Janeiro,horas_trabalho,7498.0
+06-2023,123h30m,Rio de Janeiro,horas_trabalho,7410.0
+07-2023,123h01m,Rio de Janeiro,horas_trabalho,7381.0
+08-2023,120h28m,Rio de Janeiro,horas_trabalho,7228.0
+09-2023,119h59m,Rio de Janeiro,horas_trabalho,7199.0
+10-2023,120h11m,Rio de Janeiro,horas_trabalho,7211.0
+11-2023,121h23m,Rio de Janeiro,horas_trabalho,7283.0
+12-2023,123h06m,Rio de Janeiro,horas_trabalho,7386.0
+01-2024,123h22m,Rio de Janeiro,horas_trabalho,7402.0
+02-2024,129h46m,Rio de Janeiro,horas_trabalho,7786.0
+03-2024,126h33m,Rio de Janeiro,horas_trabalho,7593.0
+04-2024,124h50m,Rio de Janeiro,horas_trabalho,7490.0
+05-2024,124h08m,Rio de Janeiro,horas_trabalho,7448.0
+06-2024,126h53m,Rio de Janeiro,horas_trabalho,7613.0
+07-2024,118h03m,Rio de Janeiro,horas_trabalho,7083.0
+08-2024,116h11m,Rio de Janeiro,horas_trabalho,6971.0
+09-2024,117h59m,Rio de Janeiro,horas_trabalho,7079.0
+10-2024,120h33m,Rio de Janeiro,horas_trabalho,7233.0
+11-2024,121h10m,Rio de Janeiro,horas_trabalho,7270.0
+12-2024,121h30m,Rio de Janeiro,horas_trabalho,7290.0
+01-1989,146h31m,Vitória,horas_trabalho,8791.0
+02-1989,179h36m,Vitória,horas_trabalho,10776.0
+03-1989,187h23m,Vitória,horas_trabalho,11243.0
+04-1989,202h12m,Vitória,horas_trabalho,12132.0
+05-1989,203h48m,Vitória,horas_trabalho,12228.0
+06-1989,176h40m,Vitória,horas_trabalho,10600.0
+07-1989,164h15m,Vitória,horas_trabalho,9855.0
+08-1989,170h30m,Vitória,horas_trabalho,10230.0
+09-1989,167h55m,Vitória,horas_trabalho,10075.0
+10-1989,139h39m,Vitória,horas_trabalho,8379.0
+11-1989,144h25m,Vitória,horas_trabalho,8665.0
+12-1989,161h07m,Vitória,horas_trabalho,9667.0
+01-1990,173h13m,Vitória,horas_trabalho,10393.0
+02-1990,164h35m,Vitória,horas_trabalho,9875.0
+03-1990,173h44m,Vitória,horas_trabalho,10424.0
+04-1990,176h21m,Vitória,horas_trabalho,10581.0
+05-1990,202h32m,Vitória,horas_trabalho,12152.0
+06-1990,260h26m,Vitória,horas_trabalho,15626.0
+07-1990,215h53m,Vitória,horas_trabalho,12953.0
+08-1990,224h29m,Vitória,horas_trabalho,13469.0
+09-1990,222h18m,Vitória,horas_trabalho,13338.0
+10-1990,214h20m,Vitória,horas_trabalho,12860.0
+11-1990,181h48m,Vitória,horas_trabalho,10908.0
+12-1990,183h14m,Vitória,horas_trabalho,10994.0
+01-1991,169h13m,Vitória,horas_trabalho,10153.0
+02-1991,153h37m,Vitória,horas_trabalho,9217.0
+03-1991,156h32m,Vitória,horas_trabalho,9392.0
+04-1991,140h24m,Vitória,horas_trabalho,8424.0
+05-1991,127h00m,Vitória,horas_trabalho,7620.0
+06-1991,133h04m,Vitória,horas_trabalho,7984.0
+07-1991,155h35m,Vitória,horas_trabalho,9335.0
+08-1991,122h22m,Vitória,horas_trabalho,7342.0
+09-1991,118h26m,Vitória,horas_trabalho,7106.0
+10-1991,165h27m,Vitória,horas_trabalho,9927.0
+11-1991,207h33m,Vitória,horas_trabalho,12453.0
+12-1991,170h14m,Vitória,horas_trabalho,10214.0
+01-1992,146h49m,Vitória,horas_trabalho,8809.0
+02-1992,167h04m,Vitória,horas_trabalho,10024.0
+03-1992,198h58m,Vitória,horas_trabalho,11938.0
+04-1992,236h16m,Vitória,horas_trabalho,14176.0
+05-1992,121h18m,Vitória,horas_trabalho,7278.0
+06-1992,139h20m,Vitória,horas_trabalho,8360.0
+07-1992,173h44m,Vitória,horas_trabalho,10424.0
+08-1992,239h36m,Vitória,horas_trabalho,14376.0
+09-1992,133h07m,Vitória,horas_trabalho,7987.0
+10-1992,167h07m,Vitória,horas_trabalho,10027.0
+11-1992,197h12m,Vitória,horas_trabalho,11832.0
+12-1992,231h59m,Vitória,horas_trabalho,13919.0
+01-1993,122h32m,Vitória,horas_trabalho,7352.0
+02-1993,177h14m,Vitória,horas_trabalho,10634.0
+03-1993,152h26m,Vitória,horas_trabalho,9146.0
+04-1993,212h32m,Vitória,horas_trabalho,12752.0
+05-1993,143h20m,Vitória,horas_trabalho,8600.0
+06-1993,182h23m,Vitória,horas_trabalho,10943.0
+07-1993,168h41m,Vitória,horas_trabalho,10121.0
+08-1993,184h21m,Vitória,horas_trabalho,11061.0
+09-1993,140h17m,Vitória,horas_trabalho,8417.0
+10-1993,151h25m,Vitória,horas_trabalho,9085.0
+11-1993,179h40m,Vitória,horas_trabalho,10780.0
+12-1993,198h07m,Vitória,horas_trabalho,11887.0
+01-1994,159h42m,Vitória,horas_trabalho,9582.0
+02-1994,165h25m,Vitória,horas_trabalho,9925.0
+03-1994,184h02m,Vitória,horas_trabalho,11042.0
+04-1994,184h04m,Vitória,horas_trabalho,11044.0
+05-1994,167h30m,Vitória,horas_trabalho,10050.0
+06-1994,194h33m,Vitória,horas_trabalho,11673.0
+07-1994,211h55m,Vitória,horas_trabalho,12715.0
+08-1994,233h45m,Vitória,horas_trabalho,14025.0
+09-1994,235h22m,Vitória,horas_trabalho,14122.0
+10-1994,243h00m,Vitória,horas_trabalho,14580.0
+11-1994,248h45m,Vitória,horas_trabalho,14925.0
+12-1994,239h42m,Vitória,horas_trabalho,14382.0
+01-1995,186h05m,Vitória,horas_trabalho,11165.0
+02-1995,230h09m,Vitória,horas_trabalho,13809.0
+03-1995,244h15m,Vitória,horas_trabalho,14655.0
+04-1995,268h25m,Vitória,horas_trabalho,16105.0
+05-1995,196h24m,Vitória,horas_trabalho,11784.0
+06-1995,183h19m,Vitória,horas_trabalho,10999.0
+07-1995,163h52m,Vitória,horas_trabalho,9832.0
+08-1995,168h28m,Vitória,horas_trabalho,10108.0
+09-1995,160h22m,Vitória,horas_trabalho,9622.0
+10-1995,154h09m,Vitória,horas_trabalho,9249.0
+11-1995,158h45m,Vitória,horas_trabalho,9525.0
+12-1995,166h03m,Vitória,horas_trabalho,9963.0
+01-1996,174h06m,Vitória,horas_trabalho,10446.0
+02-1996,170h08m,Vitória,horas_trabalho,10208.0
+03-1996,160h57m,Vitória,horas_trabalho,9657.0
+04-1996,164h32m,Vitória,horas_trabalho,9872.0
+05-1996,157h43m,Vitória,horas_trabalho,9463.0
+06-1996,163h31m,Vitória,horas_trabalho,9811.0
+07-1996,162h55m,Vitória,horas_trabalho,9775.0
+08-1996,161h09m,Vitória,horas_trabalho,9669.0
+09-1996,156h56m,Vitória,horas_trabalho,9416.0
+10-1996,155h34m,Vitória,horas_trabalho,9334.0
+11-1996,152h57m,Vitória,horas_trabalho,9177.0
+12-1996,147h55m,Vitória,horas_trabalho,8875.0
+01-1997,146h52m,Vitória,horas_trabalho,8812.0
+02-1997,152h10m,Vitória,horas_trabalho,9130.0
+03-1997,162h30m,Vitória,horas_trabalho,9750.0
+04-1997,164h39m,Vitória,horas_trabalho,9879.0
+05-1997,152h40m,Vitória,horas_trabalho,9160.0
+06-1997,138h22m,Vitória,horas_trabalho,8302.0
+07-1997,137h17m,Vitória,horas_trabalho,8237.0
+08-1997,137h33m,Vitória,horas_trabalho,8253.0
+09-1997,137h17m,Vitória,horas_trabalho,8237.0
+10-1997,143h52m,Vitória,horas_trabalho,8632.0
+11-1997,149h20m,Vitória,horas_trabalho,8960.0
+12-1997,154h56m,Vitória,horas_trabalho,9296.0
+01-1998,157h49m,Vitória,horas_trabalho,9469.0
+02-1998,156h42m,Vitória,horas_trabalho,9402.0
+03-1998,158h36m,Vitória,horas_trabalho,9516.0
+04-1998,164h50m,Vitória,horas_trabalho,9890.0
+05-1998,151h31m,Vitória,horas_trabalho,9091.0
+06-1998,158h53m,Vitória,horas_trabalho,9533.0
+07-1998,147h06m,Vitória,horas_trabalho,8826.0
+08-1998,140h24m,Vitória,horas_trabalho,8424.0
+09-1998,137h37m,Vitória,horas_trabalho,8257.0
+10-1998,138h22m,Vitória,horas_trabalho,8302.0
+11-1998,139h02m,Vitória,horas_trabalho,8342.0
+12-1998,144h57m,Vitória,horas_trabalho,8697.0
+01-1999,137h37m,Vitória,horas_trabalho,8257.0
+02-1999,143h23m,Vitória,horas_trabalho,8603.0
+03-1999,149h06m,Vitória,horas_trabalho,8946.0
+04-1999,155h40m,Vitória,horas_trabalho,9340.0
+05-1999,144h30m,Vitória,horas_trabalho,8670.0
+06-1999,145h18m,Vitória,horas_trabalho,8718.0
+07-1999,137h06m,Vitória,horas_trabalho,8226.0
+08-1999,143h34m,Vitória,horas_trabalho,8614.0
+09-1999,138h50m,Vitória,horas_trabalho,8330.0
+10-1999,145h42m,Vitória,horas_trabalho,8742.0
+11-1999,151h13m,Vitória,horas_trabalho,9073.0
+12-1999,150h03m,Vitória,horas_trabalho,9003.0
+01-2000,153h14m,Vitória,horas_trabalho,9194.0
+02-2000,150h48m,Vitória,horas_trabalho,9048.0
+03-2000,155h28m,Vitória,horas_trabalho,9328.0
+04-2000,142h31m,Vitória,horas_trabalho,8551.0
+05-2000,136h31m,Vitória,horas_trabalho,8191.0
+06-2000,132h07m,Vitória,horas_trabalho,7927.0
+07-2000,130h30m,Vitória,horas_trabalho,7830.0
+08-2000,137h04m,Vitória,horas_trabalho,8224.0
+09-2000,140h10m,Vitória,horas_trabalho,8410.0
+10-2000,142h18m,Vitória,horas_trabalho,8538.0
+11-2000,144h04m,Vitória,horas_trabalho,8644.0
+12-2000,140h01m,Vitória,horas_trabalho,8401.0
+01-2001,138h07m,Vitória,horas_trabalho,8287.0
+02-2001,141h41m,Vitória,horas_trabalho,8501.0
+03-2001,152h48m,Vitória,horas_trabalho,9168.0
+04-2001,138h21m,Vitória,horas_trabalho,8301.0
+05-2001,135h36m,Vitória,horas_trabalho,8136.0
+06-2001,135h32m,Vitória,horas_trabalho,8132.0
+07-2001,135h58m,Vitória,horas_trabalho,8158.0
+08-2001,132h19m,Vitória,horas_trabalho,7939.0
+09-2001,130h50m,Vitória,horas_trabalho,7850.0
+10-2001,135h41m,Vitória,horas_trabalho,8141.0
+11-2001,138h02m,Vitória,horas_trabalho,8282.0
+12-2001,142h24m,Vitória,horas_trabalho,8544.0
+01-2002,143h57m,Vitória,horas_trabalho,8637.0
+02-2002,143h57m,Vitória,horas_trabalho,8637.0
+03-2002,142h05m,Vitória,horas_trabalho,8525.0
+04-2002,127h36m,Vitória,horas_trabalho,7656.0
+05-2002,125h01m,Vitória,horas_trabalho,7501.0
+06-2002,126h52m,Vitória,horas_trabalho,7612.0
+07-2002,132h48m,Vitória,horas_trabalho,7968.0
+08-2002,134h36m,Vitória,horas_trabalho,8076.0
+09-2002,135h40m,Vitória,horas_trabalho,8140.0
+10-2002,137h04m,Vitória,horas_trabalho,8224.0
+11-2002,145h41m,Vitória,horas_trabalho,8741.0
+12-2002,149h02m,Vitória,horas_trabalho,8942.0
+01-2003,151h43m,Vitória,horas_trabalho,9103.0
+02-2003,158h23m,Vitória,horas_trabalho,9503.0
+03-2003,164h12m,Vitória,horas_trabalho,9852.0
+04-2003,142h46m,Vitória,horas_trabalho,8566.0
+05-2003,137h22m,Vitória,horas_trabalho,8242.0
+06-2003,134h27m,Vitória,horas_trabalho,8067.0
+07-2003,129h06m,Vitória,horas_trabalho,7746.0
+08-2003,125h20m,Vitória,horas_trabalho,7520.0
+09-2003,127h07m,Vitória,horas_trabalho,7627.0
+10-2003,125h52m,Vitória,horas_trabalho,7552.0
+11-2003,127h40m,Vitória,horas_trabalho,7660.0
+12-2003,127h40m,Vitória,horas_trabalho,7660.0
+01-2004,135h47m,Vitória,horas_trabalho,8147.0
+02-2004,134h59m,Vitória,horas_trabalho,8099.0
+03-2004,136h36m,Vitória,horas_trabalho,8196.0
+04-2004,134h01m,Vitória,horas_trabalho,8041.0
+05-2004,124h42m,Vitória,horas_trabalho,7482.0
+06-2004,133h51m,Vitória,horas_trabalho,8031.0
+07-2004,129h48m,Vitória,horas_trabalho,7788.0
+08-2004,139h39m,Vitória,horas_trabalho,8379.0
+09-2004,130h55m,Vitória,horas_trabalho,7855.0
+10-2004,128h29m,Vitória,horas_trabalho,7709.0
+11-2004,125h35m,Vitória,horas_trabalho,7535.0
+12-2004,128h56m,Vitória,horas_trabalho,7736.0
+01-2005,133h40m,Vitória,horas_trabalho,8020.0
+02-2005,138h30m,Vitória,horas_trabalho,8310.0
+03-2005,134h46m,Vitória,horas_trabalho,8086.0
+04-2005,139h47m,Vitória,horas_trabalho,8387.0
+05-2005,125h13m,Vitória,horas_trabalho,7513.0
+06-2005,119h27m,Vitória,horas_trabalho,7167.0
+07-2005,117h42m,Vitória,horas_trabalho,7062.0
+08-2005,110h34m,Vitória,horas_trabalho,6634.0
+09-2005,108h47m,Vitória,horas_trabalho,6527.0
+10-2005,112h02m,Vitória,horas_trabalho,6722.0
+11-2005,121h19m,Vitória,horas_trabalho,7279.0
+12-2005,121h27m,Vitória,horas_trabalho,7287.0
+01-2006,121h07m,Vitória,horas_trabalho,7267.0
+02-2006,116h54m,Vitória,horas_trabalho,7014.0
+03-2006,117h47m,Vitória,horas_trabalho,7067.0
+04-2006,101h45m,Vitória,horas_trabalho,6105.0
+05-2006,102h41m,Vitória,horas_trabalho,6161.0
+06-2006,95h45m,Vitória,horas_trabalho,5745.0
+07-2006,95h13m,Vitória,horas_trabalho,5713.0
+08-2006,92h49m,Vitória,horas_trabalho,5569.0
+09-2006,94h10m,Vitória,horas_trabalho,5650.0
+10-2006,99h15m,Vitória,horas_trabalho,5955.0
+11-2006,102h59m,Vitória,horas_trabalho,6179.0
+12-2006,99h25m,Vitória,horas_trabalho,5965.0
+01-2007,106h13m,Vitória,horas_trabalho,6373.0
+02-2007,108h22m,Vitória,horas_trabalho,6502.0
+03-2007,109h27m,Vitória,horas_trabalho,6567.0
+04-2007,99h17m,Vitória,horas_trabalho,5957.0
+05-2007,94h14m,Vitória,horas_trabalho,5654.0
+06-2007,95h19m,Vitória,horas_trabalho,5719.0
+07-2007,94h58m,Vitória,horas_trabalho,5698.0
+08-2007,99h54m,Vitória,horas_trabalho,5994.0
+09-2007,104h11m,Vitória,horas_trabalho,6251.0
+10-2007,105h51m,Vitória,horas_trabalho,6351.0
+11-2007,104h12m,Vitória,horas_trabalho,6252.0
+12-2007,109h43m,Vitória,horas_trabalho,6583.0
+01-2008,114h57m,Vitória,horas_trabalho,6897.0
+02-2008,114h34m,Vitória,horas_trabalho,6874.0
+03-2008,109h38m,Vitória,horas_trabalho,6578.0
+04-2008,112h36m,Vitória,horas_trabalho,6756.0
+05-2008,118h12m,Vitória,horas_trabalho,7092.0
+06-2008,116h52m,Vitória,horas_trabalho,7012.0
+07-2008,122h02m,Vitória,horas_trabalho,7322.0
+08-2008,110h16m,Vitória,horas_trabalho,6616.0
+09-2008,108h43m,Vitória,horas_trabalho,6523.0
+10-2008,113h13m,Vitória,horas_trabalho,6793.0
+11-2008,119h54m,Vitória,horas_trabalho,7194.0
+12-2008,120h37m,Vitória,horas_trabalho,7237.0
+01-2009,126h24m,Vitória,horas_trabalho,7584.0
+02-2009,109h59m,Vitória,horas_trabalho,6599.0
+03-2009,103h06m,Vitória,horas_trabalho,6186.0
+04-2009,103h46m,Vitória,horas_trabalho,6226.0
+05-2009,106h40m,Vitória,horas_trabalho,6400.0
+06-2009,107h32m,Vitória,horas_trabalho,6452.0
+07-2009,105h33m,Vitória,horas_trabalho,6333.0
+08-2009,105h33m,Vitória,horas_trabalho,6333.0
+09-2009,106h56m,Vitória,horas_trabalho,6416.0
+10-2009,106h15m,Vitória,horas_trabalho,6375.0
+11-2009,107h47m,Vitória,horas_trabalho,6467.0
+12-2009,103h39m,Vitória,horas_trabalho,6219.0
+01-2010,93h42m,Vitória,horas_trabalho,5622.0
+02-2010,96h57m,Vitória,horas_trabalho,5817.0
+03-2010,100h11m,Vitória,horas_trabalho,6011.0
+04-2010,105h17m,Vitória,horas_trabalho,6317.0
+05-2010,104h46m,Vitória,horas_trabalho,6286.0
+06-2010,99h42m,Vitória,horas_trabalho,5982.0
+07-2010,95h53m,Vitória,horas_trabalho,5753.0
+08-2010,94h01m,Vitória,horas_trabalho,5641.0
+09-2010,97h13m,Vitória,horas_trabalho,5833.0
+10-2010,99h46m,Vitória,horas_trabalho,5986.0
+11-2010,106h26m,Vitória,horas_trabalho,6386.0
+12-2010,104h24m,Vitória,horas_trabalho,6264.0
+01-2011,101h57m,Vitória,horas_trabalho,6117.0
+02-2011,100h21m,Vitória,horas_trabalho,6021.0
+03-2011,104h17m,Vitória,horas_trabalho,6257.0
+04-2011,103h23m,Vitória,horas_trabalho,6203.0
+05-2011,105h12m,Vitória,horas_trabalho,6312.0
+06-2011,103h24m,Vitória,horas_trabalho,6204.0
+07-2011,101h13m,Vitória,horas_trabalho,6073.0
+08-2011,100h45m,Vitória,horas_trabalho,6045.0
+09-2011,100h45m,Vitória,horas_trabalho,6045.0
+10-2011,101h43m,Vitória,horas_trabalho,6103.0
+11-2011,106h32m,Vitória,horas_trabalho,6392.0
+12-2011,111h10m,Vitória,horas_trabalho,6670.0
+01-2012,95h55m,Vitória,horas_trabalho,5755.0
+02-2012,94h30m,Vitória,horas_trabalho,5670.0
+03-2012,92h03m,Vitória,horas_trabalho,5523.0
+04-2012,92h43m,Vitória,horas_trabalho,5563.0
+05-2012,95h55m,Vitória,horas_trabalho,5755.0
+06-2012,98h13m,Vitória,horas_trabalho,5893.0
+07-2012,102h51m,Vitória,horas_trabalho,6171.0
+08-2012,105h37m,Vitória,horas_trabalho,6337.0
+09-2012,106h22m,Vitória,horas_trabalho,6382.0
+10-2012,103h56m,Vitória,horas_trabalho,6236.0
+11-2012,104h27m,Vitória,horas_trabalho,6267.0
+12-2012,102h53m,Vitória,horas_trabalho,6173.0
+01-2013,102h20m,Vitória,horas_trabalho,6140.0
+02-2013,101h42m,Vitória,horas_trabalho,6102.0
+03-2013,107h48m,Vitória,horas_trabalho,6468.0
+04-2013,106h44m,Vitória,horas_trabalho,6404.0
+05-2013,105h44m,Vitória,horas_trabalho,6344.0
+06-2013,102h25m,Vitória,horas_trabalho,6145.0
+07-2013,100h50m,Vitória,horas_trabalho,6050.0
+08-2013,100h36m,Vitória,horas_trabalho,6036.0
+09-2013,97h51m,Vitória,horas_trabalho,5871.0
+10-2013,101h49m,Vitória,horas_trabalho,6109.0
+11-2013,104h18m,Vitória,horas_trabalho,6258.0
+12-2013,104h17m,Vitória,horas_trabalho,6257.0
+01-2014,99h24m,Vitória,horas_trabalho,5964.0
+02-2014,99h48m,Vitória,horas_trabalho,5988.0
+03-2014,104h26m,Vitória,horas_trabalho,6266.0
+04-2014,106h44m,Vitória,horas_trabalho,6404.0
+05-2014,107h12m,Vitória,horas_trabalho,6432.0
+06-2014,105h08m,Vitória,horas_trabalho,6308.0
+07-2014,100h30m,Vitória,horas_trabalho,6030.0
+08-2014,100h01m,Vitória,horas_trabalho,6001.0
+09-2014,99h46m,Vitória,horas_trabalho,5986.0
+10-2014,100h02m,Vitória,horas_trabalho,6002.0
+11-2014,100h41m,Vitória,horas_trabalho,6041.0
+12-2014,101h14m,Vitória,horas_trabalho,6074.0
+01-2015,97h14m,Vitória,horas_trabalho,5834.0
+02-2015,99h04m,Vitória,horas_trabalho,5944.0
+03-2015,101h31m,Vitória,horas_trabalho,6091.0
+04-2015,105h06m,Vitória,horas_trabalho,6306.0
+05-2015,108h18m,Vitória,horas_trabalho,6498.0
+06-2015,102h43m,Vitória,horas_trabalho,6163.0
+07-2015,102h45m,Vitória,horas_trabalho,6165.0
+08-2015,99h57m,Vitória,horas_trabalho,5997.0
+09-2015,100h56m,Vitória,horas_trabalho,6056.0
+10-2015,99h45m,Vitória,horas_trabalho,5985.0
+11-2015,105h47m,Vitória,horas_trabalho,6347.0
+12-2015,107h29m,Vitória,horas_trabalho,6449.0
+01-2016,109h37m,Vitória,horas_trabalho,6577.0
+02-2016,100h21m,Vitória,horas_trabalho,6021.0
+03-2016,104h33m,Vitória,horas_trabalho,6273.0
+04-2016,103h34m,Vitória,horas_trabalho,6214.0
+05-2016,104h44m,Vitória,horas_trabalho,6284.0
+06-2016,107h10m,Vitória,horas_trabalho,6430.0
+07-2016,109h04m,Vitória,horas_trabalho,6544.0
+08-2016,109h08m,Vitória,horas_trabalho,6548.0
+09-2016,108h49m,Vitória,horas_trabalho,6529.0
+10-2016,112h17m,Vitória,horas_trabalho,6737.0
+11-2016,109h43m,Vitória,horas_trabalho,6583.0
+12-2016,106h35m,Vitória,horas_trabalho,6395.0
+01-2017,99h10m,Vitória,horas_trabalho,5950.0
+02-2017,97h13m,Vitória,horas_trabalho,5833.0
+03-2017,97h37m,Vitória,horas_trabalho,5857.0
+04-2017,101h19m,Vitória,horas_trabalho,6079.0
+05-2017,99h05m,Vitória,horas_trabalho,5945.0
+06-2017,94h59m,Vitória,horas_trabalho,5699.0
+07-2017,96h09m,Vitória,horas_trabalho,5769.0
+08-2017,93h25m,Vitória,horas_trabalho,5605.0
+09-2017,91h59m,Vitória,horas_trabalho,5519.0
+10-2017,92h26m,Vitória,horas_trabalho,5546.0
+11-2017,91h05m,Vitória,horas_trabalho,5465.0
+12-2017,90h26m,Vitória,horas_trabalho,5426.0
+01-2018,96h20m,Vitória,horas_trabalho,5780.0
+02-2018,94h44m,Vitória,horas_trabalho,5684.0
+03-2018,94h41m,Vitória,horas_trabalho,5681.0
+04-2018,94h30m,Vitória,horas_trabalho,5670.0
+05-2018,94h32m,Vitória,horas_trabalho,5672.0
+06-2018,95h25m,Vitória,horas_trabalho,5725.0
+07-2018,93h44m,Vitória,horas_trabalho,5624.0
+08-2018,91h15m,Vitória,horas_trabalho,5475.0
+09-2018,91h14m,Vitória,horas_trabalho,5474.0
+10-2018,96h47m,Vitória,horas_trabalho,5807.0
+11-2018,94h13m,Vitória,horas_trabalho,5653.0
+12-2018,93h07m,Vitória,horas_trabalho,5587.0
+01-2019,93h31m,Vitória,horas_trabalho,5611.0
+02-2019,99h06m,Vitória,horas_trabalho,5946.0
+03-2019,104h53m,Vitória,horas_trabalho,6293.0
+04-2019,109h54m,Vitória,horas_trabalho,6594.0
+05-2019,106h53m,Vitória,horas_trabalho,6413.0
+06-2019,106h59m,Vitória,horas_trabalho,6419.0
+07-2019,102h56m,Vitória,horas_trabalho,6176.0
+08-2019,97h19m,Vitória,horas_trabalho,5839.0
+09-2019,94h35m,Vitória,horas_trabalho,5675.0
+10-2019,94h24m,Vitória,horas_trabalho,5664.0
+11-2019,101h52m,Vitória,horas_trabalho,6112.0
+12-2019,110h03m,Vitória,horas_trabalho,6603.0
+01-2020,104h13m,Vitória,horas_trabalho,6253.0
+02-2020,101h04m,Vitória,horas_trabalho,6064.0
+03-2020,106h16m,Vitória,horas_trabalho,6376.0
+04-2020,113h14m,Vitória,horas_trabalho,6794.0
+05-2020,113h00m,Vitória,horas_trabalho,6780.0
+06-2020,105h16m,Vitória,horas_trabalho,6316.0
+07-2020,102h04m,Vitória,horas_trabalho,6124.0
+08-2020,107h15m,Vitória,horas_trabalho,6435.0
+09-2020,113h33m,Vitória,horas_trabalho,6813.0
+10-2020,116h23m,Vitória,horas_trabalho,6983.0
+11-2020,127h42m,Vitória,horas_trabalho,7662.0
+12-2020,126h22m,Vitória,horas_trabalho,7582.0
+01-2021,124h55m,Vitória,horas_trabalho,7495.0
+02-2021,121h51m,Vitória,horas_trabalho,7311.0
+03-2021,119h23m,Vitória,horas_trabalho,7163.0
+04-2021,122h12m,Vitória,horas_trabalho,7332.0
+05-2021,123h23m,Vitória,horas_trabalho,7403.0
+06-2021,122h16m,Vitória,horas_trabalho,7336.0
+07-2021,122h29m,Vitória,horas_trabalho,7349.0
+08-2021,123h47m,Vitória,horas_trabalho,7427.0
+09-2021,126h37m,Vitória,horas_trabalho,7597.0
+10-2021,134h12m,Vitória,horas_trabalho,8052.0
+11-2021,133h38m,Vitória,horas_trabalho,8018.0
+12-2021,132h24m,Vitória,horas_trabalho,7944.0
+01-2022,122h59m,Vitória,horas_trabalho,7379.0
+02-2022,123h53m,Vitória,horas_trabalho,7433.0
+03-2022,127h58m,Vitória,horas_trabalho,7678.0
+04-2022,132h23m,Vitória,horas_trabalho,7943.0
+05-2022,126h44m,Vitória,horas_trabalho,7604.0
+06-2022,125h46m,Vitória,horas_trabalho,7546.0
+07-2022,127h12m,Vitória,horas_trabalho,7632.0
+08-2022,126h35m,Vitória,horas_trabalho,7595.0
+09-2022,124h34m,Vitória,horas_trabalho,7474.0
+10-2022,128h28m,Vitória,horas_trabalho,7708.0
+11-2022,129h32m,Vitória,horas_trabalho,7772.0
+12-2022,132h17m,Vitória,horas_trabalho,7937.0
+01-2023,122h43m,Vitória,horas_trabalho,7363.0
+02-2023,119h50m,Vitória,horas_trabalho,7190.0
+03-2023,118h08m,Vitória,horas_trabalho,7088.0
+04-2023,118h56m,Vitória,horas_trabalho,7136.0
+05-2023,117h41m,Vitória,horas_trabalho,7061.0
+06-2023,115h13m,Vitória,horas_trabalho,6913.0
+07-2023,112h25m,Vitória,horas_trabalho,6745.0
+08-2023,110h09m,Vitória,horas_trabalho,6609.0
+09-2023,113h39m,Vitória,horas_trabalho,6819.0
+10-2023,112h32m,Vitória,horas_trabalho,6752.0
+11-2023,112h35m,Vitória,horas_trabalho,6755.0
+12-2023,114h49m,Vitória,horas_trabalho,6889.0
+01-2024,112h04m,Vitória,horas_trabalho,6724.0
+02-2024,114h01m,Vitória,horas_trabalho,6841.0
+03-2024,113h38m,Vitória,horas_trabalho,6818.0
+04-2024,113h14m,Vitória,horas_trabalho,6794.0
+05-2024,112h47m,Vitória,horas_trabalho,6767.0
+06-2024,111h56m,Vitória,horas_trabalho,6716.0
+07-2024,107h16m,Vitória,horas_trabalho,6436.0
+08-2024,106h36m,Vitória,horas_trabalho,6396.0
+09-2024,108h16m,Vitória,horas_trabalho,6496.0
+10-2024,110h19m,Vitória,horas_trabalho,6619.0
+11-2024,113h12m,Vitória,horas_trabalho,6792.0
+12-2024,116h27m,Vitória,horas_trabalho,6987.0

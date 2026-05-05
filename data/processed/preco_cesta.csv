@@ -1,0 +1,1729 @@
+﻿mes_ano,valor_original,cidade,metrica,valor_reais
+01-1989,44.95,São Paulo,preco_cesta,44.95
+02-1989,51.23,São Paulo,preco_cesta,51.23
+03-1989,56.45,São Paulo,preco_cesta,56.45
+04-1989,60.14,São Paulo,preco_cesta,60.14
+05-1989,72.9,São Paulo,preco_cesta,72.9
+06-1989,100.07,São Paulo,preco_cesta,100.07
+07-1989,112.87,São Paulo,preco_cesta,112.87
+08-1989,153.51,São Paulo,preco_cesta,153.51
+09-1989,195.04,São Paulo,preco_cesta,195.04
+10-1989,239.6,São Paulo,preco_cesta,239.6
+11-1989,364.06,São Paulo,preco_cesta,364.06
+12-1989,531.32,São Paulo,preco_cesta,531.32
+01-1990,1063.03,São Paulo,preco_cesta,1063.03
+02-1990,1551.97,São Paulo,preco_cesta,1551.97
+03-1990,2821.34,São Paulo,preco_cesta,2821.34
+04-1990,3104.16,São Paulo,preco_cesta,3104.16
+05-1990,3562.14,São Paulo,preco_cesta,3562.14
+06-1990,4135.4,São Paulo,preco_cesta,4135.4
+07-1990,4750.71,São Paulo,preco_cesta,4750.71
+08-1990,5267.1,São Paulo,preco_cesta,5267.1
+09-1990,6189.43,São Paulo,preco_cesta,6189.43
+10-1990,6841.21,São Paulo,preco_cesta,6841.21
+11-1990,7273.32,São Paulo,preco_cesta,7273.32
+12-1990,7895.84,São Paulo,preco_cesta,7895.84
+01-1991,9912.15,São Paulo,preco_cesta,9912.15
+02-1991,11943.93,São Paulo,preco_cesta,11943.93
+03-1991,12666.08,São Paulo,preco_cesta,12666.08
+04-1991,15136.85,São Paulo,preco_cesta,15136.85
+05-1991,15313.43,São Paulo,preco_cesta,15313.43
+06-1991,15860.32,São Paulo,preco_cesta,15860.32
+07-1991,18409.23,São Paulo,preco_cesta,18409.23
+08-1991,21464.22,São Paulo,preco_cesta,21464.22
+09-1991,24606.74,São Paulo,preco_cesta,24606.74
+10-1991,32988.11,São Paulo,preco_cesta,32988.11
+11-1991,42151.6,São Paulo,preco_cesta,42151.6
+12-1991,50743.21,São Paulo,preco_cesta,50743.21
+01-1992,62707.12,São Paulo,preco_cesta,62707.12
+02-1992,72561.41,São Paulo,preco_cesta,72561.41
+03-1992,89001.75,São Paulo,preco_cesta,89001.75
+04-1992,110776.34,São Paulo,preco_cesta,110776.34
+05-1992,132321.51,São Paulo,preco_cesta,132321.51
+06-1992,158161.68,São Paulo,preco_cesta,158161.68
+07-1992,196315.72,São Paulo,preco_cesta,196315.72
+08-1992,262527.59,São Paulo,preco_cesta,262527.59
+09-1992,340303.17,São Paulo,preco_cesta,340303.17
+10-1992,415423.25,São Paulo,preco_cesta,415423.25
+11-1992,486880.44,São Paulo,preco_cesta,486880.44
+12-1992,595657.81,São Paulo,preco_cesta,595657.81
+01-1993,774525.95,São Paulo,preco_cesta,774525.95
+02-1993,962414,São Paulo,preco_cesta,962414.0
+03-1993,1227738.33,São Paulo,preco_cesta,1227738.33
+04-1993,1779189.69,São Paulo,preco_cesta,1779189.69
+05-1993,2220695,São Paulo,preco_cesta,2220695.0
+06-1993,2842301.09,São Paulo,preco_cesta,2842301.09
+07-1993,3452747.8,São Paulo,preco_cesta,3452747.8
+08-1993,4883.12,São Paulo,preco_cesta,4883.12
+09-1993,6339.29,São Paulo,preco_cesta,6339.29
+10-1993,8458.47,São Paulo,preco_cesta,8458.47
+11-1993,11934.08,São Paulo,preco_cesta,11934.08
+12-1993,16953.23,São Paulo,preco_cesta,16953.23
+01-1994,25268.91,São Paulo,preco_cesta,25268.91
+02-1994,35526.07,São Paulo,preco_cesta,35526.07
+03-1994,53631.77,São Paulo,preco_cesta,53631.77
+04-1994,77463.6,São Paulo,preco_cesta,77463.6
+05-1994,97990.74,São Paulo,preco_cesta,97990.74
+06-1994,148561.94,São Paulo,preco_cesta,148561.94
+07-1994,67.4,São Paulo,preco_cesta,67.4
+08-1994,77.42,São Paulo,preco_cesta,77.42
+09-1994,83.43,São Paulo,preco_cesta,83.43
+10-1994,88.8,São Paulo,preco_cesta,88.8
+11-1994,89.26,São Paulo,preco_cesta,89.26
+12-1994,87.42,São Paulo,preco_cesta,87.42
+01-1995,86.81,São Paulo,preco_cesta,86.81
+02-1995,83.79,São Paulo,preco_cesta,83.79
+03-1995,88.66,São Paulo,preco_cesta,88.66
+04-1995,97.48,São Paulo,preco_cesta,97.48
+05-1995,92.61,São Paulo,preco_cesta,92.61
+06-1995,88.21,São Paulo,preco_cesta,88.21
+07-1995,87.55,São Paulo,preco_cesta,87.55
+08-1995,86.79,São Paulo,preco_cesta,86.79
+09-1995,85.26,São Paulo,preco_cesta,85.26
+10-1995,87.5,São Paulo,preco_cesta,87.5
+11-1995,89.04,São Paulo,preco_cesta,89.04
+12-1995,91.52,São Paulo,preco_cesta,91.52
+01-1996,92.57,São Paulo,preco_cesta,92.57
+02-1996,93.77,São Paulo,preco_cesta,93.77
+03-1996,91.65,São Paulo,preco_cesta,91.65
+04-1996,92.98,São Paulo,preco_cesta,92.98
+05-1996,96.18,São Paulo,preco_cesta,96.18
+06-1996,96.34,São Paulo,preco_cesta,96.34
+07-1996,97.99,São Paulo,preco_cesta,97.99
+08-1996,97.26,São Paulo,preco_cesta,97.26
+09-1996,96.94,São Paulo,preco_cesta,96.94
+10-1996,96.35,São Paulo,preco_cesta,96.35
+11-1996,94.56,São Paulo,preco_cesta,94.56
+12-1996,92.64,São Paulo,preco_cesta,92.64
+01-1997,92.18,São Paulo,preco_cesta,92.18
+02-1997,93.79,São Paulo,preco_cesta,93.79
+03-1997,101.12,São Paulo,preco_cesta,101.12
+04-1997,102.81,São Paulo,preco_cesta,102.81
+05-1997,97.71,São Paulo,preco_cesta,97.71
+06-1997,94.05,São Paulo,preco_cesta,94.05
+07-1997,91.7,São Paulo,preco_cesta,91.7
+08-1997,91.46,São Paulo,preco_cesta,91.46
+09-1997,91.14,São Paulo,preco_cesta,91.14
+10-1997,94,São Paulo,preco_cesta,94.0
+11-1997,94.81,São Paulo,preco_cesta,94.81
+12-1997,98.32,São Paulo,preco_cesta,98.32
+01-1998,100.01,São Paulo,preco_cesta,100.01
+02-1998,99.65,São Paulo,preco_cesta,99.65
+03-1998,101.97,São Paulo,preco_cesta,101.97
+04-1998,106.3,São Paulo,preco_cesta,106.3
+05-1998,112.14,São Paulo,preco_cesta,112.14
+06-1998,111.47,São Paulo,preco_cesta,111.47
+07-1998,105.08,São Paulo,preco_cesta,105.08
+08-1998,101.43,São Paulo,preco_cesta,101.43
+09-1998,100.53,São Paulo,preco_cesta,100.53
+10-1998,102.49,São Paulo,preco_cesta,102.49
+11-1998,101.76,São Paulo,preco_cesta,101.76
+12-1998,102.09,São Paulo,preco_cesta,102.09
+01-1999,104.86,São Paulo,preco_cesta,104.86
+02-1999,106.75,São Paulo,preco_cesta,106.75
+03-1999,106.28,São Paulo,preco_cesta,106.28
+04-1999,104.54,São Paulo,preco_cesta,104.54
+05-1999,105.05,São Paulo,preco_cesta,105.05
+06-1999,104,São Paulo,preco_cesta,104.0
+07-1999,103.03,São Paulo,preco_cesta,103.03
+08-1999,106.23,São Paulo,preco_cesta,106.23
+09-1999,108.17,São Paulo,preco_cesta,108.17
+10-1999,111.11,São Paulo,preco_cesta,111.11
+11-1999,111.91,São Paulo,preco_cesta,111.91
+12-1999,111.96,São Paulo,preco_cesta,111.96
+01-2000,112.22,São Paulo,preco_cesta,112.22
+02-2000,110.8,São Paulo,preco_cesta,110.8
+03-2000,115.13,São Paulo,preco_cesta,115.13
+04-2000,115.92,São Paulo,preco_cesta,115.92
+05-2000,111.78,São Paulo,preco_cesta,111.78
+06-2000,109.44,São Paulo,preco_cesta,109.44
+07-2000,111.43,São Paulo,preco_cesta,111.43
+08-2000,114.63,São Paulo,preco_cesta,114.63
+09-2000,119.47,São Paulo,preco_cesta,119.47
+10-2000,122.61,São Paulo,preco_cesta,122.61
+11-2000,121.61,São Paulo,preco_cesta,121.61
+12-2000,119.54,São Paulo,preco_cesta,119.54
+01-2001,123.36,São Paulo,preco_cesta,123.36
+02-2001,123.44,São Paulo,preco_cesta,123.44
+03-2001,124.76,São Paulo,preco_cesta,124.76
+04-2001,129.49,São Paulo,preco_cesta,129.49
+05-2001,129.78,São Paulo,preco_cesta,129.78
+06-2001,127.58,São Paulo,preco_cesta,127.58
+07-2001,125.68,São Paulo,preco_cesta,125.68
+08-2001,126.39,São Paulo,preco_cesta,126.39
+09-2001,125.01,São Paulo,preco_cesta,125.01
+10-2001,125,São Paulo,preco_cesta,125.0
+11-2001,127.28,São Paulo,preco_cesta,127.28
+12-2001,128.6,São Paulo,preco_cesta,128.6
+01-2002,129.21,São Paulo,preco_cesta,129.21
+02-2002,128.63,São Paulo,preco_cesta,128.63
+03-2002,129.89,São Paulo,preco_cesta,129.89
+04-2002,132.22,São Paulo,preco_cesta,132.22
+05-2002,129.26,São Paulo,preco_cesta,129.26
+06-2002,131.5,São Paulo,preco_cesta,131.5
+07-2002,134.64,São Paulo,preco_cesta,134.64
+08-2002,138.29,São Paulo,preco_cesta,138.29
+09-2002,140.45,São Paulo,preco_cesta,140.45
+10-2002,142.12,São Paulo,preco_cesta,142.12
+11-2002,154.74,São Paulo,preco_cesta,154.74
+12-2002,158.73,São Paulo,preco_cesta,158.73
+01-2003,162.79,São Paulo,preco_cesta,162.79
+02-2003,166.54,São Paulo,preco_cesta,166.54
+03-2003,174.59,São Paulo,preco_cesta,174.59
+04-2003,185.4,São Paulo,preco_cesta,185.4
+05-2003,175.95,São Paulo,preco_cesta,175.95
+06-2003,169.22,São Paulo,preco_cesta,169.22
+07-2003,162.15,São Paulo,preco_cesta,162.15
+08-2003,158.34,São Paulo,preco_cesta,158.34
+09-2003,161.45,São Paulo,preco_cesta,161.45
+10-2003,162.58,São Paulo,preco_cesta,162.58
+11-2003,163.54,São Paulo,preco_cesta,163.54
+12-2003,164.79,São Paulo,preco_cesta,164.79
+01-2004,171.03,São Paulo,preco_cesta,171.03
+02-2004,167,São Paulo,preco_cesta,167.0
+03-2004,166.96,São Paulo,preco_cesta,166.96
+04-2004,165,São Paulo,preco_cesta,165.0
+05-2004,168.68,São Paulo,preco_cesta,168.68
+06-2004,174.9,São Paulo,preco_cesta,174.9
+07-2004,173.95,São Paulo,preco_cesta,173.95
+08-2004,182.26,São Paulo,preco_cesta,182.26
+09-2004,178.37,São Paulo,preco_cesta,178.37
+10-2004,177.14,São Paulo,preco_cesta,177.14
+11-2004,171.06,São Paulo,preco_cesta,171.06
+12-2004,172.2,São Paulo,preco_cesta,172.2
+01-2005,172.87,São Paulo,preco_cesta,172.87
+02-2005,175.04,São Paulo,preco_cesta,175.04
+03-2005,175.87,São Paulo,preco_cesta,175.87
+04-2005,180.93,São Paulo,preco_cesta,180.93
+05-2005,188.63,São Paulo,preco_cesta,188.63
+06-2005,183.14,São Paulo,preco_cesta,183.14
+07-2005,178.22,São Paulo,preco_cesta,178.22
+08-2005,175.12,São Paulo,preco_cesta,175.12
+09-2005,172.34,São Paulo,preco_cesta,172.34
+10-2005,174.77,São Paulo,preco_cesta,174.77
+11-2005,184.67,São Paulo,preco_cesta,184.67
+12-2005,183.43,São Paulo,preco_cesta,183.43
+01-2006,177.45,São Paulo,preco_cesta,177.45
+02-2006,175.54,São Paulo,preco_cesta,175.54
+03-2006,177.28,São Paulo,preco_cesta,177.28
+04-2006,182.95,São Paulo,preco_cesta,182.95
+05-2006,178.99,São Paulo,preco_cesta,178.99
+06-2006,172.31,São Paulo,preco_cesta,172.31
+07-2006,170.5,São Paulo,preco_cesta,170.5
+08-2006,169.62,São Paulo,preco_cesta,169.62
+09-2006,172.1,São Paulo,preco_cesta,172.1
+10-2006,179.74,São Paulo,preco_cesta,179.74
+11-2006,185.29,São Paulo,preco_cesta,185.29
+12-2006,182.05,São Paulo,preco_cesta,182.05
+01-2007,184.72,São Paulo,preco_cesta,184.72
+02-2007,185.96,São Paulo,preco_cesta,185.96
+03-2007,192.86,São Paulo,preco_cesta,192.86
+04-2007,188.8,São Paulo,preco_cesta,188.8
+05-2007,184.93,São Paulo,preco_cesta,184.93
+06-2007,187.45,São Paulo,preco_cesta,187.45
+07-2007,186.98,São Paulo,preco_cesta,186.98
+08-2007,193.04,São Paulo,preco_cesta,193.04
+09-2007,194.34,São Paulo,preco_cesta,194.34
+10-2007,201.25,São Paulo,preco_cesta,201.25
+11-2007,205.48,São Paulo,preco_cesta,205.48
+12-2007,214.63,São Paulo,preco_cesta,214.63
+01-2008,229.09,São Paulo,preco_cesta,229.09
+02-2008,226.2,São Paulo,preco_cesta,226.2
+03-2008,223.94,São Paulo,preco_cesta,223.94
+04-2008,227.81,São Paulo,preco_cesta,227.81
+05-2008,233.92,São Paulo,preco_cesta,233.92
+06-2008,245.24,São Paulo,preco_cesta,245.24
+07-2008,252.13,São Paulo,preco_cesta,252.13
+08-2008,241.15,São Paulo,preco_cesta,241.15
+09-2008,234.68,São Paulo,preco_cesta,234.68
+10-2008,238.15,São Paulo,preco_cesta,238.15
+11-2008,238.66,São Paulo,preco_cesta,238.66
+12-2008,239.49,São Paulo,preco_cesta,239.49
+01-2009,241.53,São Paulo,preco_cesta,241.53
+02-2009,237.34,São Paulo,preco_cesta,237.34
+03-2009,221.9,São Paulo,preco_cesta,221.9
+04-2009,225.63,São Paulo,preco_cesta,225.63
+05-2009,227.36,São Paulo,preco_cesta,227.36
+06-2009,228.1,São Paulo,preco_cesta,228.1
+07-2009,227.17,São Paulo,preco_cesta,227.17
+08-2009,225.69,São Paulo,preco_cesta,225.69
+09-2009,229.89,São Paulo,preco_cesta,229.89
+10-2009,230.03,São Paulo,preco_cesta,230.03
+11-2009,234.99,São Paulo,preco_cesta,234.99
+12-2009,228.19,São Paulo,preco_cesta,228.19
+01-2010,225.02,São Paulo,preco_cesta,225.02
+02-2010,229.64,São Paulo,preco_cesta,229.64
+03-2010,253.74,São Paulo,preco_cesta,253.74
+04-2010,261.39,São Paulo,preco_cesta,261.39
+05-2010,256.31,São Paulo,preco_cesta,256.31
+06-2010,249.06,São Paulo,preco_cesta,249.06
+07-2010,239.38,São Paulo,preco_cesta,239.38
+08-2010,235.65,São Paulo,preco_cesta,235.65
+09-2010,241.08,São Paulo,preco_cesta,241.08
+10-2010,253.79,São Paulo,preco_cesta,253.79
+11-2010,264.61,São Paulo,preco_cesta,264.61
+12-2010,265.15,São Paulo,preco_cesta,265.15
+01-2011,261.25,São Paulo,preco_cesta,261.25
+02-2011,261.18,São Paulo,preco_cesta,261.18
+03-2011,267.58,São Paulo,preco_cesta,267.58
+04-2011,268.52,São Paulo,preco_cesta,268.52
+05-2011,272.98,São Paulo,preco_cesta,272.98
+06-2011,273.48,São Paulo,preco_cesta,273.48
+07-2011,263.38,São Paulo,preco_cesta,263.38
+08-2011,266.75,São Paulo,preco_cesta,266.75
+09-2011,267.19,São Paulo,preco_cesta,267.19
+10-2011,266.97,São Paulo,preco_cesta,266.97
+11-2011,276.31,São Paulo,preco_cesta,276.31
+12-2011,277.27,São Paulo,preco_cesta,277.27
+01-2012,285.54,São Paulo,preco_cesta,285.54
+02-2012,276.54,São Paulo,preco_cesta,276.54
+03-2012,273.25,São Paulo,preco_cesta,273.25
+04-2012,277.27,São Paulo,preco_cesta,277.27
+05-2012,283.69,São Paulo,preco_cesta,283.69
+06-2012,287.63,São Paulo,preco_cesta,287.63
+07-2012,299.39,São Paulo,preco_cesta,299.39
+08-2012,306.02,São Paulo,preco_cesta,306.02
+09-2012,309.08,São Paulo,preco_cesta,309.08
+10-2012,311.55,São Paulo,preco_cesta,311.55
+11-2012,299.26,São Paulo,preco_cesta,299.26
+12-2012,304.9,São Paulo,preco_cesta,304.9
+01-2013,318.4,São Paulo,preco_cesta,318.4
+02-2013,326.59,São Paulo,preco_cesta,326.59
+03-2013,336.26,São Paulo,preco_cesta,336.26
+04-2013,344.3,São Paulo,preco_cesta,344.3
+05-2013,342.05,São Paulo,preco_cesta,342.05
+06-2013,340.46,São Paulo,preco_cesta,340.46
+07-2013,327.44,São Paulo,preco_cesta,327.44
+08-2013,319.66,São Paulo,preco_cesta,319.66
+09-2013,312.07,São Paulo,preco_cesta,312.07
+10-2013,321.14,São Paulo,preco_cesta,321.14
+11-2013,325.56,São Paulo,preco_cesta,325.56
+12-2013,327.24,São Paulo,preco_cesta,327.24
+01-2014,323.47,São Paulo,preco_cesta,323.47
+02-2014,325.35,São Paulo,preco_cesta,325.35
+03-2014,351.46,São Paulo,preco_cesta,351.46
+04-2014,357.85,São Paulo,preco_cesta,357.85
+05-2014,366.54,São Paulo,preco_cesta,366.54
+06-2014,354.63,São Paulo,preco_cesta,354.63
+07-2014,345.42,São Paulo,preco_cesta,345.42
+08-2014,337.8,São Paulo,preco_cesta,337.8
+09-2014,333.12,São Paulo,preco_cesta,333.12
+10-2014,341.04,São Paulo,preco_cesta,341.04
+11-2014,347.96,São Paulo,preco_cesta,347.96
+12-2014,354.19,São Paulo,preco_cesta,354.19
+01-2015,371.22,São Paulo,preco_cesta,371.22
+02-2015,378.86,São Paulo,preco_cesta,378.86
+03-2015,379.35,São Paulo,preco_cesta,379.35
+04-2015,387.05,São Paulo,preco_cesta,387.05
+05-2015,402.05,São Paulo,preco_cesta,402.05
+06-2015,392.77,São Paulo,preco_cesta,392.77
+07-2015,395.83,São Paulo,preco_cesta,395.83
+08-2015,386.04,São Paulo,preco_cesta,386.04
+09-2015,383.21,São Paulo,preco_cesta,383.21
+10-2015,382.13,São Paulo,preco_cesta,382.13
+11-2015,399.21,São Paulo,preco_cesta,399.21
+12-2015,412.12,São Paulo,preco_cesta,412.12
+01-2016,448.31,São Paulo,preco_cesta,448.31
+02-2016,443.4,São Paulo,preco_cesta,443.4
+03-2016,444.11,São Paulo,preco_cesta,444.11
+04-2016,442.42,São Paulo,preco_cesta,442.42
+05-2016,449.7,São Paulo,preco_cesta,449.7
+06-2016,469.02,São Paulo,preco_cesta,469.02
+07-2016,475.27,São Paulo,preco_cesta,475.27
+08-2016,475.11,São Paulo,preco_cesta,475.11
+09-2016,471.57,São Paulo,preco_cesta,471.57
+10-2016,469.55,São Paulo,preco_cesta,469.55
+11-2016,450.39,São Paulo,preco_cesta,450.39
+12-2016,438.89,São Paulo,preco_cesta,438.89
+01-2017,435.89,São Paulo,preco_cesta,435.89
+02-2017,426.22,São Paulo,preco_cesta,426.22
+03-2017,435.34,São Paulo,preco_cesta,435.34
+04-2017,446.28,São Paulo,preco_cesta,446.28
+05-2017,458.93,São Paulo,preco_cesta,458.93
+06-2017,441.61,São Paulo,preco_cesta,441.61
+07-2017,445.83,São Paulo,preco_cesta,445.83
+08-2017,431.66,São Paulo,preco_cesta,431.66
+09-2017,421.02,São Paulo,preco_cesta,421.02
+10-2017,428.13,São Paulo,preco_cesta,428.13
+11-2017,423.23,São Paulo,preco_cesta,423.23
+12-2017,424.36,São Paulo,preco_cesta,424.36
+01-2018,439.2,São Paulo,preco_cesta,439.2
+02-2018,437.33,São Paulo,preco_cesta,437.33
+03-2018,437.84,São Paulo,preco_cesta,437.84
+04-2018,434.8,São Paulo,preco_cesta,434.8
+05-2018,441.16,São Paulo,preco_cesta,441.16
+06-2018,451.63,São Paulo,preco_cesta,451.63
+07-2018,437.42,São Paulo,preco_cesta,437.42
+08-2018,432.81,São Paulo,preco_cesta,432.81
+09-2018,432.83,São Paulo,preco_cesta,432.83
+10-2018,446.02,São Paulo,preco_cesta,446.02
+11-2018,471.37,São Paulo,preco_cesta,471.37
+12-2018,471.44,São Paulo,preco_cesta,471.44
+01-2019,467.65,São Paulo,preco_cesta,467.65
+02-2019,482.4,São Paulo,preco_cesta,482.4
+03-2019,509.11,São Paulo,preco_cesta,509.11
+04-2019,522.05,São Paulo,preco_cesta,522.05
+05-2019,507.07,São Paulo,preco_cesta,507.07
+06-2019,501.68,São Paulo,preco_cesta,501.68
+07-2019,493.16,São Paulo,preco_cesta,493.16
+08-2019,481.44,São Paulo,preco_cesta,481.44
+09-2019,473.85,São Paulo,preco_cesta,473.85
+10-2019,473.59,São Paulo,preco_cesta,473.59
+11-2019,465.81,São Paulo,preco_cesta,465.81
+12-2019,506.5,São Paulo,preco_cesta,506.5
+01-2020,517.51,São Paulo,preco_cesta,517.51
+02-2020,519.76,São Paulo,preco_cesta,519.76
+03-2020,518.5,São Paulo,preco_cesta,518.5
+04-2020,556.25,São Paulo,preco_cesta,556.25
+05-2020,556.36,São Paulo,preco_cesta,556.36
+06-2020,547.03,São Paulo,preco_cesta,547.03
+07-2020,524.74,São Paulo,preco_cesta,524.74
+08-2020,539.95,São Paulo,preco_cesta,539.95
+09-2020,563.35,São Paulo,preco_cesta,563.35
+10-2020,595.87,São Paulo,preco_cesta,595.87
+11-2020,629.18,São Paulo,preco_cesta,629.18
+12-2020,631.46,São Paulo,preco_cesta,631.46
+01-2021,654.15,São Paulo,preco_cesta,654.15
+02-2021,639.47,São Paulo,preco_cesta,639.47
+03-2021,626,São Paulo,preco_cesta,626.0
+04-2021,632.61,São Paulo,preco_cesta,632.61
+05-2021,636.4,São Paulo,preco_cesta,636.4
+06-2021,626.76,São Paulo,preco_cesta,626.76
+07-2021,640.51,São Paulo,preco_cesta,640.51
+08-2021,650.5,São Paulo,preco_cesta,650.5
+09-2021,673.45,São Paulo,preco_cesta,673.45
+10-2021,693.79,São Paulo,preco_cesta,693.79
+11-2021,692.27,São Paulo,preco_cesta,692.27
+12-2021,690.51,São Paulo,preco_cesta,690.51
+01-2022,713.86,São Paulo,preco_cesta,713.86
+02-2022,715.65,São Paulo,preco_cesta,715.65
+03-2022,761.19,São Paulo,preco_cesta,761.19
+04-2022,803.99,São Paulo,preco_cesta,803.99
+05-2022,777.93,São Paulo,preco_cesta,777.93
+06-2022,777.01,São Paulo,preco_cesta,777.01
+07-2022,760.45,São Paulo,preco_cesta,760.45
+08-2022,749.78,São Paulo,preco_cesta,749.78
+09-2022,750.74,São Paulo,preco_cesta,750.74
+10-2022,762.2,São Paulo,preco_cesta,762.2
+11-2022,782.68,São Paulo,preco_cesta,782.68
+12-2022,791.29,São Paulo,preco_cesta,791.29
+01-2023,790.57,São Paulo,preco_cesta,790.57
+02-2023,779.38,São Paulo,preco_cesta,779.38
+03-2023,782.23,São Paulo,preco_cesta,782.23
+04-2023,794.68,São Paulo,preco_cesta,794.68
+05-2023,791.82,São Paulo,preco_cesta,791.82
+06-2023,783.05,São Paulo,preco_cesta,783.05
+07-2023,769.95,São Paulo,preco_cesta,769.95
+08-2023,748.47,São Paulo,preco_cesta,748.47
+09-2023,734.77,São Paulo,preco_cesta,734.77
+10-2023,738.13,São Paulo,preco_cesta,738.13
+11-2023,749.28,São Paulo,preco_cesta,749.28
+12-2023,761.01,São Paulo,preco_cesta,761.01
+01-2024,793.39,São Paulo,preco_cesta,793.39
+02-2024,808.38,São Paulo,preco_cesta,808.38
+03-2024,813.26,São Paulo,preco_cesta,813.26
+04-2024,822.84,São Paulo,preco_cesta,822.84
+05-2024,826.85,São Paulo,preco_cesta,826.85
+06-2024,832.69,São Paulo,preco_cesta,832.69
+07-2024,809.77,São Paulo,preco_cesta,809.77
+08-2024,786.35,São Paulo,preco_cesta,786.35
+09-2024,792.47,São Paulo,preco_cesta,792.47
+10-2024,805.84,São Paulo,preco_cesta,805.84
+11-2024,828.39,São Paulo,preco_cesta,828.39
+12-2024,841.29,São Paulo,preco_cesta,841.29
+01-1989,42.14,Belo Horizonte,preco_cesta,42.14
+02-1989,51,Belo Horizonte,preco_cesta,51.0
+03-1989,55.23,Belo Horizonte,preco_cesta,55.23
+04-1989,55.84,Belo Horizonte,preco_cesta,55.84
+05-1989,69.59,Belo Horizonte,preco_cesta,69.59
+06-1989,98.59,Belo Horizonte,preco_cesta,98.59
+07-1989,114.62,Belo Horizonte,preco_cesta,114.62
+08-1989,156.47,Belo Horizonte,preco_cesta,156.47
+09-1989,194.41,Belo Horizonte,preco_cesta,194.41
+10-1989,236.93,Belo Horizonte,preco_cesta,236.93
+11-1989,369.51,Belo Horizonte,preco_cesta,369.51
+12-1989,548.98,Belo Horizonte,preco_cesta,548.98
+01-1990,1036.98,Belo Horizonte,preco_cesta,1036.98
+02-1990,1535.88,Belo Horizonte,preco_cesta,1535.88
+03-1990,2973.57,Belo Horizonte,preco_cesta,2973.57
+04-1990,3144.32,Belo Horizonte,preco_cesta,3144.32
+05-1990,3460.09,Belo Horizonte,preco_cesta,3460.09
+06-1990,4356.56,Belo Horizonte,preco_cesta,4356.56
+07-1990,4665.98,Belo Horizonte,preco_cesta,4665.98
+08-1990,5301.72,Belo Horizonte,preco_cesta,5301.72
+09-1990,6175.6,Belo Horizonte,preco_cesta,6175.6
+10-1990,6507.04,Belo Horizonte,preco_cesta,6507.04
+11-1990,7124.33,Belo Horizonte,preco_cesta,7124.33
+12-1990,7725.41,Belo Horizonte,preco_cesta,7725.41
+01-1991,10185.54,Belo Horizonte,preco_cesta,10185.54
+02-1991,11558.31,Belo Horizonte,preco_cesta,11558.31
+03-1991,12159.02,Belo Horizonte,preco_cesta,12159.02
+04-1991,14804.34,Belo Horizonte,preco_cesta,14804.34
+05-1991,14906.08,Belo Horizonte,preco_cesta,14906.08
+06-1991,15150.8,Belo Horizonte,preco_cesta,15150.8
+07-1991,17793.98,Belo Horizonte,preco_cesta,17793.98
+08-1991,20342.83,Belo Horizonte,preco_cesta,20342.83
+09-1991,22849.17,Belo Horizonte,preco_cesta,22849.17
+10-1991,30637.36,Belo Horizonte,preco_cesta,30637.36
+11-1991,39387.4,Belo Horizonte,preco_cesta,39387.4
+12-1991,47056.56,Belo Horizonte,preco_cesta,47056.56
+01-1992,62733.52,Belo Horizonte,preco_cesta,62733.52
+02-1992,75883.16,Belo Horizonte,preco_cesta,75883.16
+03-1992,89001.3,Belo Horizonte,preco_cesta,89001.3
+04-1992,104005.39,Belo Horizonte,preco_cesta,104005.39
+05-1992,128821.21,Belo Horizonte,preco_cesta,128821.21
+06-1992,148386.82,Belo Horizonte,preco_cesta,148386.82
+07-1992,186994.85,Belo Horizonte,preco_cesta,186994.85
+08-1992,248797.6,Belo Horizonte,preco_cesta,248797.6
+09-1992,312000.81,Belo Horizonte,preco_cesta,312000.81
+10-1992,389071.49,Belo Horizonte,preco_cesta,389071.49
+11-1992,461804.95,Belo Horizonte,preco_cesta,461804.95
+12-1992,569371.54,Belo Horizonte,preco_cesta,569371.54
+01-1993,772071.05,Belo Horizonte,preco_cesta,772071.05
+02-1993,924700.74,Belo Horizonte,preco_cesta,924700.74
+03-1993,1163609.82,Belo Horizonte,preco_cesta,1163609.82
+04-1993,1596757.02,Belo Horizonte,preco_cesta,1596757.02
+05-1993,2070017.82,Belo Horizonte,preco_cesta,2070017.82
+06-1993,2656746.85,Belo Horizonte,preco_cesta,2656746.85
+07-1993,3351665.78,Belo Horizonte,preco_cesta,3351665.78
+08-1993,4546.21,Belo Horizonte,preco_cesta,4546.21
+09-1993,6036.29,Belo Horizonte,preco_cesta,6036.29
+10-1993,8165.67,Belo Horizonte,preco_cesta,8165.67
+11-1993,11288.43,Belo Horizonte,preco_cesta,11288.43
+12-1993,16865.77,Belo Horizonte,preco_cesta,16865.77
+01-1994,25164.12,Belo Horizonte,preco_cesta,25164.12
+02-1994,34943.48,Belo Horizonte,preco_cesta,34943.48
+03-1994,55560.72,Belo Horizonte,preco_cesta,55560.72
+04-1994,77572.08,Belo Horizonte,preco_cesta,77572.08
+05-1994,99762.54,Belo Horizonte,preco_cesta,99762.54
+06-1994,148594.13,Belo Horizonte,preco_cesta,148594.13
+07-1994,68.56,Belo Horizonte,preco_cesta,68.56
+08-1994,70.05,Belo Horizonte,preco_cesta,70.05
+09-1994,77.58,Belo Horizonte,preco_cesta,77.58
+10-1994,81.14,Belo Horizonte,preco_cesta,81.14
+11-1994,81.98,Belo Horizonte,preco_cesta,81.98
+12-1994,81.51,Belo Horizonte,preco_cesta,81.51
+01-1995,80.42,Belo Horizonte,preco_cesta,80.42
+02-1995,75.7,Belo Horizonte,preco_cesta,75.7
+03-1995,78.55,Belo Horizonte,preco_cesta,78.55
+04-1995,83.42,Belo Horizonte,preco_cesta,83.42
+05-1995,85.34,Belo Horizonte,preco_cesta,85.34
+06-1995,79.88,Belo Horizonte,preco_cesta,79.88
+07-1995,74.74,Belo Horizonte,preco_cesta,74.74
+08-1995,75.19,Belo Horizonte,preco_cesta,75.19
+09-1995,74.74,Belo Horizonte,preco_cesta,74.74
+10-1995,76.15,Belo Horizonte,preco_cesta,76.15
+11-1995,79.25,Belo Horizonte,preco_cesta,79.25
+12-1995,81.11,Belo Horizonte,preco_cesta,81.11
+01-1996,84.99,Belo Horizonte,preco_cesta,84.99
+02-1996,85.43,Belo Horizonte,preco_cesta,85.43
+03-1996,83.84,Belo Horizonte,preco_cesta,83.84
+04-1996,84.86,Belo Horizonte,preco_cesta,84.86
+05-1996,87.6,Belo Horizonte,preco_cesta,87.6
+06-1996,87.78,Belo Horizonte,preco_cesta,87.78
+07-1996,88.05,Belo Horizonte,preco_cesta,88.05
+08-1996,87.54,Belo Horizonte,preco_cesta,87.54
+09-1996,85.91,Belo Horizonte,preco_cesta,85.91
+10-1996,88.17,Belo Horizonte,preco_cesta,88.17
+11-1996,89.53,Belo Horizonte,preco_cesta,89.53
+12-1996,85.83,Belo Horizonte,preco_cesta,85.83
+01-1997,86.73,Belo Horizonte,preco_cesta,86.73
+02-1997,88.78,Belo Horizonte,preco_cesta,88.78
+03-1997,91.91,Belo Horizonte,preco_cesta,91.91
+04-1997,91.54,Belo Horizonte,preco_cesta,91.54
+05-1997,88.32,Belo Horizonte,preco_cesta,88.32
+06-1997,85.48,Belo Horizonte,preco_cesta,85.48
+07-1997,84.14,Belo Horizonte,preco_cesta,84.14
+08-1997,86.58,Belo Horizonte,preco_cesta,86.58
+09-1997,84.5,Belo Horizonte,preco_cesta,84.5
+10-1997,83.95,Belo Horizonte,preco_cesta,83.95
+11-1997,85.59,Belo Horizonte,preco_cesta,85.59
+12-1997,91.33,Belo Horizonte,preco_cesta,91.33
+01-1998,95.17,Belo Horizonte,preco_cesta,95.17
+02-1998,94.52,Belo Horizonte,preco_cesta,94.52
+03-1998,94.79,Belo Horizonte,preco_cesta,94.79
+04-1998,97.65,Belo Horizonte,preco_cesta,97.65
+05-1998,103.12,Belo Horizonte,preco_cesta,103.12
+06-1998,99.79,Belo Horizonte,preco_cesta,99.79
+07-1998,93.16,Belo Horizonte,preco_cesta,93.16
+08-1998,91.91,Belo Horizonte,preco_cesta,91.91
+09-1998,90.59,Belo Horizonte,preco_cesta,90.59
+10-1998,92.3,Belo Horizonte,preco_cesta,92.3
+11-1998,91.05,Belo Horizonte,preco_cesta,91.05
+12-1998,93.58,Belo Horizonte,preco_cesta,93.58
+01-1999,95.55,Belo Horizonte,preco_cesta,95.55
+02-1999,100.26,Belo Horizonte,preco_cesta,100.26
+03-1999,98.41,Belo Horizonte,preco_cesta,98.41
+04-1999,97.34,Belo Horizonte,preco_cesta,97.34
+05-1999,96.66,Belo Horizonte,preco_cesta,96.66
+06-1999,94.53,Belo Horizonte,preco_cesta,94.53
+07-1999,94.1,Belo Horizonte,preco_cesta,94.1
+08-1999,98.5,Belo Horizonte,preco_cesta,98.5
+09-1999,97.07,Belo Horizonte,preco_cesta,97.07
+10-1999,100.79,Belo Horizonte,preco_cesta,100.79
+11-1999,103.91,Belo Horizonte,preco_cesta,103.91
+12-1999,98.44,Belo Horizonte,preco_cesta,98.44
+01-2000,104.3,Belo Horizonte,preco_cesta,104.3
+02-2000,107.4,Belo Horizonte,preco_cesta,107.4
+03-2000,110.8,Belo Horizonte,preco_cesta,110.8
+04-2000,110.28,Belo Horizonte,preco_cesta,110.28
+05-2000,103.28,Belo Horizonte,preco_cesta,103.28
+06-2000,99.81,Belo Horizonte,preco_cesta,99.81
+07-2000,104.61,Belo Horizonte,preco_cesta,104.61
+08-2000,106.6,Belo Horizonte,preco_cesta,106.6
+09-2000,110.04,Belo Horizonte,preco_cesta,110.04
+10-2000,113.55,Belo Horizonte,preco_cesta,113.55
+11-2000,115.23,Belo Horizonte,preco_cesta,115.23
+12-2000,111.12,Belo Horizonte,preco_cesta,111.12
+01-2001,117.55,Belo Horizonte,preco_cesta,117.55
+02-2001,118.45,Belo Horizonte,preco_cesta,118.45
+03-2001,118.83,Belo Horizonte,preco_cesta,118.83
+04-2001,127.38,Belo Horizonte,preco_cesta,127.38
+05-2001,123.72,Belo Horizonte,preco_cesta,123.72
+06-2001,115.91,Belo Horizonte,preco_cesta,115.91
+07-2001,116.64,Belo Horizonte,preco_cesta,116.64
+08-2001,113.8,Belo Horizonte,preco_cesta,113.8
+09-2001,115.06,Belo Horizonte,preco_cesta,115.06
+10-2001,118.95,Belo Horizonte,preco_cesta,118.95
+11-2001,119.27,Belo Horizonte,preco_cesta,119.27
+12-2001,121.02,Belo Horizonte,preco_cesta,121.02
+01-2002,121.59,Belo Horizonte,preco_cesta,121.59
+02-2002,118.2,Belo Horizonte,preco_cesta,118.2
+03-2002,116.18,Belo Horizonte,preco_cesta,116.18
+04-2002,118.25,Belo Horizonte,preco_cesta,118.25
+05-2002,116.93,Belo Horizonte,preco_cesta,116.93
+06-2002,118.56,Belo Horizonte,preco_cesta,118.56
+07-2002,121.93,Belo Horizonte,preco_cesta,121.93
+08-2002,123.27,Belo Horizonte,preco_cesta,123.27
+09-2002,134.09,Belo Horizonte,preco_cesta,134.09
+10-2002,133.39,Belo Horizonte,preco_cesta,133.39
+11-2002,144.43,Belo Horizonte,preco_cesta,144.43
+12-2002,150.94,Belo Horizonte,preco_cesta,150.94
+01-2003,150.53,Belo Horizonte,preco_cesta,150.53
+02-2003,153.62,Belo Horizonte,preco_cesta,153.62
+03-2003,163.76,Belo Horizonte,preco_cesta,163.76
+04-2003,167.94,Belo Horizonte,preco_cesta,167.94
+05-2003,161.02,Belo Horizonte,preco_cesta,161.02
+06-2003,152.28,Belo Horizonte,preco_cesta,152.28
+07-2003,144.46,Belo Horizonte,preco_cesta,144.46
+08-2003,141.83,Belo Horizonte,preco_cesta,141.83
+09-2003,146.87,Belo Horizonte,preco_cesta,146.87
+10-2003,148.51,Belo Horizonte,preco_cesta,148.51
+11-2003,151.76,Belo Horizonte,preco_cesta,151.76
+12-2003,150.58,Belo Horizonte,preco_cesta,150.58
+01-2004,158.92,Belo Horizonte,preco_cesta,158.92
+02-2004,156.27,Belo Horizonte,preco_cesta,156.27
+03-2004,154.51,Belo Horizonte,preco_cesta,154.51
+04-2004,153.32,Belo Horizonte,preco_cesta,153.32
+05-2004,161.69,Belo Horizonte,preco_cesta,161.69
+06-2004,166.1,Belo Horizonte,preco_cesta,166.1
+07-2004,169.59,Belo Horizonte,preco_cesta,169.59
+08-2004,176.21,Belo Horizonte,preco_cesta,176.21
+09-2004,166.05,Belo Horizonte,preco_cesta,166.05
+10-2004,168.76,Belo Horizonte,preco_cesta,168.76
+11-2004,155.99,Belo Horizonte,preco_cesta,155.99
+12-2004,152.27,Belo Horizonte,preco_cesta,152.27
+01-2005,150.56,Belo Horizonte,preco_cesta,150.56
+02-2005,150.97,Belo Horizonte,preco_cesta,150.97
+03-2005,157.47,Belo Horizonte,preco_cesta,157.47
+04-2005,167.75,Belo Horizonte,preco_cesta,167.75
+05-2005,180.36,Belo Horizonte,preco_cesta,180.36
+06-2005,168.07,Belo Horizonte,preco_cesta,168.07
+07-2005,164.87,Belo Horizonte,preco_cesta,164.87
+08-2005,159.83,Belo Horizonte,preco_cesta,159.83
+09-2005,154.97,Belo Horizonte,preco_cesta,154.97
+10-2005,157.58,Belo Horizonte,preco_cesta,157.58
+11-2005,172.27,Belo Horizonte,preco_cesta,172.27
+12-2005,176.88,Belo Horizonte,preco_cesta,176.88
+01-2006,169,Belo Horizonte,preco_cesta,169.0
+02-2006,162.75,Belo Horizonte,preco_cesta,162.75
+03-2006,164.98,Belo Horizonte,preco_cesta,164.98
+04-2006,170.22,Belo Horizonte,preco_cesta,170.22
+05-2006,165.34,Belo Horizonte,preco_cesta,165.34
+06-2006,159.97,Belo Horizonte,preco_cesta,159.97
+07-2006,156.75,Belo Horizonte,preco_cesta,156.75
+08-2006,160.24,Belo Horizonte,preco_cesta,160.24
+09-2006,161.17,Belo Horizonte,preco_cesta,161.17
+10-2006,172.27,Belo Horizonte,preco_cesta,172.27
+11-2006,179.25,Belo Horizonte,preco_cesta,179.25
+12-2006,171.49,Belo Horizonte,preco_cesta,171.49
+01-2007,176.24,Belo Horizonte,preco_cesta,176.24
+02-2007,185.37,Belo Horizonte,preco_cesta,185.37
+03-2007,190.11,Belo Horizonte,preco_cesta,190.11
+04-2007,175.92,Belo Horizonte,preco_cesta,175.92
+05-2007,167.5,Belo Horizonte,preco_cesta,167.5
+06-2007,165.82,Belo Horizonte,preco_cesta,165.82
+07-2007,162.37,Belo Horizonte,preco_cesta,162.37
+08-2007,175.59,Belo Horizonte,preco_cesta,175.59
+09-2007,180.57,Belo Horizonte,preco_cesta,180.57
+10-2007,186.77,Belo Horizonte,preco_cesta,186.77
+11-2007,194.05,Belo Horizonte,preco_cesta,194.05
+12-2007,204.8,Belo Horizonte,preco_cesta,204.8
+01-2008,216.78,Belo Horizonte,preco_cesta,216.78
+02-2008,206.42,Belo Horizonte,preco_cesta,206.42
+03-2008,213.48,Belo Horizonte,preco_cesta,213.48
+04-2008,228.32,Belo Horizonte,preco_cesta,228.32
+05-2008,230.55,Belo Horizonte,preco_cesta,230.55
+06-2008,236.03,Belo Horizonte,preco_cesta,236.03
+07-2008,247.01,Belo Horizonte,preco_cesta,247.01
+08-2008,231.26,Belo Horizonte,preco_cesta,231.26
+09-2008,220.97,Belo Horizonte,preco_cesta,220.97
+10-2008,222.71,Belo Horizonte,preco_cesta,222.71
+11-2008,225.4,Belo Horizonte,preco_cesta,225.4
+12-2008,230.25,Belo Horizonte,preco_cesta,230.25
+01-2009,232.03,Belo Horizonte,preco_cesta,232.03
+02-2009,217.27,Belo Horizonte,preco_cesta,217.27
+03-2009,206.59,Belo Horizonte,preco_cesta,206.59
+04-2009,214.55,Belo Horizonte,preco_cesta,214.55
+05-2009,216.09,Belo Horizonte,preco_cesta,216.09
+06-2009,218.18,Belo Horizonte,preco_cesta,218.18
+07-2009,214.55,Belo Horizonte,preco_cesta,214.55
+08-2009,213.51,Belo Horizonte,preco_cesta,213.51
+09-2009,215.42,Belo Horizonte,preco_cesta,215.42
+10-2009,220.52,Belo Horizonte,preco_cesta,220.52
+11-2009,225.33,Belo Horizonte,preco_cesta,225.33
+12-2009,213.97,Belo Horizonte,preco_cesta,213.97
+01-2010,205.69,Belo Horizonte,preco_cesta,205.69
+02-2010,216.51,Belo Horizonte,preco_cesta,216.51
+03-2010,224.37,Belo Horizonte,preco_cesta,224.37
+04-2010,239.06,Belo Horizonte,preco_cesta,239.06
+05-2010,240.47,Belo Horizonte,preco_cesta,240.47
+06-2010,231.54,Belo Horizonte,preco_cesta,231.54
+07-2010,217.97,Belo Horizonte,preco_cesta,217.97
+08-2010,213.81,Belo Horizonte,preco_cesta,213.81
+09-2010,217.66,Belo Horizonte,preco_cesta,217.66
+10-2010,229.64,Belo Horizonte,preco_cesta,229.64
+11-2010,235.83,Belo Horizonte,preco_cesta,235.83
+12-2010,236.24,Belo Horizonte,preco_cesta,236.24
+01-2011,244.12,Belo Horizonte,preco_cesta,244.12
+02-2011,246.63,Belo Horizonte,preco_cesta,246.63
+03-2011,248.77,Belo Horizonte,preco_cesta,248.77
+04-2011,247.03,Belo Horizonte,preco_cesta,247.03
+05-2011,247.23,Belo Horizonte,preco_cesta,247.23
+06-2011,248.06,Belo Horizonte,preco_cesta,248.06
+07-2011,245.09,Belo Horizonte,preco_cesta,245.09
+08-2011,249.48,Belo Horizonte,preco_cesta,249.48
+09-2011,250.96,Belo Horizonte,preco_cesta,250.96
+10-2011,252.2,Belo Horizonte,preco_cesta,252.2
+11-2011,256.7,Belo Horizonte,preco_cesta,256.7
+12-2011,264.01,Belo Horizonte,preco_cesta,264.01
+01-2012,268.07,Belo Horizonte,preco_cesta,268.07
+02-2012,264.28,Belo Horizonte,preco_cesta,264.28
+03-2012,260.93,Belo Horizonte,preco_cesta,260.93
+04-2012,258.78,Belo Horizonte,preco_cesta,258.78
+05-2012,264.95,Belo Horizonte,preco_cesta,264.95
+06-2012,265.9,Belo Horizonte,preco_cesta,265.9
+07-2012,288.26,Belo Horizonte,preco_cesta,288.26
+08-2012,286.35,Belo Horizonte,preco_cesta,286.35
+09-2012,295.6,Belo Horizonte,preco_cesta,295.6
+10-2012,290.61,Belo Horizonte,preco_cesta,290.61
+11-2012,282.82,Belo Horizonte,preco_cesta,282.82
+12-2012,290.88,Belo Horizonte,preco_cesta,290.88
+01-2013,299.79,Belo Horizonte,preco_cesta,299.79
+02-2013,313.48,Belo Horizonte,preco_cesta,313.48
+03-2013,323.97,Belo Horizonte,preco_cesta,323.97
+04-2013,324.53,Belo Horizonte,preco_cesta,324.53
+05-2013,314.78,Belo Horizonte,preco_cesta,314.78
+06-2013,308.48,Belo Horizonte,preco_cesta,308.48
+07-2013,293.48,Belo Horizonte,preco_cesta,293.48
+08-2013,290.54,Belo Horizonte,preco_cesta,290.54
+09-2013,295.96,Belo Horizonte,preco_cesta,295.96
+10-2013,302.76,Belo Horizonte,preco_cesta,302.76
+11-2013,310.84,Belo Horizonte,preco_cesta,310.84
+12-2013,312.25,Belo Horizonte,preco_cesta,312.25
+01-2014,306.01,Belo Horizonte,preco_cesta,306.01
+02-2014,308.16,Belo Horizonte,preco_cesta,308.16
+03-2014,307.18,Belo Horizonte,preco_cesta,307.18
+04-2014,342.49,Belo Horizonte,preco_cesta,342.49
+05-2014,345.14,Belo Horizonte,preco_cesta,345.14
+06-2014,319.84,Belo Horizonte,preco_cesta,319.84
+07-2014,308.35,Belo Horizonte,preco_cesta,308.35
+08-2014,303.5,Belo Horizonte,preco_cesta,303.5
+09-2014,303.54,Belo Horizonte,preco_cesta,303.54
+10-2014,307.5,Belo Horizonte,preco_cesta,307.5
+11-2014,309.56,Belo Horizonte,preco_cesta,309.56
+12-2014,316.06,Belo Horizonte,preco_cesta,316.06
+01-2015,337.57,Belo Horizonte,preco_cesta,337.57
+02-2015,341.72,Belo Horizonte,preco_cesta,341.72
+03-2015,343.22,Belo Horizonte,preco_cesta,343.22
+04-2015,348.36,Belo Horizonte,preco_cesta,348.36
+05-2015,355.92,Belo Horizonte,preco_cesta,355.92
+06-2015,338.76,Belo Horizonte,preco_cesta,338.76
+07-2015,345.02,Belo Horizonte,preco_cesta,345.02
+08-2015,337.42,Belo Horizonte,preco_cesta,337.42
+09-2015,338.19,Belo Horizonte,preco_cesta,338.19
+10-2015,338.61,Belo Horizonte,preco_cesta,338.61
+11-2015,362.19,Belo Horizonte,preco_cesta,362.19
+12-2015,376.91,Belo Horizonte,preco_cesta,376.91
+01-2016,417.72,Belo Horizonte,preco_cesta,417.72
+02-2016,400.29,Belo Horizonte,preco_cesta,400.29
+03-2016,408.84,Belo Horizonte,preco_cesta,408.84
+04-2016,399.24,Belo Horizonte,preco_cesta,399.24
+05-2016,408.5,Belo Horizonte,preco_cesta,408.5
+06-2016,425.82,Belo Horizonte,preco_cesta,425.82
+07-2016,423.1,Belo Horizonte,preco_cesta,423.1
+08-2016,429.64,Belo Horizonte,preco_cesta,429.64
+09-2016,421.55,Belo Horizonte,preco_cesta,421.55
+10-2016,418.47,Belo Horizonte,preco_cesta,418.47
+11-2016,400.9,Belo Horizonte,preco_cesta,400.9
+12-2016,394.66,Belo Horizonte,preco_cesta,394.66
+01-2017,389.69,Belo Horizonte,preco_cesta,389.69
+02-2017,377.66,Belo Horizonte,preco_cesta,377.66
+03-2017,385.57,Belo Horizonte,preco_cesta,385.57
+04-2017,397.36,Belo Horizonte,preco_cesta,397.36
+05-2017,390.6,Belo Horizonte,preco_cesta,390.6
+06-2017,374.87,Belo Horizonte,preco_cesta,374.87
+07-2017,383.69,Belo Horizonte,preco_cesta,383.69
+08-2017,365.05,Belo Horizonte,preco_cesta,365.05
+09-2017,361.82,Belo Horizonte,preco_cesta,361.82
+10-2017,365.89,Belo Horizonte,preco_cesta,365.89
+11-2017,359.71,Belo Horizonte,preco_cesta,359.71
+12-2017,361.61,Belo Horizonte,preco_cesta,361.61
+01-2018,380.02,Belo Horizonte,preco_cesta,380.02
+02-2018,381.9,Belo Horizonte,preco_cesta,381.9
+03-2018,378.13,Belo Horizonte,preco_cesta,378.13
+04-2018,376.58,Belo Horizonte,preco_cesta,376.58
+05-2018,375.11,Belo Horizonte,preco_cesta,375.11
+06-2018,373.92,Belo Horizonte,preco_cesta,373.92
+07-2018,363.28,Belo Horizonte,preco_cesta,363.28
+08-2018,357.93,Belo Horizonte,preco_cesta,357.93
+09-2018,358.83,Belo Horizonte,preco_cesta,358.83
+10-2018,372.77,Belo Horizonte,preco_cesta,372.77
+11-2018,401.9,Belo Horizonte,preco_cesta,401.9
+12-2018,408.71,Belo Horizonte,preco_cesta,408.71
+01-2019,405.4,Belo Horizonte,preco_cesta,405.4
+02-2019,425,Belo Horizonte,preco_cesta,425.0
+03-2019,443.26,Belo Horizonte,preco_cesta,443.26
+04-2019,456.91,Belo Horizonte,preco_cesta,456.91
+05-2019,424.85,Belo Horizonte,preco_cesta,424.85
+06-2019,429.3,Belo Horizonte,preco_cesta,429.3
+07-2019,415.03,Belo Horizonte,preco_cesta,415.03
+08-2019,401.14,Belo Horizonte,preco_cesta,401.14
+09-2019,390.93,Belo Horizonte,preco_cesta,390.93
+10-2019,391.85,Belo Horizonte,preco_cesta,391.85
+11-2019,393.58,Belo Horizonte,preco_cesta,393.58
+12-2019,444.91,Belo Horizonte,preco_cesta,444.91
+01-2020,456.35,Belo Horizonte,preco_cesta,456.35
+02-2020,459.1,Belo Horizonte,preco_cesta,459.1
+03-2020,461.28,Belo Horizonte,preco_cesta,461.28
+04-2020,484.55,Belo Horizonte,preco_cesta,484.55
+05-2020,484.02,Belo Horizonte,preco_cesta,484.02
+06-2020,475.19,Belo Horizonte,preco_cesta,475.19
+07-2020,465.06,Belo Horizonte,preco_cesta,465.06
+08-2020,478.07,Belo Horizonte,preco_cesta,478.07
+09-2020,491.62,Belo Horizonte,preco_cesta,491.62
+10-2020,516.82,Belo Horizonte,preco_cesta,516.82
+11-2020,552.37,Belo Horizonte,preco_cesta,552.37
+12-2020,568.53,Belo Horizonte,preco_cesta,568.53
+01-2021,592.26,Belo Horizonte,preco_cesta,592.26
+02-2021,573.53,Belo Horizonte,preco_cesta,573.53
+03-2021,555.67,Belo Horizonte,preco_cesta,555.67
+04-2021,565.78,Belo Horizonte,preco_cesta,565.78
+05-2021,,Belo Horizonte,preco_cesta,
+06-2021,536.88,Belo Horizonte,preco_cesta,536.88
+07-2021,555.12,Belo Horizonte,preco_cesta,555.12
+08-2021,570.07,Belo Horizonte,preco_cesta,570.07
+09-2021,589.74,Belo Horizonte,preco_cesta,589.74
+10-2021,605.02,Belo Horizonte,preco_cesta,605.02
+11-2021,601.42,Belo Horizonte,preco_cesta,601.42
+12-2021,613.94,Belo Horizonte,preco_cesta,613.94
+01-2022,641.83,Belo Horizonte,preco_cesta,641.83
+02-2022,650.63,Belo Horizonte,preco_cesta,650.63
+03-2022,678.02,Belo Horizonte,preco_cesta,678.02
+04-2022,700.54,Belo Horizonte,preco_cesta,700.54
+05-2022,659.72,Belo Horizonte,preco_cesta,659.72
+06-2022,656.72,Belo Horizonte,preco_cesta,656.72
+07-2022,661.67,Belo Horizonte,preco_cesta,661.67
+08-2022,648.01,Belo Horizonte,preco_cesta,648.01
+09-2022,662.24,Belo Horizonte,preco_cesta,662.24
+10-2022,674.82,Belo Horizonte,preco_cesta,674.82
+11-2022,705.52,Belo Horizonte,preco_cesta,705.52
+12-2022,706.52,Belo Horizonte,preco_cesta,706.52
+01-2023,717.53,Belo Horizonte,preco_cesta,717.53
+02-2023,689.09,Belo Horizonte,preco_cesta,689.09
+03-2023,662.9,Belo Horizonte,preco_cesta,662.9
+04-2023,677.51,Belo Horizonte,preco_cesta,677.51
+05-2023,675.3,Belo Horizonte,preco_cesta,675.3
+06-2023,664.42,Belo Horizonte,preco_cesta,664.42
+07-2023,662.38,Belo Horizonte,preco_cesta,662.38
+08-2023,657.57,Belo Horizonte,preco_cesta,657.57
+09-2023,645.33,Belo Horizonte,preco_cesta,645.33
+10-2023,637.4,Belo Horizonte,preco_cesta,637.4
+11-2023,650.33,Belo Horizonte,preco_cesta,650.33
+12-2023,667.39,Belo Horizonte,preco_cesta,667.39
+01-2024,736.36,Belo Horizonte,preco_cesta,736.36
+02-2024,741.71,Belo Horizonte,preco_cesta,741.71
+03-2024,724.96,Belo Horizonte,preco_cesta,724.96
+04-2024,724.1,Belo Horizonte,preco_cesta,724.1
+05-2024,701.79,Belo Horizonte,preco_cesta,701.79
+06-2024,710.77,Belo Horizonte,preco_cesta,710.77
+07-2024,666.52,Belo Horizonte,preco_cesta,666.52
+08-2024,667.63,Belo Horizonte,preco_cesta,667.63
+09-2024,663.22,Belo Horizonte,preco_cesta,663.22
+10-2024,690.15,Belo Horizonte,preco_cesta,690.15
+11-2024,698.83,Belo Horizonte,preco_cesta,698.83
+12-2024,706.32,Belo Horizonte,preco_cesta,706.32
+01-1989,44.75,Rio de Janeiro,preco_cesta,44.75
+02-1989,51.86,Rio de Janeiro,preco_cesta,51.86
+03-1989,56.37,Rio de Janeiro,preco_cesta,56.37
+04-1989,57.46,Rio de Janeiro,preco_cesta,57.46
+05-1989,72.99,Rio de Janeiro,preco_cesta,72.99
+06-1989,97.09,Rio de Janeiro,preco_cesta,97.09
+07-1989,116.15,Rio de Janeiro,preco_cesta,116.15
+08-1989,155.46,Rio de Janeiro,preco_cesta,155.46
+09-1989,196.73,Rio de Janeiro,preco_cesta,196.73
+10-1989,253.14,Rio de Janeiro,preco_cesta,253.14
+11-1989,380.57,Rio de Janeiro,preco_cesta,380.57
+12-1989,533.94,Rio de Janeiro,preco_cesta,533.94
+01-1990,1000.5,Rio de Janeiro,preco_cesta,1000.5
+02-1990,1473.97,Rio de Janeiro,preco_cesta,1473.97
+03-1990,2747.34,Rio de Janeiro,preco_cesta,2747.34
+04-1990,3152.43,Rio de Janeiro,preco_cesta,3152.43
+05-1990,3590.81,Rio de Janeiro,preco_cesta,3590.81
+06-1990,4628.91,Rio de Janeiro,preco_cesta,4628.91
+07-1990,5017.88,Rio de Janeiro,preco_cesta,5017.88
+08-1990,5530.94,Rio de Janeiro,preco_cesta,5530.94
+09-1990,6430.55,Rio de Janeiro,preco_cesta,6430.55
+10-1990,6500.97,Rio de Janeiro,preco_cesta,6500.97
+11-1990,6870.33,Rio de Janeiro,preco_cesta,6870.33
+12-1990,7592.58,Rio de Janeiro,preco_cesta,7592.58
+01-1991,9839.42,Rio de Janeiro,preco_cesta,9839.42
+02-1991,11915.37,Rio de Janeiro,preco_cesta,11915.37
+03-1991,12495.86,Rio de Janeiro,preco_cesta,12495.86
+04-1991,14259.16,Rio de Janeiro,preco_cesta,14259.16
+05-1991,13993.77,Rio de Janeiro,preco_cesta,13993.77
+06-1991,14420.49,Rio de Janeiro,preco_cesta,14420.49
+07-1991,17264.35,Rio de Janeiro,preco_cesta,17264.35
+08-1991,20055.79,Rio de Janeiro,preco_cesta,20055.79
+09-1991,23163.61,Rio de Janeiro,preco_cesta,23163.61
+10-1991,30816.29,Rio de Janeiro,preco_cesta,30816.29
+11-1991,39907.07,Rio de Janeiro,preco_cesta,39907.07
+12-1991,48317.85,Rio de Janeiro,preco_cesta,48317.85
+01-1992,60890.37,Rio de Janeiro,preco_cesta,60890.37
+02-1992,68307.74,Rio de Janeiro,preco_cesta,68307.74
+03-1992,86533.9,Rio de Janeiro,preco_cesta,86533.9
+04-1992,105935.13,Rio de Janeiro,preco_cesta,105935.13
+05-1992,130777.63,Rio de Janeiro,preco_cesta,130777.63
+06-1992,152556.67,Rio de Janeiro,preco_cesta,152556.67
+07-1992,190003.91,Rio de Janeiro,preco_cesta,190003.91
+08-1992,245561.84,Rio de Janeiro,preco_cesta,245561.84
+09-1992,323653.82,Rio de Janeiro,preco_cesta,323653.82
+10-1992,389191.88,Rio de Janeiro,preco_cesta,389191.88
+11-1992,445677.92,Rio de Janeiro,preco_cesta,445677.92
+12-1992,542244.64,Rio de Janeiro,preco_cesta,542244.64
+01-1993,743987,Rio de Janeiro,preco_cesta,743987.0
+02-1993,935832.66,Rio de Janeiro,preco_cesta,935832.66
+03-1993,1189203.43,Rio de Janeiro,preco_cesta,1189203.43
+04-1993,1641326.11,Rio de Janeiro,preco_cesta,1641326.11
+05-1993,2090081.73,Rio de Janeiro,preco_cesta,2090081.73
+06-1993,2760317.69,Rio de Janeiro,preco_cesta,2760317.69
+07-1993,3221603.38,Rio de Janeiro,preco_cesta,3221603.38
+08-1993,4370.89,Rio de Janeiro,preco_cesta,4370.89
+09-1993,5899.14,Rio de Janeiro,preco_cesta,5899.14
+10-1993,8169.79,Rio de Janeiro,preco_cesta,8169.79
+11-1993,11293.47,Rio de Janeiro,preco_cesta,11293.47
+12-1993,16165,Rio de Janeiro,preco_cesta,16165.0
+01-1994,24346.98,Rio de Janeiro,preco_cesta,24346.98
+02-1994,32235.52,Rio de Janeiro,preco_cesta,32235.52
+03-1994,49752.3,Rio de Janeiro,preco_cesta,49752.3
+04-1994,70662,Rio de Janeiro,preco_cesta,70662.0
+05-1994,97311.73,Rio de Janeiro,preco_cesta,97311.73
+06-1994,149698.1,Rio de Janeiro,preco_cesta,149698.1
+07-1994,66.22,Rio de Janeiro,preco_cesta,66.22
+08-1994,72.08,Rio de Janeiro,preco_cesta,72.08
+09-1994,76.5,Rio de Janeiro,preco_cesta,76.5
+10-1994,79.8,Rio de Janeiro,preco_cesta,79.8
+11-1994,83.12,Rio de Janeiro,preco_cesta,83.12
+12-1994,77.28,Rio de Janeiro,preco_cesta,77.28
+01-1995,75.66,Rio de Janeiro,preco_cesta,75.66
+02-1995,75.18,Rio de Janeiro,preco_cesta,75.18
+03-1995,76.62,Rio de Janeiro,preco_cesta,76.62
+04-1995,86.67,Rio de Janeiro,preco_cesta,86.67
+05-1995,88.87,Rio de Janeiro,preco_cesta,88.87
+06-1995,82.39,Rio de Janeiro,preco_cesta,82.39
+07-1995,74.37,Rio de Janeiro,preco_cesta,74.37
+08-1995,74.81,Rio de Janeiro,preco_cesta,74.81
+09-1995,75.7,Rio de Janeiro,preco_cesta,75.7
+10-1995,76.15,Rio de Janeiro,preco_cesta,76.15
+11-1995,80.43,Rio de Janeiro,preco_cesta,80.43
+12-1995,80.91,Rio de Janeiro,preco_cesta,80.91
+01-1996,83.71,Rio de Janeiro,preco_cesta,83.71
+02-1996,82.94,Rio de Janeiro,preco_cesta,82.94
+03-1996,81.11,Rio de Janeiro,preco_cesta,81.11
+04-1996,83.8,Rio de Janeiro,preco_cesta,83.8
+05-1996,87.24,Rio de Janeiro,preco_cesta,87.24
+06-1996,86.92,Rio de Janeiro,preco_cesta,86.92
+07-1996,85.69,Rio de Janeiro,preco_cesta,85.69
+08-1996,86.47,Rio de Janeiro,preco_cesta,86.47
+09-1996,84.21,Rio de Janeiro,preco_cesta,84.21
+10-1996,83.03,Rio de Janeiro,preco_cesta,83.03
+11-1996,83.92,Rio de Janeiro,preco_cesta,83.92
+12-1996,84.13,Rio de Janeiro,preco_cesta,84.13
+01-1997,85.28,Rio de Janeiro,preco_cesta,85.28
+02-1997,86.78,Rio de Janeiro,preco_cesta,86.78
+03-1997,92.68,Rio de Janeiro,preco_cesta,92.68
+04-1997,93.72,Rio de Janeiro,preco_cesta,93.72
+05-1997,90.37,Rio de Janeiro,preco_cesta,90.37
+06-1997,87.06,Rio de Janeiro,preco_cesta,87.06
+07-1997,84.12,Rio de Janeiro,preco_cesta,84.12
+08-1997,85.35,Rio de Janeiro,preco_cesta,85.35
+09-1997,86.16,Rio de Janeiro,preco_cesta,86.16
+10-1997,89.76,Rio de Janeiro,preco_cesta,89.76
+11-1997,88.93,Rio de Janeiro,preco_cesta,88.93
+12-1997,95.09,Rio de Janeiro,preco_cesta,95.09
+01-1998,98.38,Rio de Janeiro,preco_cesta,98.38
+02-1998,99.22,Rio de Janeiro,preco_cesta,99.22
+03-1998,100.36,Rio de Janeiro,preco_cesta,100.36
+04-1998,101.44,Rio de Janeiro,preco_cesta,101.44
+05-1998,101.18,Rio de Janeiro,preco_cesta,101.18
+06-1998,100.86,Rio de Janeiro,preco_cesta,100.86
+07-1998,96.92,Rio de Janeiro,preco_cesta,96.92
+08-1998,92.6,Rio de Janeiro,preco_cesta,92.6
+09-1998,92.38,Rio de Janeiro,preco_cesta,92.38
+10-1998,89.14,Rio de Janeiro,preco_cesta,89.14
+11-1998,93.49,Rio de Janeiro,preco_cesta,93.49
+12-1998,94.03,Rio de Janeiro,preco_cesta,94.03
+01-1999,94.16,Rio de Janeiro,preco_cesta,94.16
+02-1999,93.3,Rio de Janeiro,preco_cesta,93.3
+03-1999,96.47,Rio de Janeiro,preco_cesta,96.47
+04-1999,96,Rio de Janeiro,preco_cesta,96.0
+05-1999,97.67,Rio de Janeiro,preco_cesta,97.67
+06-1999,96.12,Rio de Janeiro,preco_cesta,96.12
+07-1999,94.87,Rio de Janeiro,preco_cesta,94.87
+08-1999,98.18,Rio de Janeiro,preco_cesta,98.18
+09-1999,97.05,Rio de Janeiro,preco_cesta,97.05
+10-1999,100.78,Rio de Janeiro,preco_cesta,100.78
+11-1999,101.97,Rio de Janeiro,preco_cesta,101.97
+12-1999,100.87,Rio de Janeiro,preco_cesta,100.87
+01-2000,100.82,Rio de Janeiro,preco_cesta,100.82
+02-2000,107.29,Rio de Janeiro,preco_cesta,107.29
+03-2000,110.13,Rio de Janeiro,preco_cesta,110.13
+04-2000,108.01,Rio de Janeiro,preco_cesta,108.01
+05-2000,98.51,Rio de Janeiro,preco_cesta,98.51
+06-2000,97.73,Rio de Janeiro,preco_cesta,97.73
+07-2000,101.41,Rio de Janeiro,preco_cesta,101.41
+08-2000,106,Rio de Janeiro,preco_cesta,106.0
+09-2000,108.74,Rio de Janeiro,preco_cesta,108.74
+10-2000,113,Rio de Janeiro,preco_cesta,113.0
+11-2000,115.11,Rio de Janeiro,preco_cesta,115.11
+12-2000,113.27,Rio de Janeiro,preco_cesta,113.27
+01-2001,116.61,Rio de Janeiro,preco_cesta,116.61
+02-2001,114.61,Rio de Janeiro,preco_cesta,114.61
+03-2001,117.6,Rio de Janeiro,preco_cesta,117.6
+04-2001,118.58,Rio de Janeiro,preco_cesta,118.58
+05-2001,122.65,Rio de Janeiro,preco_cesta,122.65
+06-2001,120.53,Rio de Janeiro,preco_cesta,120.53
+07-2001,122.08,Rio de Janeiro,preco_cesta,122.08
+08-2001,125.62,Rio de Janeiro,preco_cesta,125.62
+09-2001,119.64,Rio de Janeiro,preco_cesta,119.64
+10-2001,117.13,Rio de Janeiro,preco_cesta,117.13
+11-2001,125.18,Rio de Janeiro,preco_cesta,125.18
+12-2001,126.2,Rio de Janeiro,preco_cesta,126.2
+01-2002,126.4,Rio de Janeiro,preco_cesta,126.4
+02-2002,123.42,Rio de Janeiro,preco_cesta,123.42
+03-2002,126.65,Rio de Janeiro,preco_cesta,126.65
+04-2002,127.97,Rio de Janeiro,preco_cesta,127.97
+05-2002,125.55,Rio de Janeiro,preco_cesta,125.55
+06-2002,125.09,Rio de Janeiro,preco_cesta,125.09
+07-2002,127.39,Rio de Janeiro,preco_cesta,127.39
+08-2002,128.81,Rio de Janeiro,preco_cesta,128.81
+09-2002,133.77,Rio de Janeiro,preco_cesta,133.77
+10-2002,134.72,Rio de Janeiro,preco_cesta,134.72
+11-2002,148.05,Rio de Janeiro,preco_cesta,148.05
+12-2002,146.59,Rio de Janeiro,preco_cesta,146.59
+01-2003,150.74,Rio de Janeiro,preco_cesta,150.74
+02-2003,156.1,Rio de Janeiro,preco_cesta,156.1
+03-2003,166.76,Rio de Janeiro,preco_cesta,166.76
+04-2003,173.2,Rio de Janeiro,preco_cesta,173.2
+05-2003,166.52,Rio de Janeiro,preco_cesta,166.52
+06-2003,157.31,Rio de Janeiro,preco_cesta,157.31
+07-2003,152.35,Rio de Janeiro,preco_cesta,152.35
+08-2003,145.96,Rio de Janeiro,preco_cesta,145.96
+09-2003,149.52,Rio de Janeiro,preco_cesta,149.52
+10-2003,152.98,Rio de Janeiro,preco_cesta,152.98
+11-2003,158.11,Rio de Janeiro,preco_cesta,158.11
+12-2003,156.06,Rio de Janeiro,preco_cesta,156.06
+01-2004,166.88,Rio de Janeiro,preco_cesta,166.88
+02-2004,161.91,Rio de Janeiro,preco_cesta,161.91
+03-2004,158.57,Rio de Janeiro,preco_cesta,158.57
+04-2004,153.59,Rio de Janeiro,preco_cesta,153.59
+05-2004,160.76,Rio de Janeiro,preco_cesta,160.76
+06-2004,170.92,Rio de Janeiro,preco_cesta,170.92
+07-2004,168.53,Rio de Janeiro,preco_cesta,168.53
+08-2004,178.81,Rio de Janeiro,preco_cesta,178.81
+09-2004,171.51,Rio de Janeiro,preco_cesta,171.51
+10-2004,167.21,Rio de Janeiro,preco_cesta,167.21
+11-2004,164.18,Rio de Janeiro,preco_cesta,164.18
+12-2004,165.38,Rio de Janeiro,preco_cesta,165.38
+01-2005,164.81,Rio de Janeiro,preco_cesta,164.81
+02-2005,169.79,Rio de Janeiro,preco_cesta,169.79
+03-2005,167.02,Rio de Janeiro,preco_cesta,167.02
+04-2005,170.21,Rio de Janeiro,preco_cesta,170.21
+05-2005,179.82,Rio de Janeiro,preco_cesta,179.82
+06-2005,172.26,Rio de Janeiro,preco_cesta,172.26
+07-2005,168.6,Rio de Janeiro,preco_cesta,168.6
+08-2005,164.54,Rio de Janeiro,preco_cesta,164.54
+09-2005,161.79,Rio de Janeiro,preco_cesta,161.79
+10-2005,164.47,Rio de Janeiro,preco_cesta,164.47
+11-2005,176.31,Rio de Janeiro,preco_cesta,176.31
+12-2005,178.09,Rio de Janeiro,preco_cesta,178.09
+01-2006,172.8,Rio de Janeiro,preco_cesta,172.8
+02-2006,172.61,Rio de Janeiro,preco_cesta,172.61
+03-2006,168.68,Rio de Janeiro,preco_cesta,168.68
+04-2006,175.64,Rio de Janeiro,preco_cesta,175.64
+05-2006,168.92,Rio de Janeiro,preco_cesta,168.92
+06-2006,165.07,Rio de Janeiro,preco_cesta,165.07
+07-2006,159.68,Rio de Janeiro,preco_cesta,159.68
+08-2006,155.23,Rio de Janeiro,preco_cesta,155.23
+09-2006,163.33,Rio de Janeiro,preco_cesta,163.33
+10-2006,166.75,Rio de Janeiro,preco_cesta,166.75
+11-2006,179.09,Rio de Janeiro,preco_cesta,179.09
+12-2006,171.39,Rio de Janeiro,preco_cesta,171.39
+01-2007,176.57,Rio de Janeiro,preco_cesta,176.57
+02-2007,177.69,Rio de Janeiro,preco_cesta,177.69
+03-2007,192.26,Rio de Janeiro,preco_cesta,192.26
+04-2007,181.22,Rio de Janeiro,preco_cesta,181.22
+05-2007,175.33,Rio de Janeiro,preco_cesta,175.33
+06-2007,173.33,Rio de Janeiro,preco_cesta,173.33
+07-2007,177.71,Rio de Janeiro,preco_cesta,177.71
+08-2007,182.14,Rio de Janeiro,preco_cesta,182.14
+09-2007,187.95,Rio de Janeiro,preco_cesta,187.95
+10-2007,194.27,Rio de Janeiro,preco_cesta,194.27
+11-2007,194.92,Rio de Janeiro,preco_cesta,194.92
+12-2007,194.46,Rio de Janeiro,preco_cesta,194.46
+01-2008,206.22,Rio de Janeiro,preco_cesta,206.22
+02-2008,203.82,Rio de Janeiro,preco_cesta,203.82
+03-2008,214.66,Rio de Janeiro,preco_cesta,214.66
+04-2008,222.24,Rio de Janeiro,preco_cesta,222.24
+05-2008,222.93,Rio de Janeiro,preco_cesta,222.93
+06-2008,236.16,Rio de Janeiro,preco_cesta,236.16
+07-2008,240.03,Rio de Janeiro,preco_cesta,240.03
+08-2008,214.68,Rio de Janeiro,preco_cesta,214.68
+09-2008,215.58,Rio de Janeiro,preco_cesta,215.58
+10-2008,220.99,Rio de Janeiro,preco_cesta,220.99
+11-2008,225.26,Rio de Janeiro,preco_cesta,225.26
+12-2008,239.78,Rio de Janeiro,preco_cesta,239.78
+01-2009,224.74,Rio de Janeiro,preco_cesta,224.74
+02-2009,223.52,Rio de Janeiro,preco_cesta,223.52
+03-2009,218.63,Rio de Janeiro,preco_cesta,218.63
+04-2009,222.6,Rio de Janeiro,preco_cesta,222.6
+05-2009,221.01,Rio de Janeiro,preco_cesta,221.01
+06-2009,220.2,Rio de Janeiro,preco_cesta,220.2
+07-2009,211.88,Rio de Janeiro,preco_cesta,211.88
+08-2009,213.75,Rio de Janeiro,preco_cesta,213.75
+09-2009,219.64,Rio de Janeiro,preco_cesta,219.64
+10-2009,224.75,Rio de Janeiro,preco_cesta,224.75
+11-2009,226.97,Rio de Janeiro,preco_cesta,226.97
+12-2009,213.36,Rio de Janeiro,preco_cesta,213.36
+01-2010,213.77,Rio de Janeiro,preco_cesta,213.77
+02-2010,221.8,Rio de Janeiro,preco_cesta,221.8
+03-2010,240.22,Rio de Janeiro,preco_cesta,240.22
+04-2010,253.13,Rio de Janeiro,preco_cesta,253.13
+05-2010,240.36,Rio de Janeiro,preco_cesta,240.36
+06-2010,228.16,Rio de Janeiro,preco_cesta,228.16
+07-2010,213.1,Rio de Janeiro,preco_cesta,213.1
+08-2010,211.88,Rio de Janeiro,preco_cesta,211.88
+09-2010,219.54,Rio de Janeiro,preco_cesta,219.54
+10-2010,230.13,Rio de Janeiro,preco_cesta,230.13
+11-2010,242.35,Rio de Janeiro,preco_cesta,242.35
+12-2010,242.67,Rio de Janeiro,preco_cesta,242.67
+01-2011,252.24,Rio de Janeiro,preco_cesta,252.24
+02-2011,249.02,Rio de Janeiro,preco_cesta,249.02
+03-2011,259.8,Rio de Janeiro,preco_cesta,259.8
+04-2011,255.16,Rio de Janeiro,preco_cesta,255.16
+05-2011,260,Rio de Janeiro,preco_cesta,260.0
+06-2011,256.91,Rio de Janeiro,preco_cesta,256.91
+07-2011,241.47,Rio de Janeiro,preco_cesta,241.47
+08-2011,253.1,Rio de Janeiro,preco_cesta,253.1
+09-2011,250.81,Rio de Janeiro,preco_cesta,250.81
+10-2011,251.97,Rio de Janeiro,preco_cesta,251.97
+11-2011,261.69,Rio de Janeiro,preco_cesta,261.69
+12-2011,262.9,Rio de Janeiro,preco_cesta,262.9
+01-2012,271.71,Rio de Janeiro,preco_cesta,271.71
+02-2012,263.46,Rio de Janeiro,preco_cesta,263.46
+03-2012,256.74,Rio de Janeiro,preco_cesta,256.74
+04-2012,252.04,Rio de Janeiro,preco_cesta,252.04
+05-2012,260.49,Rio de Janeiro,preco_cesta,260.49
+06-2012,270.36,Rio de Janeiro,preco_cesta,270.36
+07-2012,290.64,Rio de Janeiro,preco_cesta,290.64
+08-2012,302.52,Rio de Janeiro,preco_cesta,302.52
+09-2012,297.17,Rio de Janeiro,preco_cesta,297.17
+10-2012,295.39,Rio de Janeiro,preco_cesta,295.39
+11-2012,272.1,Rio de Janeiro,preco_cesta,272.1
+12-2012,281.83,Rio de Janeiro,preco_cesta,281.83
+01-2013,303.86,Rio de Janeiro,preco_cesta,303.86
+02-2013,306.83,Rio de Janeiro,preco_cesta,306.83
+03-2013,314.99,Rio de Janeiro,preco_cesta,314.99
+04-2013,327.52,Rio de Janeiro,preco_cesta,327.52
+05-2013,321.41,Rio de Janeiro,preco_cesta,321.41
+06-2013,310,Rio de Janeiro,preco_cesta,310.0
+07-2013,300.71,Rio de Janeiro,preco_cesta,300.71
+08-2013,298.42,Rio de Janeiro,preco_cesta,298.42
+09-2013,295.59,Rio de Janeiro,preco_cesta,295.59
+10-2013,312.9,Rio de Janeiro,preco_cesta,312.9
+11-2013,316.88,Rio de Janeiro,preco_cesta,316.88
+12-2013,315.52,Rio de Janeiro,preco_cesta,315.52
+01-2014,310.52,Rio de Janeiro,preco_cesta,310.52
+02-2014,314.72,Rio de Janeiro,preco_cesta,314.72
+03-2014,345.11,Rio de Janeiro,preco_cesta,345.11
+04-2014,346.18,Rio de Janeiro,preco_cesta,346.18
+05-2014,348.04,Rio de Janeiro,preco_cesta,348.04
+06-2014,343.44,Rio de Janeiro,preco_cesta,343.44
+07-2014,330.22,Rio de Janeiro,preco_cesta,330.22
+08-2014,327.64,Rio de Janeiro,preco_cesta,327.64
+09-2014,326.78,Rio de Janeiro,preco_cesta,326.78
+10-2014,336.1,Rio de Janeiro,preco_cesta,336.1
+11-2014,325.91,Rio de Janeiro,preco_cesta,325.91
+12-2014,338.03,Rio de Janeiro,preco_cesta,338.03
+01-2015,353.51,Rio de Janeiro,preco_cesta,353.51
+02-2015,357.27,Rio de Janeiro,preco_cesta,357.27
+03-2015,358.68,Rio de Janeiro,preco_cesta,358.68
+04-2015,374.85,Rio de Janeiro,preco_cesta,374.85
+05-2015,395.23,Rio de Janeiro,preco_cesta,395.23
+06-2015,368.71,Rio de Janeiro,preco_cesta,368.71
+07-2015,372.24,Rio de Janeiro,preco_cesta,372.24
+08-2015,360.23,Rio de Janeiro,preco_cesta,360.23
+09-2015,362.9,Rio de Janeiro,preco_cesta,362.9
+10-2015,359.66,Rio de Janeiro,preco_cesta,359.66
+11-2015,385.8,Rio de Janeiro,preco_cesta,385.8
+12-2015,394.21,Rio de Janeiro,preco_cesta,394.21
+01-2016,448.06,Rio de Janeiro,preco_cesta,448.06
+02-2016,430.56,Rio de Janeiro,preco_cesta,430.56
+03-2016,440.79,Rio de Janeiro,preco_cesta,440.79
+04-2016,433.96,Rio de Janeiro,preco_cesta,433.96
+05-2016,436.02,Rio de Janeiro,preco_cesta,436.02
+06-2016,439.33,Rio de Janeiro,preco_cesta,439.33
+07-2016,448.28,Rio de Janeiro,preco_cesta,448.28
+08-2016,455.45,Rio de Janeiro,preco_cesta,455.45
+09-2016,451.58,Rio de Janeiro,preco_cesta,451.58
+10-2016,456.44,Rio de Janeiro,preco_cesta,456.44
+11-2016,448.73,Rio de Janeiro,preco_cesta,448.73
+12-2016,443.75,Rio de Janeiro,preco_cesta,443.75
+01-2017,440.16,Rio de Janeiro,preco_cesta,440.16
+02-2017,424.55,Rio de Janeiro,preco_cesta,424.55
+03-2017,431.31,Rio de Janeiro,preco_cesta,431.31
+04-2017,448.51,Rio de Janeiro,preco_cesta,448.51
+05-2017,442.56,Rio de Janeiro,preco_cesta,442.56
+06-2017,420.35,Rio de Janeiro,preco_cesta,420.35
+07-2017,425.62,Rio de Janeiro,preco_cesta,425.62
+08-2017,410.43,Rio de Janeiro,preco_cesta,410.43
+09-2017,410.27,Rio de Janeiro,preco_cesta,410.27
+10-2017,421.05,Rio de Janeiro,preco_cesta,421.05
+11-2017,407.37,Rio de Janeiro,preco_cesta,407.37
+12-2017,418.71,Rio de Janeiro,preco_cesta,418.71
+01-2018,443.81,Rio de Janeiro,preco_cesta,443.81
+02-2018,438.36,Rio de Janeiro,preco_cesta,438.36
+03-2018,441.19,Rio de Janeiro,preco_cesta,441.19
+04-2018,440.06,Rio de Janeiro,preco_cesta,440.06
+05-2018,446.03,Rio de Janeiro,preco_cesta,446.03
+06-2018,445.58,Rio de Janeiro,preco_cesta,445.58
+07-2018,421.89,Rio de Janeiro,preco_cesta,421.89
+08-2018,417.05,Rio de Janeiro,preco_cesta,417.05
+09-2018,418.48,Rio de Janeiro,preco_cesta,418.48
+10-2018,443.69,Rio de Janeiro,preco_cesta,443.69
+11-2018,460.24,Rio de Janeiro,preco_cesta,460.24
+12-2018,466.75,Rio de Janeiro,preco_cesta,466.75
+01-2019,460.46,Rio de Janeiro,preco_cesta,460.46
+02-2019,464.47,Rio de Janeiro,preco_cesta,464.47
+03-2019,496.33,Rio de Janeiro,preco_cesta,496.33
+04-2019,515.58,Rio de Janeiro,preco_cesta,515.58
+05-2019,492.93,Rio de Janeiro,preco_cesta,492.93
+06-2019,498.67,Rio de Janeiro,preco_cesta,498.67
+07-2019,479.28,Rio de Janeiro,preco_cesta,479.28
+08-2019,462.24,Rio de Janeiro,preco_cesta,462.24
+09-2019,458.21,Rio de Janeiro,preco_cesta,458.21
+10-2019,462.57,Rio de Janeiro,preco_cesta,462.57
+11-2019,455.37,Rio de Janeiro,preco_cesta,455.37
+12-2019,516.91,Rio de Janeiro,preco_cesta,516.91
+01-2020,507.13,Rio de Janeiro,preco_cesta,507.13
+02-2020,505.55,Rio de Janeiro,preco_cesta,505.55
+03-2020,533.65,Rio de Janeiro,preco_cesta,533.65
+04-2020,544.34,Rio de Janeiro,preco_cesta,544.34
+05-2020,558.81,Rio de Janeiro,preco_cesta,558.81
+06-2020,512.84,Rio de Janeiro,preco_cesta,512.84
+07-2020,505.72,Rio de Janeiro,preco_cesta,505.72
+08-2020,529.76,Rio de Janeiro,preco_cesta,529.76
+09-2020,563.75,Rio de Janeiro,preco_cesta,563.75
+10-2020,592.25,Rio de Janeiro,preco_cesta,592.25
+11-2020,629.63,Rio de Janeiro,preco_cesta,629.63
+12-2020,621.09,Rio de Janeiro,preco_cesta,621.09
+01-2021,644,Rio de Janeiro,preco_cesta,644.0
+02-2021,629.82,Rio de Janeiro,preco_cesta,629.82
+03-2021,612.56,Rio de Janeiro,preco_cesta,612.56
+04-2021,622.04,Rio de Janeiro,preco_cesta,622.04
+05-2021,622.76,Rio de Janeiro,preco_cesta,622.76
+06-2021,619.24,Rio de Janeiro,preco_cesta,619.24
+07-2021,621.34,Rio de Janeiro,preco_cesta,621.34
+08-2021,634.18,Rio de Janeiro,preco_cesta,634.18
+09-2021,643.06,Rio de Janeiro,preco_cesta,643.06
+10-2021,673.85,Rio de Janeiro,preco_cesta,673.85
+11-2021,665.6,Rio de Janeiro,preco_cesta,665.6
+12-2021,666.26,Rio de Janeiro,preco_cesta,666.26
+01-2022,692.83,Rio de Janeiro,preco_cesta,692.83
+02-2022,697.37,Rio de Janeiro,preco_cesta,697.37
+03-2022,750.71,Rio de Janeiro,preco_cesta,750.71
+04-2022,768.42,Rio de Janeiro,preco_cesta,768.42
+05-2022,723.55,Rio de Janeiro,preco_cesta,723.55
+06-2022,733.14,Rio de Janeiro,preco_cesta,733.14
+07-2022,723.75,Rio de Janeiro,preco_cesta,723.75
+08-2022,717.82,Rio de Janeiro,preco_cesta,717.82
+09-2022,714.14,Rio de Janeiro,preco_cesta,714.14
+10-2022,736.28,Rio de Janeiro,preco_cesta,736.28
+11-2022,749.25,Rio de Janeiro,preco_cesta,749.25
+12-2022,752.74,Rio de Janeiro,preco_cesta,752.74
+01-2023,770.19,Rio de Janeiro,preco_cesta,770.19
+02-2023,745.96,Rio de Janeiro,preco_cesta,745.96
+03-2023,735.62,Rio de Janeiro,preco_cesta,735.62
+04-2023,750.77,Rio de Janeiro,preco_cesta,750.77
+05-2023,749.76,Rio de Janeiro,preco_cesta,749.76
+06-2023,741,Rio de Janeiro,preco_cesta,741.0
+07-2023,738.12,Rio de Janeiro,preco_cesta,738.12
+08-2023,722.78,Rio de Janeiro,preco_cesta,722.78
+09-2023,719.92,Rio de Janeiro,preco_cesta,719.92
+10-2023,721.17,Rio de Janeiro,preco_cesta,721.17
+11-2023,728.27,Rio de Janeiro,preco_cesta,728.27
+12-2023,738.61,Rio de Janeiro,preco_cesta,738.61
+01-2024,791.77,Rio de Janeiro,preco_cesta,791.77
+02-2024,832.8,Rio de Janeiro,preco_cesta,832.8
+03-2024,812.25,Rio de Janeiro,preco_cesta,812.25
+04-2024,801.15,Rio de Janeiro,preco_cesta,801.15
+05-2024,796.67,Rio de Janeiro,preco_cesta,796.67
+06-2024,814.38,Rio de Janeiro,preco_cesta,814.38
+07-2024,757.64,Rio de Janeiro,preco_cesta,757.64
+08-2024,745.64,Rio de Janeiro,preco_cesta,745.64
+09-2024,757.3,Rio de Janeiro,preco_cesta,757.3
+10-2024,773.7,Rio de Janeiro,preco_cesta,773.7
+11-2024,777.66,Rio de Janeiro,preco_cesta,777.66
+12-2024,779.84,Rio de Janeiro,preco_cesta,779.84
+01-1989,42.56,Vitória,preco_cesta,42.56
+02-1989,52.17,Vitória,preco_cesta,52.17
+03-1989,54.43,Vitória,preco_cesta,54.43
+04-1989,58.73,Vitória,preco_cesta,58.73
+05-1989,75.41,Vitória,preco_cesta,75.41
+06-1989,96.37,Vitória,preco_cesta,96.37
+07-1989,111.85,Vitória,preco_cesta,111.85
+08-1989,149.49,Vitória,preco_cesta,149.49
+09-1989,190.43,Vitória,preco_cesta,190.43
+10-1989,242.33,Vitória,preco_cesta,242.33
+11-1989,365.86,Vitória,preco_cesta,365.86
+12-1989,577.27,Vitória,preco_cesta,577.27
+01-1990,1010.95,Vitória,preco_cesta,1010.95
+02-1990,1499.54,Vitória,preco_cesta,1499.54
+03-1990,2901.41,Vitória,preco_cesta,2901.41
+04-1990,2945.11,Vitória,preco_cesta,2945.11
+05-1990,3382.47,Vitória,preco_cesta,3382.47
+06-1990,4566.78,Vitória,preco_cesta,4566.78
+07-1990,4813.05,Vitória,preco_cesta,4813.05
+08-1990,5309.68,Vitória,preco_cesta,5309.68
+09-1990,6119.79,Vitória,preco_cesta,6119.79
+10-1990,6259.94,Vitória,preco_cesta,6259.94
+11-1990,6883.62,Vitória,preco_cesta,6883.62
+12-1990,7360.5,Vitória,preco_cesta,7360.5
+01-1991,9480.62,Vitória,preco_cesta,9480.62
+02-1991,11099.33,Vitória,preco_cesta,11099.33
+03-1991,12096.65,Vitória,preco_cesta,12096.65
+04-1991,12764.91,Vitória,preco_cesta,12764.91
+05-1991,13353.44,Vitória,preco_cesta,13353.44
+06-1991,13992.04,Vitória,preco_cesta,13992.04
+07-1991,16359.75,Vitória,preco_cesta,16359.75
+08-1991,20114.38,Vitória,preco_cesta,20114.38
+09-1991,22612.76,Vitória,preco_cesta,22612.76
+10-1991,31588.19,Vitória,preco_cesta,31588.19
+11-1991,39623.66,Vitória,preco_cesta,39623.66
+12-1991,48750.98,Vitória,preco_cesta,48750.98
+01-1992,64090.33,Vitória,preco_cesta,64090.33
+02-1992,72934.2,Vitória,preco_cesta,72934.2
+03-1992,86858.13,Vitória,preco_cesta,86858.13
+04-1992,103140.98,Vitória,preco_cesta,103140.98
+05-1992,126816.75,Vitória,preco_cesta,126816.75
+06-1992,145671.46,Vitória,preco_cesta,145671.46
+07-1992,181646.95,Vitória,preco_cesta,181646.95
+08-1992,250494.84,Vitória,preco_cesta,250494.84
+09-1992,315990.82,Vitória,preco_cesta,315990.82
+10-1992,396685.22,Vitória,preco_cesta,396685.22
+11-1992,468073.42,Vitória,preco_cesta,468073.42
+12-1992,550651.91,Vitória,preco_cesta,550651.91
+01-1993,696669.02,Vitória,preco_cesta,696669.02
+02-1993,1007594.22,Vitória,preco_cesta,1007594.22
+03-1993,1184473.32,Vitória,preco_cesta,1184473.32
+04-1993,1651489.08,Vitória,preco_cesta,1651489.08
+05-1993,2152366.64,Vitória,preco_cesta,2152366.64
+06-1993,2738495.6,Vitória,preco_cesta,2738495.6
+07-1993,3557549.78,Vitória,preco_cesta,3557549.78
+08-1993,4637.62,Vitória,preco_cesta,4637.62
+09-1993,6125.41,Vitória,preco_cesta,6125.41
+10-1993,8275.86,Vitória,preco_cesta,8275.86
+11-1993,12267.9,Vitória,preco_cesta,12267.9
+12-1993,16895.09,Vitória,preco_cesta,16895.09
+01-1994,23870.21,Vitória,preco_cesta,23870.21
+02-1994,32204.39,Vitória,preco_cesta,32204.39
+03-1994,49512.14,Vitória,preco_cesta,49512.14
+04-1994,70615.19,Vitória,preco_cesta,70615.19
+05-1994,92533.68,Vitória,preco_cesta,92533.68
+06-1994,157561.8,Vitória,preco_cesta,157561.8
+07-1994,62.41,Vitória,preco_cesta,62.41
+08-1994,68.84,Vitória,preco_cesta,68.84
+09-1994,74.89,Vitória,preco_cesta,74.89
+10-1994,77.32,Vitória,preco_cesta,77.32
+11-1994,79.15,Vitória,preco_cesta,79.15
+12-1994,76.27,Vitória,preco_cesta,76.27
+01-1995,71.9,Vitória,preco_cesta,71.9
+02-1995,73.23,Vitória,preco_cesta,73.23
+03-1995,77.72,Vitória,preco_cesta,77.72
+04-1995,85.41,Vitória,preco_cesta,85.41
+05-1995,89.28,Vitória,preco_cesta,89.28
+06-1995,83.33,Vitória,preco_cesta,83.33
+07-1995,74.49,Vitória,preco_cesta,74.49
+08-1995,76.58,Vitória,preco_cesta,76.58
+09-1995,72.9,Vitória,preco_cesta,72.9
+10-1995,70.07,Vitória,preco_cesta,70.07
+11-1995,72.16,Vitória,preco_cesta,72.16
+12-1995,75.48,Vitória,preco_cesta,75.48
+01-1996,79.14,Vitória,preco_cesta,79.14
+02-1996,77.34,Vitória,preco_cesta,77.34
+03-1996,73.16,Vitória,preco_cesta,73.16
+04-1996,74.79,Vitória,preco_cesta,74.79
+05-1996,80.3,Vitória,preco_cesta,80.3
+06-1996,83.25,Vitória,preco_cesta,83.25
+07-1996,82.94,Vitória,preco_cesta,82.94
+08-1996,82.04,Vitória,preco_cesta,82.04
+09-1996,79.9,Vitória,preco_cesta,79.9
+10-1996,79.2,Vitória,preco_cesta,79.2
+11-1996,77.87,Vitória,preco_cesta,77.87
+12-1996,75.31,Vitória,preco_cesta,75.31
+01-1997,74.77,Vitória,preco_cesta,74.77
+02-1997,77.47,Vitória,preco_cesta,77.47
+03-1997,82.73,Vitória,preco_cesta,82.73
+04-1997,83.83,Vitória,preco_cesta,83.83
+05-1997,83.28,Vitória,preco_cesta,83.28
+06-1997,75.48,Vitória,preco_cesta,75.48
+07-1997,74.89,Vitória,preco_cesta,74.89
+08-1997,75.03,Vitória,preco_cesta,75.03
+09-1997,74.89,Vitória,preco_cesta,74.89
+10-1997,78.48,Vitória,preco_cesta,78.48
+11-1997,81.46,Vitória,preco_cesta,81.46
+12-1997,84.51,Vitória,preco_cesta,84.51
+01-1998,86.09,Vitória,preco_cesta,86.09
+02-1998,85.48,Vitória,preco_cesta,85.48
+03-1998,86.51,Vitória,preco_cesta,86.51
+04-1998,89.91,Vitória,preco_cesta,89.91
+05-1998,89.54,Vitória,preco_cesta,89.54
+06-1998,93.89,Vitória,preco_cesta,93.89
+07-1998,86.93,Vitória,preco_cesta,86.93
+08-1998,82.97,Vitória,preco_cesta,82.97
+09-1998,81.32,Vitória,preco_cesta,81.32
+10-1998,81.77,Vitória,preco_cesta,81.77
+11-1998,82.16,Vitória,preco_cesta,82.16
+12-1998,85.66,Vitória,preco_cesta,85.66
+01-1999,81.32,Vitória,preco_cesta,81.32
+02-1999,84.73,Vitória,preco_cesta,84.73
+03-1999,88.11,Vitória,preco_cesta,88.11
+04-1999,91.99,Vitória,preco_cesta,91.99
+05-1999,89.33,Vitória,preco_cesta,89.33
+06-1999,89.83,Vitória,preco_cesta,89.83
+07-1999,84.75,Vitória,preco_cesta,84.75
+08-1999,88.76,Vitória,preco_cesta,88.76
+09-1999,85.83,Vitória,preco_cesta,85.83
+10-1999,90.07,Vitória,preco_cesta,90.07
+11-1999,93.49,Vitória,preco_cesta,93.49
+12-1999,92.76,Vitória,preco_cesta,92.76
+01-2000,94.73,Vitória,preco_cesta,94.73
+02-2000,93.22,Vitória,preco_cesta,93.22
+03-2000,96.11,Vitória,preco_cesta,96.11
+04-2000,97.17,Vitória,preco_cesta,97.17
+05-2000,93.7,Vitória,preco_cesta,93.7
+06-2000,90.69,Vitória,preco_cesta,90.69
+07-2000,89.57,Vitória,preco_cesta,89.57
+08-2000,94.08,Vitória,preco_cesta,94.08
+09-2000,96.21,Vitória,preco_cesta,96.21
+10-2000,97.67,Vitória,preco_cesta,97.67
+11-2000,98.89,Vitória,preco_cesta,98.89
+12-2000,96.11,Vitória,preco_cesta,96.11
+01-2001,94.81,Vitória,preco_cesta,94.81
+02-2001,97.25,Vitória,preco_cesta,97.25
+03-2001,104.88,Vitória,preco_cesta,104.88
+04-2001,113.2,Vitória,preco_cesta,113.2
+05-2001,110.94,Vitória,preco_cesta,110.94
+06-2001,110.89,Vitória,preco_cesta,110.89
+07-2001,111.24,Vitória,preco_cesta,111.24
+08-2001,108.26,Vitória,preco_cesta,108.26
+09-2001,107.04,Vitória,preco_cesta,107.04
+10-2001,111.02,Vitória,preco_cesta,111.02
+11-2001,112.94,Vitória,preco_cesta,112.94
+12-2001,116.51,Vitória,preco_cesta,116.51
+01-2002,117.78,Vitória,preco_cesta,117.78
+02-2002,117.78,Vitória,preco_cesta,117.78
+03-2002,116.25,Vitória,preco_cesta,116.25
+04-2002,116,Vitória,preco_cesta,116.0
+05-2002,113.65,Vitória,preco_cesta,113.65
+06-2002,115.34,Vitória,preco_cesta,115.34
+07-2002,120.73,Vitória,preco_cesta,120.73
+08-2002,122.37,Vitória,preco_cesta,122.37
+09-2002,123.34,Vitória,preco_cesta,123.34
+10-2002,124.6,Vitória,preco_cesta,124.6
+11-2002,132.44,Vitória,preco_cesta,132.44
+12-2002,135.49,Vitória,preco_cesta,135.49
+01-2003,137.93,Vitória,preco_cesta,137.93
+02-2003,143.98,Vitória,preco_cesta,143.98
+03-2003,149.28,Vitória,preco_cesta,149.28
+04-2003,155.75,Vitória,preco_cesta,155.75
+05-2003,149.85,Vitória,preco_cesta,149.85
+06-2003,146.67,Vitória,preco_cesta,146.67
+07-2003,140.83,Vitória,preco_cesta,140.83
+08-2003,136.73,Vitória,preco_cesta,136.73
+09-2003,138.67,Vitória,preco_cesta,138.67
+10-2003,137.3,Vitória,preco_cesta,137.3
+11-2003,139.28,Vitória,preco_cesta,139.28
+12-2003,139.28,Vitória,preco_cesta,139.28
+01-2004,148.12,Vitória,preco_cesta,148.12
+02-2004,147.26,Vitória,preco_cesta,147.26
+03-2004,149.02,Vitória,preco_cesta,149.02
+04-2004,146.2,Vitória,preco_cesta,146.2
+05-2004,147.37,Vitória,preco_cesta,147.37
+06-2004,158.19,Vitória,preco_cesta,158.19
+07-2004,153.4,Vitória,preco_cesta,153.4
+08-2004,165.05,Vitória,preco_cesta,165.05
+09-2004,154.71,Vitória,preco_cesta,154.71
+10-2004,151.84,Vitória,preco_cesta,151.84
+11-2004,148.41,Vitória,preco_cesta,148.41
+12-2004,152.38,Vitória,preco_cesta,152.38
+01-2005,157.96,Vitória,preco_cesta,157.96
+02-2005,163.69,Vitória,preco_cesta,163.69
+03-2005,159.26,Vitória,preco_cesta,159.26
+04-2005,165.19,Vitória,preco_cesta,165.19
+05-2005,170.76,Vitória,preco_cesta,170.76
+06-2005,162.89,Vitória,preco_cesta,162.89
+07-2005,160.5,Vitória,preco_cesta,160.5
+08-2005,150.78,Vitória,preco_cesta,150.78
+09-2005,148.33,Vitória,preco_cesta,148.33
+10-2005,152.78,Vitória,preco_cesta,152.78
+11-2005,165.43,Vitória,preco_cesta,165.43
+12-2005,165.61,Vitória,preco_cesta,165.61
+01-2006,165.15,Vitória,preco_cesta,165.15
+02-2006,159.41,Vitória,preco_cesta,159.41
+03-2006,160.61,Vitória,preco_cesta,160.61
+04-2006,161.88,Vitória,preco_cesta,161.88
+05-2006,163.37,Vitória,preco_cesta,163.37
+06-2006,152.32,Vitória,preco_cesta,152.32
+07-2006,151.47,Vitória,preco_cesta,151.47
+08-2006,147.67,Vitória,preco_cesta,147.67
+09-2006,149.8,Vitória,preco_cesta,149.8
+10-2006,157.91,Vitória,preco_cesta,157.91
+11-2006,163.84,Vitória,preco_cesta,163.84
+12-2006,158.17,Vitória,preco_cesta,158.17
+01-2007,168.99,Vitória,preco_cesta,168.99
+02-2007,172.41,Vitória,preco_cesta,172.41
+03-2007,174.12,Vitória,preco_cesta,174.12
+04-2007,171.5,Vitória,preco_cesta,171.5
+05-2007,162.76,Vitória,preco_cesta,162.76
+06-2007,164.63,Vitória,preco_cesta,164.63
+07-2007,164.04,Vitória,preco_cesta,164.04
+08-2007,172.55,Vitória,preco_cesta,172.55
+09-2007,179.95,Vitória,preco_cesta,179.95
+10-2007,182.84,Vitória,preco_cesta,182.84
+11-2007,179.98,Vitória,preco_cesta,179.98
+12-2007,189.51,Vitória,preco_cesta,189.51
+01-2008,198.54,Vitória,preco_cesta,198.54
+02-2008,197.9,Vitória,preco_cesta,197.9
+03-2008,206.8,Vitória,preco_cesta,206.8
+04-2008,212.39,Vitória,preco_cesta,212.39
+05-2008,222.98,Vitória,preco_cesta,222.98
+06-2008,220.46,Vitória,preco_cesta,220.46
+07-2008,230.19,Vitória,preco_cesta,230.19
+08-2008,207.99,Vitória,preco_cesta,207.99
+09-2008,205.09,Vitória,preco_cesta,205.09
+10-2008,213.56,Vitória,preco_cesta,213.56
+11-2008,226.16,Vitória,preco_cesta,226.16
+12-2008,227.54,Vitória,preco_cesta,227.54
+01-2009,238.44,Vitória,preco_cesta,238.44
+02-2009,232.48,Vitória,preco_cesta,232.48
+03-2009,217.91,Vitória,preco_cesta,217.91
+04-2009,219.32,Vitória,preco_cesta,219.32
+05-2009,225.45,Vitória,preco_cesta,225.45
+06-2009,227.3,Vitória,preco_cesta,227.3
+07-2009,223.11,Vitória,preco_cesta,223.11
+08-2009,223.09,Vitória,preco_cesta,223.09
+09-2009,226.02,Vitória,preco_cesta,226.02
+10-2009,224.57,Vitória,preco_cesta,224.57
+11-2009,227.81,Vitória,preco_cesta,227.81
+12-2009,219.09,Vitória,preco_cesta,219.09
+01-2010,217.2,Vitória,preco_cesta,217.2
+02-2010,224.74,Vitória,preco_cesta,224.74
+03-2010,232.23,Vitória,preco_cesta,232.23
+04-2010,244.07,Vitória,preco_cesta,244.07
+05-2010,242.85,Vitória,preco_cesta,242.85
+06-2010,231.12,Vitória,preco_cesta,231.12
+07-2010,222.27,Vitória,preco_cesta,222.27
+08-2010,217.96,Vitória,preco_cesta,217.96
+09-2010,225.35,Vitória,preco_cesta,225.35
+10-2010,231.26,Vitória,preco_cesta,231.26
+11-2010,246.75,Vitória,preco_cesta,246.75
+12-2010,242,Vitória,preco_cesta,242.0
+01-2011,250.26,Vitória,preco_cesta,250.26
+02-2011,246.31,Vitória,preco_cesta,246.31
+03-2011,258.32,Vitória,preco_cesta,258.32
+04-2011,256.12,Vitória,preco_cesta,256.12
+05-2011,260.59,Vitória,preco_cesta,260.59
+06-2011,256.14,Vitória,preco_cesta,256.14
+07-2011,250.76,Vitória,preco_cesta,250.76
+08-2011,249.58,Vitória,preco_cesta,249.58
+09-2011,249.6,Vitória,preco_cesta,249.6
+10-2011,251.98,Vitória,preco_cesta,251.98
+11-2011,263.91,Vitória,preco_cesta,263.91
+12-2011,275.39,Vitória,preco_cesta,275.39
+01-2012,271.16,Vitória,preco_cesta,271.16
+02-2012,267.19,Vitória,preco_cesta,267.19
+03-2012,260.23,Vitória,preco_cesta,260.23
+04-2012,262.14,Vitória,preco_cesta,262.14
+05-2012,271.16,Vitória,preco_cesta,271.16
+06-2012,277.7,Vitória,preco_cesta,277.7
+07-2012,290.8,Vitória,preco_cesta,290.8
+08-2012,298.6,Vitória,preco_cesta,298.6
+09-2012,300.71,Vitória,preco_cesta,300.71
+10-2012,293.83,Vitória,preco_cesta,293.83
+11-2012,295.31,Vitória,preco_cesta,295.31
+12-2012,290.89,Vitória,preco_cesta,290.89
+01-2013,315.38,Vitória,preco_cesta,315.38
+02-2013,313.4,Vitória,preco_cesta,313.4
+03-2013,332.24,Vitória,preco_cesta,332.24
+04-2013,328.94,Vitória,preco_cesta,328.94
+05-2013,325.87,Vitória,preco_cesta,325.87
+06-2013,315.63,Vitória,preco_cesta,315.63
+07-2013,310.73,Vitória,preco_cesta,310.73
+08-2013,310.03,Vitória,preco_cesta,310.03
+09-2013,301.55,Vitória,preco_cesta,301.55
+10-2013,313.78,Vitória,preco_cesta,313.78
+11-2013,321.41,Vitória,preco_cesta,321.41
+12-2013,321.39,Vitória,preco_cesta,321.39
+01-2014,327.13,Vitória,preco_cesta,327.13
+02-2014,328.43,Vitória,preco_cesta,328.43
+03-2014,343.7,Vitória,preco_cesta,343.7
+04-2014,351.27,Vitória,preco_cesta,351.27
+05-2014,352.76,Vitória,preco_cesta,352.76
+06-2014,345.98,Vitória,preco_cesta,345.98
+07-2014,330.71,Vitória,preco_cesta,330.71
+08-2014,329.13,Vitória,preco_cesta,329.13
+09-2014,328.33,Vitória,preco_cesta,328.33
+10-2014,329.19,Vitória,preco_cesta,329.19
+11-2014,331.34,Vitória,preco_cesta,331.34
+12-2014,333.15,Vitória,preco_cesta,333.15
+01-2015,348.3,Vitória,preco_cesta,348.3
+02-2015,354.85,Vitória,preco_cesta,354.85
+03-2015,363.62,Vitória,preco_cesta,363.62
+04-2015,376.46,Vitória,preco_cesta,376.46
+05-2015,387.92,Vitória,preco_cesta,387.92
+06-2015,367.94,Vitória,preco_cesta,367.94
+07-2015,368.01,Vitória,preco_cesta,368.01
+08-2015,358,Vitória,preco_cesta,358.0
+09-2015,361.54,Vitória,preco_cesta,361.54
+10-2015,357.3,Vitória,preco_cesta,357.3
+11-2015,378.91,Vitória,preco_cesta,378.91
+12-2015,384.99,Vitória,preco_cesta,384.99
+01-2016,438.42,Vitória,preco_cesta,438.42
+02-2016,401.38,Vitória,preco_cesta,401.38
+03-2016,418.18,Vitória,preco_cesta,418.18
+04-2016,414.26,Vitória,preco_cesta,414.26
+05-2016,418.96,Vitória,preco_cesta,418.96
+06-2016,428.69,Vitória,preco_cesta,428.69
+07-2016,436.24,Vitória,preco_cesta,436.24
+08-2016,436.53,Vitória,preco_cesta,436.53
+09-2016,435.27,Vitória,preco_cesta,435.27
+10-2016,449.16,Vitória,preco_cesta,449.16
+11-2016,438.85,Vitória,preco_cesta,438.85
+12-2016,426.32,Vitória,preco_cesta,426.32
+01-2017,422.38,Vitória,preco_cesta,422.38
+02-2017,414.03,Vitória,preco_cesta,414.03
+03-2017,415.75,Vitória,preco_cesta,415.75
+04-2017,431.54,Vitória,preco_cesta,431.54
+05-2017,422.03,Vitória,preco_cesta,422.03
+06-2017,404.54,Vitória,preco_cesta,404.54
+07-2017,409.51,Vitória,preco_cesta,409.51
+08-2017,397.89,Vitória,preco_cesta,397.89
+09-2017,391.76,Vitória,preco_cesta,391.76
+10-2017,393.71,Vitória,preco_cesta,393.71
+11-2017,387.93,Vitória,preco_cesta,387.93
+12-2017,385.19,Vitória,preco_cesta,385.19
+01-2018,417.73,Vitória,preco_cesta,417.73
+02-2018,410.84,Vitória,preco_cesta,410.84
+03-2018,410.59,Vitória,preco_cesta,410.59
+04-2018,409.8,Vitória,preco_cesta,409.8
+05-2018,409.95,Vitória,preco_cesta,409.95
+06-2018,413.73,Vitória,preco_cesta,413.73
+07-2018,406.43,Vitória,preco_cesta,406.43
+08-2018,395.7,Vitória,preco_cesta,395.7
+09-2018,395.64,Vitória,preco_cesta,395.64
+10-2018,419.69,Vitória,preco_cesta,419.69
+11-2018,408.55,Vitória,preco_cesta,408.55
+12-2018,403.79,Vitória,preco_cesta,403.79
+01-2019,424.21,Vitória,preco_cesta,424.21
+02-2019,449.54,Vitória,preco_cesta,449.54
+03-2019,475.84,Vitória,preco_cesta,475.84
+04-2019,498.54,Vitória,preco_cesta,498.54
+05-2019,484.84,Vitória,preco_cesta,484.84
+06-2019,485.34,Vitória,preco_cesta,485.34
+07-2019,466.93,Vitória,preco_cesta,466.93
+08-2019,441.5,Vitória,preco_cesta,441.5
+09-2019,429.06,Vitória,preco_cesta,429.06
+10-2019,428.25,Vitória,preco_cesta,428.25
+11-2019,462.06,Vitória,preco_cesta,462.06
+12-2019,499.23,Vitória,preco_cesta,499.23
+01-2020,492.2,Vitória,preco_cesta,492.2
+02-2020,480.03,Vitória,preco_cesta,480.03
+03-2020,504.78,Vitória,preco_cesta,504.78
+04-2020,537.89,Vitória,preco_cesta,537.89
+05-2020,536.73,Vitória,preco_cesta,536.73
+06-2020,500.01,Vitória,preco_cesta,500.01
+07-2020,484.8,Vitória,preco_cesta,484.8
+08-2020,509.45,Vitória,preco_cesta,509.45
+09-2020,539.36,Vitória,preco_cesta,539.36
+10-2020,552.85,Vitória,preco_cesta,552.85
+11-2020,606.59,Vitória,preco_cesta,606.59
+12-2020,600.28,Vitória,preco_cesta,600.28
+01-2021,624.62,Vitória,preco_cesta,624.62
+02-2021,609.27,Vitória,preco_cesta,609.27
+03-2021,596.91,Vitória,preco_cesta,596.91
+04-2021,610.98,Vitória,preco_cesta,610.98
+05-2021,616.96,Vitória,preco_cesta,616.96
+06-2021,611.29,Vitória,preco_cesta,611.29
+07-2021,612.45,Vitória,preco_cesta,612.45
+08-2021,618.96,Vitória,preco_cesta,618.96
+09-2021,633.03,Vitória,preco_cesta,633.03
+10-2021,670.99,Vitória,preco_cesta,670.99
+11-2021,668.17,Vitória,preco_cesta,668.17
+12-2021,662.01,Vitória,preco_cesta,662.01
+01-2022,677.54,Vitória,preco_cesta,677.54
+02-2022,682.54,Vitória,preco_cesta,682.54
+03-2022,704.93,Vitória,preco_cesta,704.93
+04-2022,729.31,Vitória,preco_cesta,729.31
+05-2022,698.24,Vitória,preco_cesta,698.24
+06-2022,692.84,Vitória,preco_cesta,692.84
+07-2022,700.75,Vitória,preco_cesta,700.75
+08-2022,697.39,Vitória,preco_cesta,697.39
+09-2022,686.26,Vitória,preco_cesta,686.26
+10-2022,707.78,Vitória,preco_cesta,707.78
+11-2022,713.57,Vitória,preco_cesta,713.57
+12-2022,728.78,Vitória,preco_cesta,728.78
+01-2023,726.23,Vitória,preco_cesta,726.23
+02-2023,709.21,Vitória,preco_cesta,709.21
+03-2023,699.16,Vitória,preco_cesta,699.16
+04-2023,703.9,Vitória,preco_cesta,703.9
+05-2023,706.06,Vitória,preco_cesta,706.06
+06-2023,691.34,Vitória,preco_cesta,691.34
+07-2023,674.54,Vitória,preco_cesta,674.54
+08-2023,660.88,Vitória,preco_cesta,660.88
+09-2023,681.91,Vitória,preco_cesta,681.91
+10-2023,675.16,Vitória,preco_cesta,675.16
+11-2023,675.45,Vitória,preco_cesta,675.45
+12-2023,688.86,Vitória,preco_cesta,688.86
+01-2024,719.3,Vitória,preco_cesta,719.3
+02-2024,731.83,Vitória,preco_cesta,731.83
+03-2024,729.34,Vitória,preco_cesta,729.34
+04-2024,726.82,Vitória,preco_cesta,726.82
+05-2024,723.91,Vitória,preco_cesta,723.91
+06-2024,718.43,Vitória,preco_cesta,718.43
+07-2024,688.45,Vitória,preco_cesta,688.45
+08-2024,684.21,Vitória,preco_cesta,684.21
+09-2024,694.87,Vitória,preco_cesta,694.87
+10-2024,708.06,Vitória,preco_cesta,708.06
+11-2024,726.51,Vitória,preco_cesta,726.51
+12-2024,747.42,Vitória,preco_cesta,747.42

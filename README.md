@@ -55,7 +55,7 @@ O projeto está em processo de reorganização técnica.
 - [ ] Organização dos gráficos e tabelas
 - [ ] Publicação da interface web via GitHub Pages
 - [ ] Documentação da metodologia e dos resultados
-
+      
 ## Contexto acadêmico
 
 Este projeto foi desenvolvido originalmente como parte de uma Pesquisa Curricular de Graduação, envolvendo análise de dados, Interação Humano-Computador, acessibilidade digital e publicação de informações em interface web.

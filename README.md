@@ -2,7 +2,7 @@
 
 Projeto de análise exploratória de dados sobre a evolução do preço da cesta básica e das horas de trabalho necessárias para sua aquisição em capitais da região Sudeste do Brasil.
 
-O objetivo é reorganizar um trabalho acadêmico em uma estrutura mais próxima de um projeto técnico de portfólio, com dados, código, documentação e interface web.
+O objetivo é reorganizar um trabalho acadêmico em uma estrutura mais próxima de um projeto técnico de portfólio, com dados, código, documentação, análise exploratória e interface web.
 
 ## Visão geral
 
@@ -41,21 +41,50 @@ Este projeto trabalha com dados da Pesquisa Nacional da Cesta Básica de Aliment
 - `outputs/tables/` — tabelas exportadas
 - `web/` — interface web do projeto
 - `docs/` — artigo e documentação acadêmica
+- `requirements.txt` — dependências necessárias para execução do projeto
 
 ## Status atual
 
 O projeto está em processo de reorganização técnica.
 
+### Concluído
+
+- [x] Recuperação das bases brutas do DIEESE
+- [x] Organização dos arquivos brutos em `data/raw/`
+- [x] Criação do pipeline de processamento em Python
+- [x] Geração dos datasets tratados em `data/processed/`
+- [x] Registro das dependências em `requirements.txt`
+
 ### Em andamento
 
-- [ ] Padronização das bases brutas
-- [ ] Criação do pipeline de processamento em Python
-- [ ] Geração dos datasets tratados
 - [ ] Refatoração do notebook original
 - [ ] Organização dos gráficos e tabelas
 - [ ] Publicação da interface web via GitHub Pages
 - [ ] Documentação da metodologia e dos resultados
-      
+
+## Como executar o processamento dos dados
+
+Instale as dependências do projeto:
+
+`pip install -r requirements.txt`
+
+Execute o script de processamento:
+
+`python src/process_data.py`
+
+O script lê os arquivos brutos em `data/raw/` e gera os arquivos tratados em `data/processed/`.
+
+## Dados
+
+Os dados brutos foram extraídos da base pública da Pesquisa Nacional da Cesta Básica de Alimentos, do DIEESE.
+
+A etapa atual do projeto utiliza arquivos separados por cidade e métrica, que foram padronizados em dois datasets principais:
+
+- `data/processed/horas_trabalho.csv`
+- `data/processed/preco_cesta.csv`
+
+Durante o tratamento, linhas de rodapé e observações textuais da exportação original foram removidas. Foi preservado um valor ausente real identificado em `05-2021` para Belo Horizonte.
+
 ## Contexto acadêmico
 
 Este projeto foi desenvolvido originalmente como parte de uma Pesquisa Curricular de Graduação, envolvendo análise de dados, Interação Humano-Computador, acessibilidade digital e publicação de informações em interface web.
@@ -64,12 +93,11 @@ A versão atual busca transformar o material original em um repositório mais or
 
 ## Próximos passos
 
-1. Subir os arquivos brutos em `data/raw/`
-2. Processar os arquivos com scripts em `src/`
-3. Gerar arquivos tratados em `data/processed/`
-4. Refatorar o notebook de análise
-5. Integrar os gráficos e tabelas ao projeto
-6. Publicar a interface web
+1. Refatorar o notebook de análise para usar os arquivos tratados
+2. Gerar gráficos a partir dos datasets padronizados
+3. Integrar os resultados à interface web
+4. Publicar a interface via GitHub Pages
+5. Documentar os principais resultados e limitações dos dados
 
 ## Autor
 

@@ -6,190 +6,615 @@
   <title>Análise da Cesta Básica no Brasil</title>
 
   <style>
+    :root {
+      --bg: #0b1120;
+      --bg-soft: #111827;
+      --bg-card: #151f32;
+      --bg-card-soft: #1f2937;
+      --text: #e5e7eb;
+      --text-muted: #9ca3af;
+      --text-soft: #cbd5e1;
+      --border: rgba(148, 163, 184, 0.18);
+      --blue: #3b82f6;
+      --blue-soft: #60a5fa;
+      --cyan: #22d3ee;
+      --green: #34d399;
+      --shadow: 0 24px 80px rgba(0, 0, 0, 0.35);
+      --radius: 18px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
     body {
       margin: 0;
-      font-family: Arial, Helvetica, sans-serif;
-      background: #f4f6f8;
-      color: #1f2933;
+      font-family: Inter, Segoe UI, Roboto, Arial, sans-serif;
+      background:
+        radial-gradient(circle at top left, rgba(59, 130, 246, 0.22), transparent 34%),
+        radial-gradient(circle at top right, rgba(34, 211, 238, 0.10), transparent 28%),
+        linear-gradient(180deg, #0b1120 0%, #111827 48%, #0b1120 100%);
+      color: var(--text);
       line-height: 1.6;
     }
 
-    header {
-      background: #111827;
+    a {
+      color: inherit;
+    }
+
+    .container {
+      width: min(1120px, calc(100% - 40px));
+      margin: 0 auto;
+    }
+
+    .nav {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      backdrop-filter: blur(16px);
+      background: rgba(11, 17, 32, 0.78);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 0;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .brand-mark {
+      width: 12px;
+      height: 12px;
+      border-radius: 999px;
+      background: linear-gradient(135deg, var(--blue), var(--cyan));
+      box-shadow: 0 0 22px rgba(96, 165, 250, 0.85);
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 18px;
+      font-size: 0.92rem;
+      color: var(--text-muted);
+    }
+
+    .nav-links a {
+      text-decoration: none;
+    }
+
+    .nav-links a:hover {
+      color: var(--text);
+    }
+
+    .hero {
+      padding: 84px 0 56px;
+    }
+
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1.25fr 0.75fr;
+      gap: 28px;
+      align-items: center;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 7px 12px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      color: var(--blue-soft);
+      background: rgba(59, 130, 246, 0.08);
+      font-size: 0.88rem;
+      margin-bottom: 18px;
+    }
+
+    h1 {
+      margin: 0;
+      max-width: 850px;
+      font-size: clamp(2.45rem, 5vw, 4.7rem);
+      line-height: 1.02;
+      letter-spacing: -0.065em;
+    }
+
+    .hero p {
+      max-width: 760px;
+      margin: 22px 0 0;
+      color: var(--text-soft);
+      font-size: 1.08rem;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 30px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      min-height: 44px;
+      padding: 12px 16px;
+      border-radius: 12px;
+      text-decoration: none;
+      font-weight: 700;
+      border: 1px solid transparent;
+      transition: transform 0.18s ease, background 0.18s ease, border 0.18s ease;
+    }
+
+    .button:hover {
+      transform: translateY(-1px);
+    }
+
+    .button-primary {
+      background: linear-gradient(135deg, var(--blue), #2563eb);
+      color: white;
+      box-shadow: 0 18px 40px rgba(37, 99, 235, 0.28);
+    }
+
+    .button-secondary {
+      background: rgba(255, 255, 255, 0.04);
+      border-color: var(--border);
+      color: var(--text);
+    }
+
+    .hero-card {
+      padding: 24px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: linear-gradient(180deg, rgba(21, 31, 50, 0.95), rgba(17, 24, 39, 0.92));
+      box-shadow: var(--shadow);
+    }
+
+    .hero-card h2 {
+      margin: 0 0 16px;
+      font-size: 1rem;
+      color: var(--text-muted);
+      font-weight: 600;
+    }
+
+    .metric {
+      padding: 16px 0;
+      border-top: 1px solid var(--border);
+    }
+
+    .metric:first-of-type {
+      border-top: 0;
+      padding-top: 0;
+    }
+
+    .metric strong {
+      display: block;
+      font-size: 1.55rem;
+      line-height: 1.1;
+      letter-spacing: -0.04em;
       color: #ffffff;
-      padding: 48px 24px;
-      text-align: center;
     }
 
-    header h1 {
-      margin: 0 0 12px;
-      font-size: 2.2rem;
-    }
-
-    header p {
-      margin: 0 auto;
-      max-width: 800px;
-      color: #d1d5db;
-      font-size: 1.05rem;
-    }
-
-    main {
-      max-width: 1000px;
-      margin: 0 auto;
-      padding: 32px 24px;
+    .metric span {
+      display: block;
+      margin-top: 5px;
+      color: var(--text-muted);
+      font-size: 0.92rem;
     }
 
     section {
-      background: #ffffff;
-      margin-bottom: 24px;
-      padding: 28px;
-      border-radius: 12px;
-      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+      margin: 28px 0;
     }
 
-    h2 {
-      margin-top: 0;
-      color: #111827;
+    .section-header {
+      margin-bottom: 18px;
     }
 
-    ul {
-      padding-left: 22px;
+    .section-header h2 {
+      margin: 0;
+      font-size: 1.75rem;
+      letter-spacing: -0.04em;
     }
 
-    .cards {
+    .section-header p {
+      margin: 8px 0 0;
+      color: var(--text-muted);
+      max-width: 780px;
+    }
+
+    .panel {
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: rgba(21, 31, 50, 0.76);
+      box-shadow: 0 18px 50px rgba(0, 0, 0, 0.22);
+      padding: 26px;
+    }
+
+    .grid-2 {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 16px;
-      margin-top: 16px;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
     }
 
-    .card {
-      border: 1px solid #e5e7eb;
-      border-radius: 10px;
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 18px;
+    }
+
+    .info-card {
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      background: rgba(255, 255, 255, 0.035);
       padding: 20px;
-      background: #f9fafb;
     }
 
-    .card h3 {
-      margin-top: 0;
-      color: #111827;
-    }
-
-    a.button {
-      display: inline-block;
-      margin-top: 10px;
-      padding: 10px 14px;
-      background: #2563eb;
+    .info-card h3 {
+      margin: 0 0 8px;
+      font-size: 1.05rem;
       color: #ffffff;
-      text-decoration: none;
-      border-radius: 8px;
-      font-weight: bold;
     }
 
-    a.button:hover {
-      background: #1d4ed8;
-    }
-
-    .note {
-      color: #4b5563;
+    .info-card p,
+    .info-card li {
+      color: var(--text-muted);
       font-size: 0.95rem;
     }
 
+    .info-card p {
+      margin: 0;
+    }
+
+    .info-card ul {
+      margin: 0;
+      padding-left: 18px;
+    }
+
+    .chart-card {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      min-height: 230px;
+    }
+
+    .tag {
+      display: inline-flex;
+      width: fit-content;
+      margin-bottom: 14px;
+      padding: 5px 9px;
+      border-radius: 999px;
+      background: rgba(34, 211, 238, 0.08);
+      border: 1px solid rgba(34, 211, 238, 0.18);
+      color: #67e8f9;
+      font-size: 0.78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    .table {
+      width: 100%;
+      border-collapse: collapse;
+      overflow: hidden;
+      border-radius: 14px;
+      font-size: 0.95rem;
+    }
+
+    .table th,
+    .table td {
+      padding: 14px;
+      border-bottom: 1px solid var(--border);
+      text-align: left;
+    }
+
+    .table th {
+      color: var(--text-soft);
+      background: rgba(255, 255, 255, 0.04);
+      font-weight: 700;
+    }
+
+    .table td {
+      color: var(--text-muted);
+    }
+
+    .table tr:last-child td {
+      border-bottom: 0;
+    }
+
+    code {
+      padding: 2px 6px;
+      border-radius: 6px;
+      background: rgba(255, 255, 255, 0.08);
+      color: #bfdbfe;
+    }
+
     footer {
+      padding: 34px 0 46px;
+      color: var(--text-muted);
       text-align: center;
-      padding: 24px;
-      color: #6b7280;
-      font-size: 0.9rem;
+      font-size: 0.92rem;
+    }
+
+    @media (max-width: 860px) {
+      .hero-grid,
+      .grid-2,
+      .grid-3 {
+        grid-template-columns: 1fr;
+      }
+
+      .nav-links {
+        display: none;
+      }
+
+      .hero {
+        padding-top: 56px;
+      }
+
+      .panel {
+        padding: 20px;
+      }
     }
   </style>
 </head>
 
 <body>
-  <header>
-    <h1>Análise da Cesta Básica no Brasil</h1>
-    <p>
-      Projeto de análise exploratória sobre a evolução do preço da cesta básica
-      e das horas de trabalho necessárias para sua aquisição em capitais da região Sudeste.
-    </p>
+  <nav class="nav">
+    <div class="container nav-inner">
+      <div class="brand">
+        <span class="brand-mark"></span>
+        <span>Cesta Básica • Análise de Dados</span>
+      </div>
+
+      <div class="nav-links">
+        <a href="#objetivo">Objetivo</a>
+        <a href="#graficos">Gráficos</a>
+        <a href="#resultados">Resultados</a>
+        <a href="#tecnico">Técnico</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="hero">
+    <div class="container hero-grid">
+      <div>
+        <div class="eyebrow">Projeto acadêmico transformado em portfólio técnico</div>
+
+        <h1>Análise da cesta básica no Brasil</h1>
+
+        <p>
+          Estudo exploratório sobre a evolução do preço da cesta básica e das horas de trabalho
+          necessárias para sua aquisição em capitais da região Sudeste, usando Python, Pandas,
+          Plotly e GitHub Pages.
+        </p>
+
+        <div class="actions">
+          <a class="button button-primary" href="#graficos">Ver gráficos interativos</a>
+          <a class="button button-secondary" href="https://github.com/enzo-going/analise-cesta-basica-brasil" target="_blank">
+            Ver repositório no GitHub
+          </a>
+        </div>
+      </div>
+
+      <aside class="hero-card">
+        <h2>Resumo do recorte</h2>
+
+        <div class="metric">
+          <strong>1995–2024</strong>
+          <span>Período principal analisado</span>
+        </div>
+
+        <div class="metric">
+          <strong>4 capitais</strong>
+          <span>São Paulo, Rio de Janeiro, Belo Horizonte e Vitória</span>
+        </div>
+
+        <div class="metric">
+          <strong>2 indicadores</strong>
+          <span>Preço nominal e horas de trabalho</span>
+        </div>
+      </aside>
+    </div>
   </header>
 
-  <main>
-    <section>
-      <h2>Objetivo do projeto</h2>
-      <p>
-        O objetivo deste projeto é reorganizar uma análise acadêmica em um formato técnico,
-        reprodutível e adequado para portfólio, utilizando Python, Pandas, Plotly e GitHub.
-      </p>
-      <p>
-        A análise considera dados da Pesquisa Nacional da Cesta Básica de Alimentos,
-        com foco em São Paulo, Rio de Janeiro, Belo Horizonte e Vitória.
-      </p>
-    </section>
+  <main class="container">
+    <section id="objetivo">
+      <div class="section-header">
+        <h2>Objetivo do projeto</h2>
+        <p>
+          O projeto reorganiza uma análise acadêmica em uma estrutura técnica, reprodutível
+          e adequada para apresentação profissional.
+        </p>
+      </div>
 
-    <section>
-      <h2>Indicadores analisados</h2>
-      <ul>
-        <li>Preço nominal da cesta básica ao longo do tempo.</li>
-        <li>Horas de trabalho necessárias para aquisição da cesta básica.</li>
-        <li>Comparação entre capitais da região Sudeste.</li>
-        <li>Recorte visual principal entre 1995 e 2024.</li>
-      </ul>
-    </section>
-
-    <section>
-      <h2>Principais conclusões preliminares</h2>
-      <ul>
-        <li>O preço nominal da cesta básica apresenta tendência de crescimento no período pós-1995.</li>
-        <li>A elevação dos preços se torna mais evidente a partir de 2020.</li>
-        <li>O indicador de horas de trabalho ajuda a aproximar a análise do poder de compra.</li>
-        <li>No último mês disponível, São Paulo apresentou o maior preço nominal e maior tempo de trabalho necessário entre as capitais analisadas.</li>
-      </ul>
-    </section>
-
-    <section>
-      <h2>Gráficos interativos</h2>
-      <p>
-        Os gráficos abaixo foram gerados com Plotly e exportados em HTML para preservar a interatividade.
-      </p>
-
-      <div class="cards">
-        <div class="card">
-          <h3>Preço da cesta básica</h3>
+      <div class="panel grid-2">
+        <div class="info-card">
+          <h3>Problema analisado</h3>
           <p>
-            Evolução do preço nominal da cesta básica por cidade entre 1995 e 2024.
+            Entender como o custo da cesta básica evoluiu ao longo do tempo e como esse custo
+            se relaciona com o esforço de trabalho necessário para sua aquisição.
           </p>
-          <a class="button" href="../outputs/charts/preco_cesta_1995_2024.html">
+        </div>
+
+        <div class="info-card">
+          <h3>Abordagem</h3>
+          <p>
+            Os dados foram organizados em bases brutas e tratadas, processados com Python e
+            visualizados em gráficos interativos exportados com Plotly.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="resultados">
+      <div class="section-header">
+        <h2>Principais resultados preliminares</h2>
+        <p>
+          Os resultados ainda são preliminares, mas já indicam tendências relevantes no período pós-1995.
+        </p>
+      </div>
+
+      <div class="panel grid-3">
+        <div class="info-card">
+          <span class="tag">Preço</span>
+          <h3>Crescimento nominal</h3>
+          <p>
+            O preço da cesta básica apresenta tendência de crescimento nas quatro capitais analisadas.
+          </p>
+        </div>
+
+        <div class="info-card">
+          <span class="tag">Pós-2020</span>
+          <h3>Aceleração recente</h3>
+          <p>
+            A elevação dos preços se torna mais evidente a partir de 2020, especialmente nos anos mais recentes da série.
+          </p>
+        </div>
+
+        <div class="info-card">
+          <span class="tag">Poder de compra</span>
+          <h3>Horas de trabalho</h3>
+          <p>
+            O indicador de horas de trabalho complementa o preço nominal e aproxima a análise do poder de compra.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-header">
+        <h2>Último mês disponível</h2>
+        <p>
+          Comparação entre as capitais no recorte mais recente da base: dezembro de 2024.
+        </p>
+      </div>
+
+      <div class="panel">
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Cidade</th>
+              <th>Preço da cesta básica</th>
+              <th>Horas de trabalho</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>São Paulo</td>
+              <td>R$ 841,29</td>
+              <td>131,08 h</td>
+            </tr>
+            <tr>
+              <td>Rio de Janeiro</td>
+              <td>R$ 779,84</td>
+              <td>121,50 h</td>
+            </tr>
+            <tr>
+              <td>Vitória</td>
+              <td>R$ 747,42</td>
+              <td>116,45 h</td>
+            </tr>
+            <tr>
+              <td>Belo Horizonte</td>
+              <td>R$ 706,32</td>
+              <td>110,05 h</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="graficos">
+      <div class="section-header">
+        <h2>Gráficos interativos</h2>
+        <p>
+          Os gráficos foram exportados em HTML para preservar recursos de interação, como zoom, legenda e inspeção dos pontos.
+        </p>
+      </div>
+
+      <div class="panel grid-2">
+        <div class="info-card chart-card">
+          <div>
+            <span class="tag">Plotly</span>
+            <h3>Preço da cesta básica</h3>
+            <p>
+              Evolução do preço nominal da cesta básica por cidade entre 1995 e 2024.
+            </p>
+          </div>
+
+          <a class="button button-primary" href="../outputs/charts/preco_cesta_1995_2024.html">
             Abrir gráfico
           </a>
         </div>
 
-        <div class="card">
-          <h3>Horas de trabalho</h3>
-          <p>
-            Evolução das horas de trabalho necessárias para aquisição da cesta básica entre 1995 e 2024.
-          </p>
-          <a class="button" href="../outputs/charts/horas_trabalho_1995_2024.html">
+        <div class="info-card chart-card">
+          <div>
+            <span class="tag">Plotly</span>
+            <h3>Horas de trabalho</h3>
+            <p>
+              Evolução das horas de trabalho necessárias para aquisição da cesta básica no mesmo período.
+            </p>
+          </div>
+
+          <a class="button button-primary" href="../outputs/charts/horas_trabalho_1995_2024.html">
             Abrir gráfico
           </a>
         </div>
       </div>
     </section>
 
-    <section>
-      <h2>Estrutura técnica</h2>
-      <p>
-        O projeto utiliza dados brutos organizados em <code>data/raw/</code>,
-        dados tratados em <code>data/processed/</code>, scripts Python em <code>src/</code>
-        e notebooks de análise em <code>notebooks/</code>.
-      </p>
-      <p class="note">
-        Esta página é uma versão inicial da interface web e será evoluída conforme o projeto avançar.
-      </p>
+    <section id="tecnico">
+      <div class="section-header">
+        <h2>Estrutura técnica</h2>
+        <p>
+          O repositório foi organizado para separar dados, processamento, análise e publicação web.
+        </p>
+      </div>
+
+      <div class="panel grid-2">
+        <div class="info-card">
+          <h3>Pipeline e dados</h3>
+          <ul>
+            <li><code>data/raw/</code> — arquivos brutos</li>
+            <li><code>data/processed/</code> — datasets tratados</li>
+            <li><code>src/</code> — script Python de processamento</li>
+          </ul>
+        </div>
+
+        <div class="info-card">
+          <h3>Análise e publicação</h3>
+          <ul>
+            <li><code>notebooks/analysis.ipynb</code> — análise exploratória</li>
+            <li><code>outputs/charts/</code> — gráficos exportados</li>
+            <li><code>web/index.html</code> — interface publicada</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="actions">
+        <a class="button button-secondary" href="https://github.com/enzo-going/analise-cesta-basica-brasil/blob/main/notebooks/analysis.ipynb" target="_blank">
+          Ver notebook no GitHub
+        </a>
+        <a class="button button-secondary" href="https://github.com/enzo-going/analise-cesta-basica-brasil/blob/main/src/process_data.py" target="_blank">
+          Ver pipeline Python
+        </a>
+      </div>
     </section>
   </main>
 
   <footer>
-    Desenvolvido por Enzo Liutkus Going · Projeto acadêmico e técnico de análise de dados
+    Desenvolvido por Enzo Liutkus Going · Ciência da Computação · Análise de Dados com Python
   </footer>
 </body>
 </html>

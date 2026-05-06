@@ -2,6 +2,13 @@
 
 Projeto de análise exploratória de dados sobre a evolução do preço da cesta básica e das horas de trabalho necessárias para sua aquisição em capitais da região Sudeste do Brasil.
 
+## Acesso ao projeto
+
+A interface web inicial do projeto está disponível em:
+
+https://enzo-going.github.io/analise-cesta-basica-brasil/
+
+
 O objetivo é reorganizar um trabalho acadêmico em uma estrutura mais próxima de um projeto técnico de portfólio, com dados, código, documentação, análise exploratória e interface web.
 
 ## Visão geral

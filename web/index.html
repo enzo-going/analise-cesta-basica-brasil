@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Análise da Cesta Básica no Brasil</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f4f6f8;
+      color: #1f2933;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #111827;
+      color: #ffffff;
+      padding: 48px 24px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0 0 12px;
+      font-size: 2.2rem;
+    }
+
+    header p {
+      margin: 0 auto;
+      max-width: 800px;
+      color: #d1d5db;
+      font-size: 1.05rem;
+    }
+
+    main {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 32px 24px;
+    }
+
+    section {
+      background: #ffffff;
+      margin-bottom: 24px;
+      padding: 28px;
+      border-radius: 12px;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+    }
+
+    h2 {
+      margin-top: 0;
+      color: #111827;
+    }
+
+    ul {
+      padding-left: 22px;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 16px;
+      margin-top: 16px;
+    }
+
+    .card {
+      border: 1px solid #e5e7eb;
+      border-radius: 10px;
+      padding: 20px;
+      background: #f9fafb;
+    }
+
+    .card h3 {
+      margin-top: 0;
+      color: #111827;
+    }
+
+    a.button {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 14px;
+      background: #2563eb;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+
+    a.button:hover {
+      background: #1d4ed8;
+    }
+
+    .note {
+      color: #4b5563;
+      font-size: 0.95rem;
+    }
+
+    footer {
+      text-align: center;
+      padding: 24px;
+      color: #6b7280;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Análise da Cesta Básica no Brasil</h1>
+    <p>
+      Projeto de análise exploratória sobre a evolução do preço da cesta básica
+      e das horas de trabalho necessárias para sua aquisição em capitais da região Sudeste.
+    </p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Objetivo do projeto</h2>
+      <p>
+        O objetivo deste projeto é reorganizar uma análise acadêmica em um formato técnico,
+        reprodutível e adequado para portfólio, utilizando Python, Pandas, Plotly e GitHub.
+      </p>
+      <p>
+        A análise considera dados da Pesquisa Nacional da Cesta Básica de Alimentos,
+        com foco em São Paulo, Rio de Janeiro, Belo Horizonte e Vitória.
+      </p>
+    </section>
+
+    <section>
+      <h2>Indicadores analisados</h2>
+      <ul>
+        <li>Preço nominal da cesta básica ao longo do tempo.</li>
+        <li>Horas de trabalho necessárias para aquisição da cesta básica.</li>
+        <li>Comparação entre capitais da região Sudeste.</li>
+        <li>Recorte visual principal entre 1995 e 2024.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Principais conclusões preliminares</h2>
+      <ul>
+        <li>O preço nominal da cesta básica apresenta tendência de crescimento no período pós-1995.</li>
+        <li>A elevação dos preços se torna mais evidente a partir de 2020.</li>
+        <li>O indicador de horas de trabalho ajuda a aproximar a análise do poder de compra.</li>
+        <li>No último mês disponível, São Paulo apresentou o maior preço nominal e maior tempo de trabalho necessário entre as capitais analisadas.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Gráficos interativos</h2>
+      <p>
+        Os gráficos abaixo foram gerados com Plotly e exportados em HTML para preservar a interatividade.
+      </p>
+
+      <div class="cards">
+        <div class="card">
+          <h3>Preço da cesta básica</h3>
+          <p>
+            Evolução do preço nominal da cesta básica por cidade entre 1995 e 2024.
+          </p>
+          <a class="button" href="../outputs/charts/preco_cesta_1995_2024.html">
+            Abrir gráfico
+          </a>
+        </div>
+
+        <div class="card">
+          <h3>Horas de trabalho</h3>
+          <p>
+            Evolução das horas de trabalho necessárias para aquisição da cesta básica entre 1995 e 2024.
+          </p>
+          <a class="button" href="../outputs/charts/horas_trabalho_1995_2024.html">
+            Abrir gráfico
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Estrutura técnica</h2>
+      <p>
+        O projeto utiliza dados brutos organizados em <code>data/raw/</code>,
+        dados tratados em <code>data/processed/</code>, scripts Python em <code>src/</code>
+        e notebooks de análise em <code>notebooks/</code>.
+      </p>
+      <p class="note">
+        Esta página é uma versão inicial da interface web e será evoluída conforme o projeto avançar.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    Desenvolvido por Enzo Liutkus Going · Projeto acadêmico e técnico de análise de dados
+  </footer>
+</body>
+</html>

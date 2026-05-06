@@ -43,7 +43,7 @@ Este projeto trabalha com dados da Pesquisa Nacional da Cesta Básica de Aliment
 - `data/raw/` — dados brutos extraídos do DIEESE
 - `data/processed/` — dados tratados e padronizados
 - `notebooks/` — notebooks de análise exploratória
-- `src/` — scripts Python de processamento
+- `src/` — scripts Python de processamento e geração de gráficos
 - `outputs/charts/` — gráficos gerados
 - `outputs/tables/` — tabelas exportadas
 - `web/` — interface web do projeto
@@ -61,25 +61,34 @@ O projeto está em processo de reorganização técnica.
 - [x] Criação do pipeline de processamento em Python
 - [x] Geração dos datasets tratados em `data/processed/`
 - [x] Registro das dependências em `requirements.txt`
+- [x] Criação do script de geração de gráficos em `src/generate_charts.py`
+- [x] Refatoração inicial do notebook de análise
+- [x] Criação da interface web inicial
+- [x] Publicação da interface web via GitHub Pages
 
 ### Em andamento
 
-- [ ] Refatoração do notebook original
+- [ ] Refinamento das análises e interpretações finais
 - [ ] Organização dos gráficos e tabelas
-- [ ] Publicação da interface web via GitHub Pages
 - [ ] Documentação da metodologia e dos resultados
 
-## Como executar o processamento dos dados
+## Como executar o projeto
 
-Instale as dependências do projeto:
+Instale as dependências:
 
 `pip install -r requirements.txt`
 
-Execute o script de processamento:
+Execute o processamento dos dados:
 
 `python src/process_data.py`
 
-O script lê os arquivos brutos em `data/raw/` e gera os arquivos tratados em `data/processed/`.
+Gere os gráficos interativos:
+
+`python src/generate_charts.py`
+
+O primeiro script lê os arquivos brutos em `data/raw/` e gera os arquivos tratados em `data/processed/`.
+
+O segundo script utiliza os datasets tratados para gerar os gráficos HTML em `outputs/charts/`.
 
 ## Dados
 

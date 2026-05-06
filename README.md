@@ -52,9 +52,11 @@ Este projeto trabalha com dados da Pesquisa Nacional da Cesta Básica de Aliment
 
 ## Status atual
 
-O projeto está em processo de reorganização técnica.
+O projeto está na versão 1.0, publicada como uma primeira versão funcional de portfólio.
 
-### Concluído
+A V1 consolida a reorganização técnica do trabalho acadêmico original, incluindo tratamento dos dados, geração de gráficos, análise exploratória, documentação inicial e publicação da interface web via GitHub Pages.
+
+### Concluído na V1
 
 - [x] Recuperação das bases brutas do DIEESE
 - [x] Organização dos arquivos brutos em `data/raw/`
@@ -63,14 +65,24 @@ O projeto está em processo de reorganização técnica.
 - [x] Registro das dependências em `requirements.txt`
 - [x] Criação do script de geração de gráficos em `src/generate_charts.py`
 - [x] Refatoração inicial do notebook de análise
+- [x] Geração de gráficos interativos com Plotly
 - [x] Criação da interface web inicial
 - [x] Publicação da interface web via GitHub Pages
+- [x] Atualização da documentação principal do projeto
 
-### Em andamento
+### Melhorias futuras
 
-- [ ] Refinamento das análises e interpretações finais
-- [ ] Organização dos gráficos e tabelas
-- [ ] Documentação da metodologia e dos resultados
+- [ ] Refinar as análises e interpretações finais
+- [ ] Ampliar a documentação metodológica
+- [ ] Incluir mais capitais e regiões brasileiras
+- [ ] Criar comparações por região
+- [ ] Separar o CSS em arquivo próprio
+- [ ] Melhorar a responsividade mobile da interface
+- [ ] Adicionar cards dinâmicos com indicadores calculados automaticamente
+- [ ] Criar filtros interativos na interface web
+- [ ] Automatizar a atualização dos dados
+- [ ] Melhorar a acessibilidade da interface
+- [ ] Gerar imagens estáticas dos gráficos para preview no README
 
 ## Como executar o projeto
 

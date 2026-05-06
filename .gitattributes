@@ -1,0 +1,2 @@
+﻿# Ignore generated Plotly chart exports in GitHub language statistics
+outputs/charts/*.html linguist-generated

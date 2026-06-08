@@ -6,53 +6,137 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/Dashboard-GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)
 
-Análise exploratória da evolução do preço da cesta básica e das horas de trabalho necessárias para sua aquisição em capitais do Sudeste brasileiro, com dados da pesquisa nacional do DIEESE.
+Projeto de análise exploratória de dados sobre a evolução do preço da cesta básica e das horas de trabalho necessárias para sua aquisição em capitais da região Sudeste do Brasil.
 
-🔗 **[Ver dashboard publicado](https://enzo-going.github.io/analise-cesta-basica-brasil/)**
+## Acesso ao projeto
 
----
+A interface web inicial do projeto está disponível em:
+
+https://enzo-going.github.io/analise-cesta-basica-brasil/
+
+
+O objetivo é reorganizar um trabalho acadêmico em uma estrutura mais próxima de um projeto técnico de portfólio, com dados, código, documentação, análise exploratória e interface web.
+
+## Visão geral
+
+Este projeto trabalha com dados da Pesquisa Nacional da Cesta Básica de Alimentos, do DIEESE, analisando:
+
+- preço histórico da cesta básica;
+- tempo de trabalho necessário para sua aquisição;
+- comparação entre capitais do Sudeste;
+- variações em períodos econômicos relevantes;
+- apresentação dos resultados em uma interface web acessível.
 
 ## Cidades analisadas
 
-São Paulo · Rio de Janeiro · Belo Horizonte · Vitória
+- São Paulo
+- Rio de Janeiro
+- Belo Horizonte
+- Vitória
 
----
+## Tecnologias
 
-## O que o projeto investiga
+- Python
+- Pandas
+- Plotly
+- Jupyter Notebook / Google Colab
+- HTML
+- Bootstrap
+- GitHub Pages
 
-- Evolução histórica do preço da cesta básica por cidade
-- Horas de trabalho necessárias para aquisição (salário mínimo como referência)
-- Comparativo entre capitais ao longo do tempo
-- Tendências e sazonalidade nos dados DIEESE
+## Estrutura do projeto
 
----
+- `data/raw/` — dados brutos extraídos do DIEESE
+- `data/processed/` — dados tratados e padronizados
+- `notebooks/` — notebooks de análise exploratória
+- `src/` — scripts Python de processamento e geração de gráficos
+- `outputs/charts/` — gráficos gerados
+- `outputs/tables/` — tabelas exportadas
+- `web/` — interface web do projeto
+- `docs/` — artigo e documentação acadêmica
+- `requirements.txt` — dependências necessárias para execução do projeto
 
-## Estrutura
+## Status atual
 
-```
-├── data/
-│   ├── raw/            # Arquivos brutos do DIEESE
-│   └── processed/      # Dados tratados
-├── notebooks/          # Análise exploratória
-├── src/                # Scripts de processamento e geração de gráficos
-└── output/
-    ├── charts/         # Gráficos exportados
-    └── tables/         # Tabelas geradas
-```
+O projeto está na versão 1.0, publicada como uma primeira versão funcional de portfólio.
 
----
+A V1 consolida a reorganização técnica do trabalho acadêmico original, incluindo tratamento dos dados, geração de gráficos, análise exploratória, documentação inicial e publicação da interface web via GitHub Pages.
 
-## Como executar
+### Concluído na V1
 
-```bash
-git clone https://github.com/enzo-going/analise-cesta-basica-brasil.git
-cd analise-cesta-basica-brasil
-pip install -r requirements.txt
-jupyter notebook notebooks/
-```
+- [x] Recuperação das bases brutas do DIEESE
+- [x] Organização dos arquivos brutos em `data/raw/`
+- [x] Criação do pipeline de processamento em Python
+- [x] Geração dos datasets tratados em `data/processed/`
+- [x] Registro das dependências em `requirements.txt`
+- [x] Criação do script de geração de gráficos em `src/generate_charts.py`
+- [x] Refatoração inicial do notebook de análise
+- [x] Geração de gráficos interativos com Plotly
+- [x] Criação da interface web inicial
+- [x] Publicação da interface web via GitHub Pages
+- [x] Atualização da documentação principal do projeto
 
----
+### Melhorias futuras
 
-## Origem
+- [ ] Refinar as análises e interpretações finais
+- [ ] Ampliar a documentação metodológica
+- [ ] Incluir mais capitais e regiões brasileiras
+- [ ] Criar comparações por região
+- [ ] Separar o CSS em arquivo próprio
+- [ ] Melhorar a responsividade mobile da interface
+- [ ] Adicionar cards dinâmicos com indicadores calculados automaticamente
+- [ ] Criar filtros interativos na interface web
+- [ ] Automatizar a atualização dos dados
+- [ ] Melhorar a acessibilidade da interface
+- [ ] Gerar imagens estáticas dos gráficos para preview no README
 
-Projeto originado de pesquisa acadêmica, reestruturado como portfólio técnico reproduzível com pipeline de dados documentado e interface web publicada.
+## Como executar o projeto
+
+Instale as dependências:
+
+`pip install -r requirements.txt`
+
+Execute o processamento dos dados:
+
+`python src/process_data.py`
+
+Gere os gráficos interativos:
+
+`python src/generate_charts.py`
+
+O primeiro script lê os arquivos brutos em `data/raw/` e gera os arquivos tratados em `data/processed/`.
+
+O segundo script utiliza os datasets tratados para gerar os gráficos HTML em `outputs/charts/`.
+
+## Dados
+
+Os dados brutos foram extraídos da base pública da Pesquisa Nacional da Cesta Básica de Alimentos, do DIEESE.
+
+A etapa atual do projeto utiliza arquivos separados por cidade e métrica, que foram padronizados em dois datasets principais:
+
+- `data/processed/horas_trabalho.csv`
+- `data/processed/preco_cesta.csv`
+
+Durante o tratamento, linhas de rodapé e observações textuais da exportação original foram removidas. Foi preservado um valor ausente real identificado em `05-2021` para Belo Horizonte.
+
+## Contexto acadêmico
+
+Este projeto foi desenvolvido originalmente como parte de uma Pesquisa Curricular de Graduação, envolvendo análise de dados, Interação Humano-Computador, acessibilidade digital e publicação de informações em interface web.
+
+A versão atual busca transformar o material original em um repositório mais organizado, reprodutível e adequado para apresentação profissional.
+
+## Próximos passos
+
+1. Refatorar o notebook de análise para usar os arquivos tratados
+2. Gerar gráficos a partir dos datasets padronizados
+3. Integrar os resultados à interface web
+4. Publicar a interface via GitHub Pages
+5. Documentar os principais resultados e limitações dos dados
+
+## Autor
+
+**Enzo Liutkus Going**
+
+## Observação
+
+Este repositório ainda está em desenvolvimento. A proposta é evoluir o material acadêmico original para um projeto técnico com melhor organização, reprodutibilidade e apresentação.

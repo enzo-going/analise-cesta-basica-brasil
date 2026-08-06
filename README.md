@@ -1,5 +1,7 @@
 # Análise da Cesta Básica no Brasil
 
+[![pipeline](https://github.com/enzo-going/analise-cesta-basica-brasil/actions/workflows/pipeline.yml/badge.svg)](https://github.com/enzo-going/analise-cesta-basica-brasil/actions/workflows/pipeline.yml)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)

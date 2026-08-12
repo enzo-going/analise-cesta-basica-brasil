@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Configuracao local de ferramentas de desenvolvimento
+AGENTS.md
+.mcp.json

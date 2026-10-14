@@ -85,7 +85,7 @@ A V1 consolida a reorganização técnica do trabalho acadêmico original, inclu
 - [ ] Incluir mais capitais e regiões brasileiras
 - [ ] Criar comparações por região
 - [ ] Separar o CSS em arquivo próprio
-- [ ] Melhorar a responsividade mobile da interface
+- [x] Melhorar a responsividade mobile da interface (os gráficos ajustam legenda e título em tela estreita)
 - [ ] Adicionar cards dinâmicos com indicadores calculados automaticamente
 - [ ] Criar filtros interativos na interface web
 - [ ] Automatizar a atualização dos dados
@@ -127,18 +127,6 @@ Este projeto foi desenvolvido originalmente como parte de uma Pesquisa Curricula
 
 A versão atual busca transformar o material original em um repositório mais organizado, reprodutível e adequado para apresentação profissional.
 
-## Próximos passos
-
-1. Refatorar o notebook de análise para usar os arquivos tratados
-2. Gerar gráficos a partir dos datasets padronizados
-3. Integrar os resultados à interface web
-4. Publicar a interface via GitHub Pages
-5. Documentar os principais resultados e limitações dos dados
-
 ## Autor
 
 **Enzo Liutkus Going**
-
-## Observação
-
-Este repositório ainda está em desenvolvimento. A proposta é evoluir o material acadêmico original para um projeto técnico com melhor organização, reprodutibilidade e apresentação.

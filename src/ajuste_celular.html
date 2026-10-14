@@ -1,0 +1,32 @@
+<script>
+// Tela estreita: legenda embaixo, título em duas linhas e margens menores.
+// Sem isso, no celular a legenda espremia o gráfico e o título saía cortado.
+(function () {
+  var gd = document.querySelector('.plotly-graph-div');
+  if (!gd || !window.Plotly) return;
+  var original = null;
+  function ajustar() {
+    var estreita = window.innerWidth < 700;
+    if (estreita && !original) {
+      var titulo = gd.layout.title.text || '';
+      var meio = titulo.lastIndexOf(' ', Math.floor(titulo.length / 2));
+      original = {
+        'title.text': titulo, 'title.font.size': (gd.layout.title.font || {}).size || null,
+        'legend.orientation': 'v', 'legend.x': null, 'legend.y': null, 'legend.yanchor': null,
+        'margin.l': null, 'margin.r': null
+      };
+      window.Plotly.relayout(gd, {
+        'title.text': meio > 0 ? titulo.slice(0, meio) + '<br>' + titulo.slice(meio + 1) : titulo,
+        'title.font.size': 14,
+        'legend.orientation': 'h', 'legend.x': 0, 'legend.y': -0.18, 'legend.yanchor': 'top',
+        'margin.l': 50, 'margin.r': 10
+      });
+    } else if (!estreita && original) {
+      window.Plotly.relayout(gd, original);
+      original = null;
+    }
+  }
+  ajustar();
+  window.addEventListener('resize', ajustar);
+})();
+</script>

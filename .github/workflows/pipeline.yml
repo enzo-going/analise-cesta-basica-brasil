@@ -26,6 +26,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Lint (so regras de erro, ver ruff.toml)
+        run: |
+          pip install ruff
+          ruff check .
+
       - name: Reprocessa os dados brutos
         run: python src/process_data.py
 

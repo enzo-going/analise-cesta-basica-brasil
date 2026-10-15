@@ -7,6 +7,10 @@ on:
     branches: [main]
   workflow_dispatch:
 
+# Só leitura para o GITHUB_TOKEN: nenhum job aqui precisa escrever no repositório.
+permissions:
+  contents: read
+
 jobs:
   reproduz:
     runs-on: ubuntu-latest

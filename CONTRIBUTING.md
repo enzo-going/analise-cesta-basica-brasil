@@ -10,9 +10,11 @@ pip install -r requirements.txt
 ruff check .
 python src/process_data.py
 git diff --exit-code -- data/processed
+python src/generate_charts.py
+git diff --exit-code -- outputs/charts
 ```
 
-O último comando é a checagem de reprodutibilidade: os CSVs de `data/processed`
-são versionados e precisam sair idênticos do reprocessamento dos dados brutos.
-Se a mudança altera esses números de propósito, faça commit dos CSVs gerados no
-mesmo PR.
+Os dois `git diff` são a checagem de reprodutibilidade: os CSVs de
+`data/processed` e os gráficos de `outputs/charts` são versionados e precisam
+sair idênticos da geração. Se a mudança altera números ou gráficos de propósito,
+faça commit dos arquivos gerados no mesmo PR.

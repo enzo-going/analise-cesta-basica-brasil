@@ -1,5 +1,8 @@
 pandas
 openpyxl
 xlrd
-plotly
+# Versao que gerou os graficos em outputs/charts; o CI confere que a geracao
+# bate com eles. Trocar de versao muda o HTML publicado: regere os graficos no
+# mesmo PR (o plotly 7 tambem acrescenta um botao que envia o grafico ao Plotly Cloud).
+plotly==6.7.0
 notebook

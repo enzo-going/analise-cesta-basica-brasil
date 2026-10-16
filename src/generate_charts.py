@@ -94,8 +94,11 @@ def save_chart(fig, path):
 
     O HTML do Plotly não declara viewport: sem ele o celular desenha a página
     numa tela virtual de 980 px e encolhe o gráfico e a legenda.
+
+    O id da div vem do nome do arquivo: por padrão o Plotly sorteia um UUID a
+    cada execução, e o HTML nunca saía igual ao versionado.
     """
-    html = fig.to_html(full_html=True, include_plotlyjs=True)
+    html = fig.to_html(full_html=True, include_plotlyjs=True, div_id=path.stem)
     if CHARSET not in html:
         raise RuntimeError("Cabeçalho do HTML do Plotly mudou; confira onde entra o viewport.")
     html = html.replace(CHARSET, CHARSET + VIEWPORT, 1).replace("</body>", AJUSTE_CELULAR + "</body>", 1)

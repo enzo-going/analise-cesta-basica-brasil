@@ -40,3 +40,9 @@ jobs:
 
       - name: Confere se os CSVs versionados batem com o reprocessamento
         run: git diff --exit-code -- data/processed
+
+      - name: Regera os graficos
+        run: python src/generate_charts.py
+
+      - name: Confere se os graficos versionados batem com a geracao
+        run: git diff --exit-code -- outputs/charts
